@@ -1,0 +1,145 @@
+---
+ecli: "ECLI:NL:RBARN:2004:AP4233"
+court: "Rechtbank Arnhem"
+court_code: "RBARN"
+docket: "110221"
+decided: "2004-05-12"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2004:AP4233"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBARN:2004:AP4233 Rechtbank Arnhem , 12-05-2004 / 110221
+
+## Inhoudsindicatie
+
+Huurkoop?
+
+De rechtbank is van oordeel dat de overeenkomst tussen partijen niet als een overeenkomst van koop en verkoop op afbetaling en dus niet als een huurkoopovereenkomst kan worden gekwalificeerd.
+
+## Uitspraak
+
+Rechtbank Arnhem
+
+Sector civiel recht
+
+Zaak-/rolnummer:	110221 / HA ZA 04-332
+
+Datum vonnis:		12 mei 2004
+
+Vonnis
+
+in de zaak van
+
+de naamloze vennootschap
+
+DEXIA BANK NEDERLAND N.V.,
+
+gevestigd te Amsterdam,
+
+eiseres,
+
+procureur mr. N.L.J.M. Rijssenbeek,
+
+tegen
+
+X,
+
+wonende te A,
+
+gedaagde,
+
+procureur mr. A.G. Ouwejan.
+
+In dit vonnis zullen partijen Dexia en X worden genoemd.
+
+1. Het verloop van de procedure
+
+Na het uitbrengen van de dagvaarding zijn de volgende processtukken gewisseld:
+
+*	een conclusie van antwoord; deze houdt tevens een incidentele vordering in, hoewel zulks niet is op te maken uit de benaming in de kop van de conclusie;
+
+*	een conclusie van antwoord in het incident tot verwijzing alsmede in het verzoek tot aanhouding.
+
+Ten slotte is vonnis bepaald.
+
+2. Het geschil
+
+2.1 Dexia vordert -samengevat en zakelijk weergegeven- dat de rechtbank X zal veroordelen tot betaling van een bedrag van € 7.756,87 vermeerderd met rente en kosten.
+
+Aan deze vordering legt Dexia ten grondslag dat zij met X een overeenkomst heeft gesloten ten behoeve van haar product WinstVerDriedubbelaar onder contractnummer 74405183, dat die overeenkomst door het verstrijken van de overeengekomen looptijd is geëindigd en dat zij in verband daarmede een eindafrekening heeft opgesteld en verzonden ten bedrage van € 6.740,27. X weigert tot betaling van dat bedrag over te gaan. De contractuele rente daarover bedraagt van 22 april 2003 tot en met 21 augustus 2003 € 227,63 en de buitengerechtelijke incassokosten bedragen € 788,97 inclusief BTW.
+
+2.2 X voert gemotiveerd verweer.
+
+2.3 Voor alle weren vordert X dat de zaak wordt verwezen naar de sector kanton van deze rechtbank. Daartoe voert X aan dat de onderhavige overeenkomst dient te worden gekwalificeerd als een huurkoopovereenkomst. Geschillen omtrent huurkoopovereenkomsten behoren tot de competentie van de sector kanton.
+
+Voorts vordert hij dat de procedure zal worden aangehouden. Daaraan legt hij ten grondslag dat bij de rechtbank Amsterdam een procedure aanhangig is onder rolnummer 2003/0142 tussen de Stichting Leaseverlies en de Consumentenbond tegen Dexia en dat de uitkomst van die procedure van belang is, zo begrijpt de rechtbank het standpunt van X, voor de onderhavige procedure.
+
+2.4 Dexia voert in het incident gemotiveerd verweer. Daarop zal de rechtbank, voor zover van belang, onder de beoordeling ingaan.
+
+3. De beoordeling
+
+in de incidenten
+
+3.1 Voor de kwalificatie van een overeenkomst als huurkoopovereenkomst is vereist dat sprake is van koop en verkoop op afbetaling. Dexia betwist dat de overeenkomst tussen partijen als een overeenkomst van koop en verkoop op afbetaling gekwalificeerd kan worden. De overeenkomst tussen Dexia en X is dus geen huurkoopovereenkomst, aldus Dexia. Met betrekking tot dit verweer overweegt de rechtbank het volgende.
+
+3.2 Artikel 7A:1576 lid 1 BW geeft de definitie van een overeenkomst van koop en verkoop op afbetaling: “Koop en verkoop op afbetaling is de koop en verkoop, waarbij partijen overeenkomen dat de koopprijs wordt betaald in termijnen, waarvan twee of meer verschijnen, nadat de verkochte zaak aan de koper is afgeleverd”.
+
+Uit dat artikel volgt dat een overeenkomst van koop en verkoop op afbetaling strekt tot eigendomsoverdracht. Het uitgangspunt bij overeenkomsten als de onderhavige is echter niet dat de aandelen in eigendom van de lessee overgaan, maar dat deze aan het einde van de looptijd worden verkocht aan een derde, dat daarbij koerswinst wordt gemaakt doordat een hogere verkoop- dan aankoopprijs wordt gerealiseerd en dat Dexia vervolgens met haar cliënt afrekent. Dit uitgangspunt komt ook tot uitdrukking in de brochure, de overeenkomst en de toepasselijke voorwaarden die zijn overgelegd. Volgens Dexia kiezen haar cliënten vrijwel altijd voor verkoop of verlenging van de leaseovereenkomst, en niet voor daadwerkelijke levering van de aandelen aan hen. Ook in dit geval zijn de aandelen volgens de eindafrekening verkocht en is van eigendomsoverdracht dus geen sprake geweest.
+
+Daartegenover legt artikel 5 van de overeenkomst, dat luidt: “Zodra lessee al datgene aan Legio-Lease heeft betaald wat hij haar krachtens deze lease-overeenkomst en de daarbij behorende Bijzondere Voorwaarden Effecten Lease verschuldigd is of zal worden, is lessee automatisch en van rechtswege eigenaar van de waarden geworden” ook in samenhang met die bijzondere voorwaarden, onvoldoende gewicht in de schaal, mede gezien het feit dat ook in dit geval, naar moet worden aangenomen, het feitelijke uitgangspunt van partijen vanaf het begin is geweest dat de waarden zouden worden verkocht en daadwerkelijke eigendomsoverdracht niet heeft plaatsgevonden.
+
+3.3 Op grond van het bovenstaande is de rechtbank van oordeel dat de overeenkomst tussen partijen niet als een overeenkomst van koop en verkoop op afbetaling en dus niet als een huurkoopovereenkomst kan worden gekwalificeerd. Het verweer van Dexia is derhalve gegrond. Hetgeen Dexia voorts nog bij wege van verweer in het incident heeft aangevoerd, behoeft dan ook geen bespreking.
+
+3.4 De rechtbank verstaat de vordering tot aanhouding van de onderhavige procedure als een incidentele vordering tot het treffen van een voorlopige voorziening als bedoeld in artikel 223 Rv. De rechtbank overweegt als volgt. De mogelijkheid tot het treffen van een voorlopige voorziening staat open in die gevallen waarin een partij belang heeft bij een dergelijke voorziening en een beslissing in de hoofdzaak niet kan worden afgewacht. Uitgangspunt is derhalve dat de procedure in de hoofdzaak voortgaat. Met Dexia is de rechtbank van oordeel dat niet bij wege van voorlopige voorziening kan worden beslist dat -juist tegengesteld aan dat uitgangspunt en in strijd met de strekking van voornoemd artikel- de procedure in de hoofdzaak zal worden aangehouden.
+
+3.5 De rechtbank zal op grond van het bovenstaande de incidentele vorderingen afwijzen met veroordeling van X in de kosten van de incidenten.
+
+in de hoofdzaak
+
+3.6 Er zal een comparitie van partijen worden belegd om inlichtingen over de zaak te vragen en om te onderzoeken of de partijen het op een of meer punten met elkaar eens kunnen worden. Daarbij kan de mogelijkheid van doorverwijzing naar een mediator aan de orde komen. Voor de comparitie is twee uur uitgetrokken.
+
+3.7 De partijen wordt verzocht de stukken waarop zij tijdens de comparitie een beroep willen doen, uiterlijk twee weken tevoren in fotokopie aan de andere partij en aan de rechtbank toe te zenden.
+
+3.8 Ter bevordering van een voortvarende afwikkeling van de procedure moeten de partijen erop voorbereid zijn dat de rechtbank een mondeling tussenvonnis, bijvoorbeeld tot een bewijsopdracht of deskundigenonderzoek, kan wijzen overeenkomstig art. 232, tweede lid, aanhef en onder a, Rv.
+
+3.9 Ter comparitie kan aan de orde komen wie de partijen eventueel als deskundige(n) benoemd willen zien.
+
+3.10 Hoger beroep van dit vonnis staat slechts open tegelijk met dat van het eindvonnis (art. 337, tweede lid, Rv.). Iedere verdere beslissing zal worden aangehouden.
+
+De beslissing
+
+De rechtbank:
+
+in het incident
+
+verklaart zich bevoegd van de hoofdzaak kennis te nemen en wijst de incidentele vorderingen af,
+
+veroordeelt X in de kosten van het incident, tot heden aan de zijde van Dexia begroot op € 315,--,
+
+verklaart dit vonnis tot zover uitvoerbaar bij voorraad,
+
+in de hoofdzaak
+
+bepaalt dat de partijen, vergezeld van hun advocaten, voor de rechtbank (mr. O. Nijhuis) zullen verschijnen in het Paleis van Justitie te Arnhem aan de Walburgstraat 2-4 om inlichtingen over de zaak te geven en te laten onderzoeken of de partijen het op een of meer punten met elkaar eens kunnen worden, op een door de rechtbank vast te stellen datum en tijd (in beginsel op een woensdag),
+
+verwijst de zaak naar de tweede rolzitting na de dag waarop dit vonnis is uitgesproken, voor het opgeven van de verhinderdagen van de partijen en hun advocaten in de maanden juni 2004 tot en met september 2004, waarna dag en uur van de comparitie zullen worden bepaald,
+
+bepaalt dat bij gebreke van de gevraagde opgave(n) de rechtbank het tijdstip van de comparitie zelfstandig zal bepalen,
+
+bepaalt dat na de vaststelling van het tijdstip van de comparitie dit in beginsel niet zal worden gewijzigd,
+
+bepaalt dat X dan in persoon aanwezig zal zijn en dat Dexia dan vertegenwoordigd zal zijn door iemand die van de zaak op de hoogte is en hetzij rechtens hetzij op grond van een bijzondere schriftelijke volmacht bevoegd is haar te vertegenwoordigen,
+
+verzoekt de tijdige toezending van de stukken zoals onder 3.7 bedoeld,
+
+verstaat dat hoger beroep van dit vonnis alleen mogelijk is tegelijk met dat van het eindvonnis,
+
+houdt iedere verdere beslissing aan.
+
+Dit vonnis is gewezen door mr. O. Nijhuis en uitgesproken in het openbaar op 12 mei 2004.
+
+de griffier	de rechter
