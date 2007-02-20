@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2007:AZ9254"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Onderwijs Totaal 2008/179"]
 cites_law: ["netherlands/national/acts/wet-op-de-expertisecentra/art-002.md", "netherlands/national/acts/wet-op-de-expertisecentra/art-004.md"]
 ---
 
