@@ -24,13 +24,13 @@ RECHTBANK ZUTPHEN
 
 Sector Kanton – Locatie Zutphen
 
-Zaaknummer		: 352704 WM 08-39
+Zaaknummer : 352704 WM 08-39
 
-CJIB-nummers		: 116341770, 116340651, 116561735, 116561697, 116460751,
+CJIB-nummers : [nummer], [nummer], [nummer], [nummer], [nummer],
 
-116562175, 116559734, 116664612, 116663346, 116663253
+[nummer], [nummer], [nummer], [nummer], [nummer]
 
-116629753, 116628208.
+[nummer], [nummer].
 
 Uitspraak inzake Wet Administratiefrechtelijke Handhaving Verkeersvoorschriften
 
