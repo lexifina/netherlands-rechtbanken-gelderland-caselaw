@@ -1,0 +1,301 @@
+---
+ecli: "ECLI:NL:RBARN:2010:BO1405"
+court: "Rechtbank Arnhem"
+court_code: "RBARN"
+docket: "05/701772-10"
+decided: "2010-10-22"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2010:BO1405"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBARN:2010:BO1405 Rechtbank Arnhem , 22-10-2010 / 05/701772-10
+
+## Inhoudsindicatie
+
+De rechtbank Arnhem heeft op 22 oktober 2010 twee mannen veroordeeld tot een gevangenisstraf voor de duur van 30 maanden waarvan 6 maanden voorwaardelijk voor openlijk geweldplegen (welke gerangschikt kan worden onder "zinloos geweld") en het vervolgens in de woning beroven met geweld van één van de slachtoffers van het openlijk geweld.
+
+Daarnaast heeft de rechtbank bij één van de verdachten de duur van de voorwaardelijke invrijheidstelling, 237 dagen gevangenisstraf, herroepen nu deze verdachte binnen de proeftijd van die voorwaardelijke invrijheidstelling zich opnieuw had schuldig gemaakt aan het plegen van strafbare feiten.
+
+## Uitspraak
+
+RECHTBANK ARNHEM
+
+Sector strafrecht
+
+Meervoudige kamer
+
+PROMIS II
+
+Parketnummer	: 05/701772-10
+
+Data zittingen	: 13 augustus 2010 en 8 oktober 2010
+
+Datum uitspraak	: 22 oktober 2010
+
+Tegenspraak
+
+In de zaak van
+
+de officier van justitie in het arrondissement Arnhem
+
+tegen:
+
+naam		: [verdachte],
+
+geboren op	: [geboortedatum] te [geboorteplaats],
+
+adres		: [adres],
+
+plaats		: [woonplaats],
+
+thans gedetineerd in PI Arnhem - De Berg, Arnhem Noord, Wilhelminastraat 16 te Arnhem.
+
+Raadsvrouw	: mr. B. Willemsen, advocaat te Nijmegen.
+
+1.	De inhoud van de tenlastelegging
+
+Aan verdachte is, na een door de rechtbank toegewezen vordering wijziging tenlastelegging, tenlastegelegd dat:
+
+1.
+
+hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek met een ander of anderen, op of aan de openbare weg, Muldershof, in elk geval op of aan een openbare weg, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer1] en/of [slachtoffer2], welk geweld bestond uit het meermalen schoppen en/of trappen en/of slaan en/of stompen en/of geven van een of meer kopsto(o)t(en);
+
+althans, indien het vorenstaande onder 1 niet tot een veroordeling leidt:
+
+hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk mishandelend een of meer perso(o)n(en) (te weten [slachtoffer1] en/of [slachtoffer2]) meermalen heeft geschopt en/of getrapt en/of geslagen en/of gestompt en/of een of meer kopsto(o)t(en) heeft gegeven, waardoor voornoemde [slachtoffer1] en/of [slachtoffer2] letsel heeft/hebben bekomen en/of pijn heeft/hebben
+
+ondervonden.
+
+2.
+
+hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toeëigening heeft weggenomen een laptop en/of een oplader, in elk geval enig goed, geheel of ten dele toebehorende aan [slachtoffer1], in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die laptop en/of oplader onder
+
+zijn/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming te weten door het vernielen/forceren van de/een ruit (van de toegangsdeur) van het appartement en/of welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [slachtoffer1] voornoemd, gepleegd met het oogmerk om die diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte tezamen en in vereniging met een ander of anderen, althans alleen, die [slachtoffer1] voornoemd meerdere malen heeft geslagen en/of de volgende woorden heeft toegevoegd: "Als je aangifte doet, vermoorden we jou", althans woorden van gelijk dreigende aard en/of strekking;
+
+althans, indien het vorenstaande onder 2 niet tot een veroordeling leidt:
+
+a. hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toeëigening in/uit een woning (gelegen [adres]) heeft weggenomen een laptop en/of een oplader, in elk geval enig goed, geheel of ten dele toebehorende aan [slachtoffer1], in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn
+
+mededader(s) zich de toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of de/het weg te nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming (verbreken, althans forceren van de ruit van de toegangsdeur en/of
+
+(vervolgens) de deur openen);
+
+b. hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk mishandelend een persoon (te weten [slachtoffer1]) meermalen heeft geslagen en/of gestompt, waardoor voornoemde [slachtoffer1] letsel heeft bekomen en/of pijn heeft ondervonden;
+
+c. hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander of anderen, althans alleen, [slachtoffer1] heeft bedreigd met enig misdrijf tegen het leven gericht, althans met zware mishandeling, immers heeft/hebben verdachte en/of (een of meer van) zijn mededader(s) opzettelijk dreigend die [slachtoffer1] de volgende woorden toegevoegd:
+
+Als je aangifte doet, vermoorden we jou", althans woorden van gelijk dreigende aard en/of strekking.
+
+2.	Het onderzoek ter terechtzitting
+
+De zaak is op 13 augustus 2010 en op 8 oktober 2010 ter terechtzitting onderzocht. Daarbij is verdachte verschenen. Verdachte is bijgestaan door mr. B. Willemsen, advocaat te Nijmegen.
+
+Als benadeelde partij heeft zich ter zake van de tenlastegelegde feiten schriftelijk in het geding gevoegd de heer [slachtoffer1].
+
+De officier van justitie, mr. R. van Raaij, heeft gerequireerd.
+
+Verdachte en zijn raadsvrouw hebben het woord ter verdediging gevoerd.
+
+3.	De beslissing inzake het bewijs
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten verbeterd. Verdachte is daardoor niet in zijn verdediging geschaad.
+
+Ten aanzien van feit 1 primair:
+
+Op grond van de bewijsmiddelen wordt het volgende, dat verder ook niet ter discussie staat, vastgesteld.
+
+In de nacht van 12 op 13 mei 2010 heeft verdachte te Groesbeek op de openbare weg, het Muldershof, geweld gepleegd tegen [slachtoffer1]. Dit geweld bestond uit het meermalen slaan en stompen van die [slachtoffer1] en het geven van meerdere kopstoten.
+
+Standpunt van de officier van justitie
+
+De officier van justitie acht op grond van de verklaringen van de aangevers [slachtoffer1] en [slachtoffer2], de verklaring van de getuige [getuige1] en de verklaring van de getuige [getuige2] het onder 1 primair tenlastegelegde wettig en overtuigend bewezen.
+
+Standpunt van de verdediging
+
+Door de verdediging is aangevoerd dat slechts de eenvoudige mishandeling jegens [slachtoffer1] bewezen kan worden. Verdachte heeft dit feit alleen gepleegd en niet tezamen en in vereniging met [medeverdachte]. Ook kan alleen het slaan bewezen worden. Aangever [slachtoffer1] zegt niets over een kopstoot. Alleen [getuige1] verklaart daarover. Het schoppen en trappen kan eveneens niet bewezen worden nu verdachte slechts verklaart aangever te hebben geslagen. De agressie van verdachte richtte zich uitsluitend op [slachtoffer1] en niet op zijn broer [slachtoffer2] omdat [slachtoffer1] een verhouding gehad had met de vriendin van verdachte.
+
+Beoordeling van de standpunten
+
+Op 12 mei 2010 omstreeks 23.10 uur kregen dienstdoende opsporingsambtenaren de melding om te gaan naar een parkeerplaats in de Muldershof te Groesbeek omdat een melder had gezien dat er op een parkeerplaats een vechtpartij gaande was tussen vier personen.  Voornoemde door de politie bedoelde melder, [getuige2], ziet dat vier mannen voor het appartementencomplex aan het Muldershof woorden met elkaar hadden. Uit het geschreeuw maakt hij op dat het mogelijk om een vrouw ging. Omdat de situatie dreigender werd is [getuige2] in zijn auto gaan zitten. Hij ziet dan dat er over en weer geslagen werd, dat één van de mannen op de grond viel en trappen kreeg van twee andere mannen. Hij zag dat een vrouw die op een afstand van ongeveer 40 meter had staan toekijken, wegliep.  [slachtoffer1] verklaart dat hij samen met zijn broer [slachtoffer2] richting de uitgang van het appartementencomplex liep. [slachtoffer1] heeft gezien dat de hem bekende [verdachte] (verdachte) ruzie had met [getuige1]. Zonder dat [slachtoffer1] iets deed werd hij door verdachte gewaarschuwd. Een vriend van verdachte, die men “de rat” noemt en waarvan de rechtbank uitgaat dat dit medeverdachte [medeverdachte] is nu deze niet ontkent deze bijnaam te hebben, probeerde [slachtoffer1] en zijn broer [slachtoffer2] binnen te houden. Desondanks liepen beide broers gewoon door. Daarop kwamen verdachte en medeverdachte [medeverdachte] achter hen aan waarbij [slachtoffer1] door beiden werd geslagen en geschopt terwijl hij op de grond lag. [slachtoffer1] ziet ook dat zijn broer [slachtoffer2] door beide mannen geslagen en geschopt werd.  [slachtoffer2] verklaart dat verdachte zijn broer [slachtoffer1] begon te slaan en dat er een andere man bij kwam. Op zeker moment kwamen beide mannen op [slachtoffer2] af. [slachtoffer2] ziet dat [slachtoffer1] flink geslagen en geschopt werd door beide mannen. Op het moment dat verdachte tegen de auto van [slachtoffer2] trapte en [slachtoffer2] op hem toeliep werd ook hij door verdachte geslagen. Hij kreeg een vuistslag tegen zijn onderkaak.
+
+De vriendin van verdachte, [getuige1] bevestigt de woordenwisseling die zij had met verdachte. Op het moment dat de broers [slachtoffer1 en 2] aan kwamen lopen zei verdachte meteen “bemoei je er niet mee.” De broers bemoeiden zich er helemaal niet mee hetgeen [slachtoffer1] ook zo zei tegen verdachte. Op dat moment ziet [getuige1] dat verdachte [slachtoffer1] twee rake kopstoten gaf en deze daarbij in zijn gezicht werd geraakt. Verdachte liep beide broers achterna naar buiten. Een vriend van verdachte, [medeverdachte] ([medeverdachte]), stond buiten te wachten. [getuige1] ziet even later dat deze [medeverdachte] [slachtoffer1] aan het slaan en schoppen was.
+
+Zij ziet dat [medeverdachte] [slachtoffer1] vast hield toen hij hem met zijn vuist meerdere malen in zijn gezicht sloeg. [slachtoffer1] viel op de grond waarna hij door [medeverdachte] geschopt werd. De broer van [slachtoffer1], [slachtoffer2], vroeg waarom dat allemaal nodig was. [getuige1] ziet dan dat de agressie van verdachte en [medeverdachte] zich op [slachtoffer2] richtte en beiden naar de auto van [slachtoffer2] liepen. [getuige1] vond het zinloos dat beide broers werden mishandeld.
+
+Conclusie
+
+Gelet op de inhoud van bovenstaande verklaringen, in onderlinge samenhang bezien, waarbij met name aan de verklaring van getuige [getuige2], als onafhankelijke getuige, bijzondere waarde wordt gehecht, acht de rechtbank wettig en overtuigend bewezen dat verdachte het primair tenlastegelegde heeft begaan, met dien verstande dat bewezen wordt geacht dat:
+
+hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek met een ander op of aan de openbare weg, Muldershof, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer1] en/of [slachtoffer2], welk geweld bestond uit het meermalen schoppen en/of trappen en/of slaan en/of stompen en/of geven van een of meer kopstoten.
+
+Ten aanzien van feit 2 primair:
+
+De rechtbank acht, zoals hieronder nader beschreven, het onder 2 primair tenlastegelegde wettig en overtuigend bewezen. In het onder 2 primair aan verdachte tenlastegelegde feit is sprake van een diefstal onder verzwarende omstandigheden gepleegd in de nacht van 12 op 13 mei 2010 te Groesbeek. Uit de tenlastelegging blijkt echter niet waar te Groesbeek die diefstal zich heeft voorgedaan nu de plaats van het misdrijf, [adres], niet in de tenlastelegging is opgenomen. Uit het dossier, maar ook uit het subsidiair onder 2 tenlastegelegde blijkt dat de diefstal zich heeft afgespeeld in de woning van de aangever [slachtoffer1], [adres]. Op grond van het voorgaande zal de rechtbank in de tweede regel na “toeëigening” inlezen “uit een woning gelegen aan de [adres].” Verdachte wordt door deze inlezing niet in zijn verdediging geschaad en de wijziging bevordert de leesbaarheid van de tenlastelegging.
+
+Op grond van de bewijsmiddelen wordt het volgende, dat verder ook niet ter discussie staat, vastgesteld.
+
+In de nacht van 12 op 13 mei 2010 is te Groesbeek uit een woning gelegen aan de [adres] weggenomen een laptop-computer en een oplader. Deze goederen behoorden toe aan [slachtoffer1]. De daders verschaften zich de toegang tot de woning door middel van braak, te weten het vernielen van een ruit van de toegangsdeur. De diefstal werd gevolgd door geweld en bedreiging met geweld tegen [slachtoffer1] voornoemd met de bedoeling de diefstal gemakkelijk te maken en het bezit van het gestolene te verzekeren. Het geweld bestond hierin dat [slachtoffer1] meermalen werd geslagen. De bedreiging bestond hierin dat [slachtoffer1] werd meegedeeld "Als je aangifte doet, vermoorden we jou", althans woorden van gelijk dreigende aard en/of strekking. Het feit werd gepleegd door twee verenigde personen.
+
+Standpunt van de officier van justitie
+
+De officier van justitie acht het primair tenlastegelegde wettig en overtuigend bewezen. Verdachte ontkent het feit, maar de verklaring die verdachte geeft vindt geen steun in de overige bewijsmiddelen. De verklaring van de aangever daarentegen vindt wel steun in overige verklaringen. Getuige [getuige3] verklaart dat hij in de woning van verdachte was, even alleen gelaten werd en even later een laptop, die van aangever bleek te zijn, overhandigd kreeg ter reparatie. Aangevoerd is dat sprake zou zijn van een enscenering, een opzetje van aangever, [getuige3] en de vriendin van verdachte, [getuige1]. Daar kan geen sprake van zijn nu de aangever, [getuige3] en [getuige1] vrijwel direct na het feit zijn gehoord. Kennelijk verkeerde verdachte onder zodanig invloed van alcoholhoudende drank dat hij zich het gebeuren niet meer kan herinneren.
+
+Standpunt van de verdediging
+
+In het dossier bevindt zich een tijdschema waaruit blijkt dat het vrijwel onmogelijk is dat verdachte zich aan dit feit schuldig heeft gemaakt aldus de verdediging. Het blijft mogelijk dat [getuige3] zelf de laptop heeft gestolen en onduidelijk is waarom [getuige3] in eerste instantie verklaart dat de laptop al in de woning van verdachte lag. Ander sporenbewijs is niet voorhanden. Verdachte moet van dit feit worden vrijgesproken, waarbij verdachte zelf aangeeft dat er sprake is van een enscenering door aangever [slachtoffer1], [getuige3] en getuige [getuige1] ten aanzien van feit 2
+
+Beoordeling van de standpunten
+
+Aangever [slachtoffer1] verklaart dat hij na te zijn mishandeld naar zijn woning was gegaan en op bed was gaan liggen. Na een minuut of tien hoorde hij dat de ruit uit de toegangsdeur kapot getrapt of geslagen werd en dat de deur geopend werd. Toen [slachtoffer1] vervolgens in de woonkamer kwam zag hij [verdachte], verdachte, en die andere man staan. Verdachte had de laptop van [slachtoffer1] in zijn handen en de andere man de oplader daarvan. Vervolgens werd [slachtoffer1] wederom door beide mannen geslagen. [slachtoffer1] hoorde beide mannen tegen hem zeggen: “als je aangifte doet, vermoorden we jou.”
+
+De broer van [slachtoffer1], [slachtoffer2], ziet ene [getuige3], de bovenbuurman van [slachtoffer1] uit de richting van verdachte’s woning komen lopen met een laptop in een plastic tas onder zijn arm om, kennelijk, naar zijn eigen woning te gaan.  De vriendin van verdachte, [getuige1], verklaart dat zij ongeveer 15 minuten na de eerder plaatsgehad hebbende vechtpartij een harde klap hoorde. Ook hoorde zij boven haar gestommel en hoorde zij [slachtoffer1] schreeuwen. Vervolgens hoorde zij de deur van de portiek dichtvallen. Zij dacht toen al dat dat [verdachte] en [medeverdachte] moeten zijn geweest.  [getuige1] hoort het gestommel boven haar. Dat moet volgens haar de eerste verdieping zijn waar [slachtoffer1] woont. Toen zij haar deur wilde sluiten ziet zij haar bovenbuurman [getuige3], die op de tweede verdieping woont, door de toegangsdeur naar binnen komen.
+
+Indien de stelling van de raadsvrouw, dat [getuige3] mogelijk zelf de laptop zou hebben gestolen, juist zou zijn volgt hij wel een heel merkwaardige route aangezien verdachte om in zijn woning te komen ingang 1 van het complex moet nemen en [getuige3] ingang 2. Naar het oordeel van de rechtbank wordt hiermee aannemelijk dat [getuige3] vanuit de woning van verdachte, ingang 1, naar zijn eigen woning, ingang 2, onderweg was op het moment dat hij door [slachtoffer2] en [getuige1] wordt gezien.
+
+Getuige [getuige3] legt inderdaad in eerste instantie een afwijkende verklaring af. Vrijwel direct na de diefstal wordt de laptop bij [getuige3] door een verbalisant opgehaald waarbij [getuige3] aangaf deze van verdachte en [medeverdachte] te hebben gekregen.  Nadat [getuige3] nadere vragen worden gesteld omtrent de wijze van verkrijgen van de laptop verklaart hij dat hij na de ruzie buiten door verdachte gevraagd werd met hem mee te willen lopen naar zijn woning. Toen [getuige3] in de woning van verdachte zat zijn verdachte en [medeverdachte] vertrokken. Na ongeveer 15 minuten kwamen zij terug. Vervolgens krijgt [getuige3] van verdachte de laptop met het verzoek die te repareren. Op een vraag waarom [getuige3] in zijn eerste verklaring spreekt over het krijgen van de laptop na twee tot drie minuten in de woning van verdachte te zijn geweest, zegt [getuige3] dat hij dat niet meer precies weet omdat hij geen tijd bij zich had.
+
+Verbalisanten constateren bij het betreden van de woning van aangever nog dat twee ruiten van de voordeur van de woning [adres] te Groesbeek vernield waren en er glas in de hal op de grond lag.
+
+Gesteld wordt dat mogelijk sprake zou zijn geweest van een enscenering om verdachte en [medeverdachte] de schuld van het feit in de schoenen te schuiven. Daartoe wordt onder meer verwezen naar een tijdslijn waaruit zou blijken dat verdachte dit feit niet gepleegd kan hebben.
+
+Zoals hiervoor opgemerkt verklaart [getuige3] vrijwel direct na de diefstal de laptop van verdachte en [medeverdachte] te hebben ontvangen.  Ook aangever [slachtoffer1] verklaart direct na de inbraak aan politieambtenaren dat verdachte en [medeverdachte] de daders van de inbraak zijn.  [getuige3] blijft, voor wat betreft het verkrijgen van die laptop, bij die direct ten overstaan van verbalisanten afgelegde verklaring.  [getuige1], de vriendin van verdachte, verklaart dat zij ongeveer 15 minuten na de vechtpartij buiten, in de woning van [slachtoffer1] gestommel hoort en [slachtoffer1] hoort schreeuwen. Dit verklaart [getuige1] op 13 mei 2010 te 10.29 uur.   Wanneer, zoals gesteld, van een enscenering sprake zou zijn geweest zouden aangever [slachtoffer1] en [getuige3] dus in de zeer korte tijd gelegen tussen het voorval en het arriveren van de politie een en ander hebben moeten afspreken. Daartoe is geen enkele steun te vinden in het dossier.
+
+Conclusie
+
+Gelet op het voorgaande acht de rechtank wettig en overtuigend bewezen dat verdachte het tenlastegelegde heeft begaan, met dien verstande dat bewezen wordt geacht dat:
+
+hij in de nacht van 12 mei 2010 op 13 mei 2010 te Groesbeek tezamen en in vereniging met een ander met het oogmerk van wederrechtelijke toeëigening uit een woning gelegen aan de [adres] heeft weggenomen een laptop en een oplader, toebehorende aan [slachtoffer1], waarbij verdachte en zijn mededader zich de toegang tot de plaats van het misdrijf hebben verschaft door middel van braak, te weten door het vernielen van een ruit van de toegangsdeur) van het appartement en welke diefstal werd gevolgd van geweld en bedreiging met geweld tegen die [slachtoffer1] voornoemd, gepleegd met het oogmerk om die diefstal  gemakkelijk te maken en om bij betrapping op heterdaad het bezit van het gestolene te verzekeren, welk geweld en welke bedreiging met geweld hierin bestonden dat verdachte tezamen en in vereniging met een ander die [slachtoffer1] voornoemd meerdere malen heeft geslagen en/of de volgende woorden heeft toegevoegd: "Als je aangifte doet, vermoorden we jou".
+
+4.	De kwalificatie van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+Ten aanzien van feit 1 primair:
+
+Openlijk in vereniging geweld plegen met een ander tegen personen.
+
+Ten aanzien van feit 2 primair:
+
+Diefstal, gevolgd van geweld en bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal gemakkelijk te maken en bij betrapping op heterdaad het bezit van het gestolene te verzekeren, terwijl het feit wordt gepleegd door twee of meer verenigde personen en de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak.
+
+De feiten zijn strafbaar.
+
+5.	De strafbaarheid van verdachte
+
+Niet is gebleken van feiten of omstandigheden die de strafbaarheid van verdachte geheel uitsluiten.
+
+6.	De motivering van de sanctie(s)
+
+Bij de beslissing over de straf heeft de rechtbank rekening gehouden met:
+
+-	de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan;
+
+-	de persoon en de persoonlijke omstandigheden van verdachte, waarbij onder meer is gelet op:
+
+•	de justitiële documentatie betreffende verdachte, gedateerd 13 september 2010;
+
+•	een beknopt reclasseringsadvies van Reclassering Nederland, gedateerd 18 mei 2010, betreffende verdachte;
+
+•	een reclasseringsadvies van Reclassering Nederland, gedateerd 6 juli 2010, betreffende verdachte.
+
+De strafmaat
+
+Het standpunt van de officier van justitie
+
+De officier van justitie eist dat verdachte wordt veroordeeld tot een gevangenisstraf voor de duur van 30 maanden waarvan 6 maanden voorwaardelijk met een proeftijd voor de duur van 2 jaar met aftrek, overeenkomstig artikel 27 van het Wetboek van Strafrecht. Als bijzondere voorwaarde vordert de officier van justitie toezicht van de reclassering zoals in het reclasseringsrapport staat omschreven.
+
+Voor wat betreft de duur van de op te leggen gevangenisstraf wijst de officier van justitie op de documentatie van verdachte alsmede de omstandigheid dat het betrokken raken bij een openlijke geweldpleging zoals bewezen uitermate naar is voor de slachtoffers. Wanneer dan vervolgens een van de slachtoffers van de openlijke geweldpleging korte tijd later in zijn eigen woning overvallen wordt en daarbij weer wordt mishandeld is een straf zoals geëist passend en geboden.
+
+Het standpunt van de verdediging
+
+De verdediging is van mening dat slechts de eenvoudige mishandeling kan worden bewezen en verdachte voor dat feit al vanaf 13 mei 2010 in voorlopige hechtenis verblijft. Ook indien tot een volledige bewezenverklaring geconcludeerd wordt acht de verdediging de eis van de officier van justitie buitenproportioneel.
+
+Beoordeling van de standpunten
+
+Uit het algemeen documentatieregister van verdachte blijkt dat hij al meermalen is veroordeeld voor het plegen van vermogensdelicten en tevens al eerder is veroordeeld terzake een openlijke geweldpleging. Het opleggen van een onvoorwaardelijke vrijheidsstraf c.q. werkstraf is kennelijk niet voldoende om verdachte te weerhouden van het plegen van dit soort delicten.
+
+Daarnaast heeft verdachte, gelet op de feiten zoals omschreven in de bewezenverklaring, volstrekt zinloos geweld gebruikt tegen de broers [slachtoffer1]. Enige aanleiding om geweld tegen die broers te gebruiken was er niet. Dit wordt ook bevestigd door de vriendin van verdachte. Verdachte had voorafgaand aan de feiten veel alcohol gedronken. Kennelijk heeft verdachte zich, na alcoholgebruik, in onvoldoende mate in de hand.
+
+Het uitoefenen van zinloos geweld op de broers [slachtoffer1] was kennelijk voor verdachte nog niet genoeg. Nadat [slachtoffer1] [slachtoffer1] zich in zijn woning had teruggetrokken besluiten verdachte en zijn mededader [medeverdachte], om [slachtoffer1] [slachtoffer1] in zijn woning te overvallen. Na het forceren van de voordeur en het wegnemen van een laptop en oplader gaan zij wederom de confrontatie met [slachtoffer1] [slachtoffer1] aan door hem te slaan en te bedreigen.
+
+De rechtbank is van oordeel dat een onvoorwaardelijke gevangenisstraf van langere duur thans de enige passende en geboden straf is.
+
+6a.	De beoordeling van de civiele vordering, alsmede de gevorderde oplegging van de schadevergoedingsmaatregel
+
+De benadeelde partij heeft overeenkomstig het bepaalde in artikel 51b van het Wetboek van Strafvordering opgave gedaan van de inhoud van de vordering, strekkende tot vergoeding van geleden schade.
+
+De benadeelde partij de heer [slachtoffer1] vordert een bedrag van € 528,12 waarvan € 500,- bestaat uit immateriële schade.
+
+Het standpunt van de officier van justitie
+
+De officier van justitie verzoekt de rechtbank de vordering van de benadeelde partij integraal toe te wijzen. De vordering is naar het oordeel van de officier van justitie in voldoende mate onderbouwd. Voorts vordert de officier van justitie de oplegging van de schadevergoedingsmaatregel, subsidiair 20 dagen hechtenis.
+
+Het standpunt van de verdediging
+
+De verdediging voert aan dat het gevorderde bedrag hoger is dan het toegewezen bedrag van de zaak waarnaar de benadeelde partij verwijst. Tevens is de vordering van toepassing op het tweede tenlastegelegde feit terwijl verdachte, volgens zijn raadsvrouw, dient te worden vrijgesproken van dit feit.
+
+Beoordeling van de standpunten
+
+De vordering van € 28,12 ter zake van materiele schade is niet betwist door de verdediging en komt de rechtbank gegrond voor. De rechtbank zal dit deel van de vordering dan ook toewijzen.
+
+De rechtbank acht voldoende bewezen dat de benadeelde partij [slachtoffer1] door hetgeen hem is aangedaan immateriële schade heeft geleden en dat hij uit dien hoofde terecht aanspraak maakt op vergoeding van die schade. Gezien de verwijzing bij de vordering naar de uitspraak van de rechtbank Amsterdam d.d. 9 december 2002, onder parketnummer 051827-03, is de rechtbank van mening dat het gevorderde bedrag van € 500, - op zijn plaats is zodat zij dit bedrag zal toewijzen aan de benadeelde partij.
+
+Daarnaast zal de rechtbank de gevorderde schadevergoedingsmaatregel toewijzen.
+
+7.	De toegepaste wettelijke bepalingen
+
+De beslissing is gegrond op de artikelen 10, 14a, 14b, 14c, 14d, 27, 36f, 57, 141, 310 en 312 van het Wetboek van Strafrecht.
+
+8.	De beslissing
+
+De rechtbank, rechtdoende:
+
+Verklaart bewezen dat verdachte het tenlastegelegde, zoals vermeld onder punt 3, heeft begaan.
+
+Verklaart niet bewezen hetgeen verdachte meer of anders is tenlastegelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij.
+
+Verstaat dat het aldus bewezenverklaarde oplevert de strafbare feiten zoals vermeld onder punt 4.
+
+Verklaart verdachte hiervoor strafbaar.
+
+Veroordeelt verdachte wegens het bewezenverklaarde tot
+
+Een gevangenisstraf voor de duur van 30 (dertig) maanden.
+
+Bepaalt dat van deze gevangenisstraf 6 (zes) maanden niet ten uitvoer zullen worden gelegd, tenzij de rechter later anders mocht gelasten.
+
+De tenuitvoerlegging kan worden gelast indien de veroordeelde zich voor het einde van de proeftijd van 2 (zegge twee) jaren heeft schuldig gemaakt aan een strafbaar feit dan wel navolgende bijzondere voorwaarden niet is nagekomen:
+
+1.	Veroordeelde dient zich gedurende de proeftijd te gedragen naar de voorschriften en aanwijzingen die hem door of namens de (stichting) Reclassering Nederland zullen worden gegeven, voor zover en voor zolang dat door de Reclassering nodig wordt bevonden.
+
+2.	Veroordeelde dient zich te houden aan de meldingsplicht. Hij moet zich melden bij justitiële verslavingszorg op het volgende adres: Tarweweg 20, 6534 AM te Nijmegen. Hierna moet hij zich gedurende door justitiële verslavingszorg bepaalde perioden blijven melden zo frequent als door de justitiële verslavingszorg nodig wordt geacht.
+
+3.	Veroordeelde dient zich, al dan niet ambulant, te laten behandelen voor de persoonlijkheidsstoornis en agressieregulatie problematiek door de forensisch psychiatrische polikliniek Kairos (of een gelijkwaardige instelling) en voor zijn alcoholverslaving door de justitiële verslavingszorg.
+
+4.	De veroordeelde wordt, zolang de Reclassering het nodig acht, verboden om zich in de buurt van de Muldershof in Groesbeek te bevinden.
+
+Geeft opdracht aan Reclassering Nederland om aan veroordeelde bij de naleving van voornoemde voorwaarden hulp en steun te verlenen.
+
+Beveelt overeenkomstig het bepaalde in artikel 27 van het Wetboek van Strafrecht dat de tijd, door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht, geheel in mindering zal worden gebracht.
+
+De beslissing op de vordering van de benadeelde partij R. Peters.
+
+Wijst de vordering van de benadeelde partij toe.
+
+- 	Veroordeelt de veroordeelde - met dien verstande dat indien en voor zover E.M. [medeverdachte] betaalt ook veroordeelde daardoor tegenover de heer [slachtoffer1] zal zijn gekweten - tegen kwijting aan de heer [slachtoffer1], wonende te [adres], te betalen € 528,12 (vijfhonderdachtentwintig euro en twaalf centen).
+
+- 	Veroordeelt de veroordeelde tevens in de kosten door de benadeelde partij gemaakt, tot op heden vooralsnog begroot op nihil en in de kosten ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken.
+
+Maatregel van schadevergoeding ad € 528,12, subsidiair 10 dagen hechtenis.
+
+- 	Legt op aan veroordeelde de verplichting aan de Staat ten behoeve van het slachtoffer de heer [slachtoffer1], wonende te [adres], te betalen € 528,12 (vijfhonderdachtentwintig euro en twaalf centen), bij gebreke van volledige betaling en volledig verhaal te vervangen door hechtenis voor de duur van 10 (tien) dagen, met dien verstande dat de toepassing van de vervangende hechtenis de hiervoor opgelegde verplichting niet opheft.
+
+-	Bepaalt daarbij dat voldoening van de ene betalingsverplichting de andere doet vervallen.
+
+Aldus gewezen door:
+
+mrs. A.M. van Gorp (voorzitter), W. Bruins en H.T. Wagenaar, rechters, in tegenwoordigheid van R. van Dijk en mr. L. Ruessink, griffiers, en uitgesproken ter openbare terechtzitting van deze rechtbank op 22 oktober 2010, zijnde mrs. Van Gorp en Wagenaar buiten staat dit vonnis mede te ondertekenen.
