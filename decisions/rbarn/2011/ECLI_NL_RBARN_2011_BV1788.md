@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2011:BV1788"
-published_in: ["Rechtspraak.nl", "Prg. 2012/70", "AR-Updates.nl 2012-0066"]
+published_in: ["Rechtspraak.nl", "Prg. 2012/70", "AR-Updates.nl 2012-0066", "VAAN-AR-Updates.nl 2012-0066"]
 ---
 
 # ECLI:NL:RBARN:2011:BV1788 Rechtbank Arnhem , 27-07-2011 / 752844 HA VERZ 11-1150
