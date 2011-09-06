@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2011:BS8900"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2296", "V-N 2011/55.2.2", "Belastingadvies 2011/21.4", "NTFR 2011/2362 met annotatie van dr. A. Rozendal"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2296", "V-N 2011/55.2.2", "Belastingadvies 2011/21.4", "NTFR 2011/2362 met annotatie van dr. A. Rozendal", "Viditax (FutD) 2011091402"]
 ---
 
 # ECLI:NL:RBARN:2011:BS8900 Rechtbank Arnhem , 06-09-2011 / AWB 10/1691, 10/1692, 10/1694, 10/1695 en 10/1696
