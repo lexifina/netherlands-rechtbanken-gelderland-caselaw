@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2011:BU6609"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/5", "Belastingadvies 2012/5.9", "V-N 2012/13.3.3", "FutD 2011-3161"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/5", "Belastingadvies 2012/5.9", "V-N 2012/13.3.3", "FutD 2011-3161", "Viditax (FutD) 2011122105"]
 ---
 
 # ECLI:NL:RBARN:2011:BU6609 Rechtbank Arnhem , 01-12-2011 / AWB 11/1606
