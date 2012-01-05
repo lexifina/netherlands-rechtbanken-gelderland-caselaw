@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBARN:2012:BU9896"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/96", "V-N 2012/15.2.3", "FutD 2012-0080"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/96", "V-N 2012/15.2.3", "FutD 2012-0080", "Viditax (FutD) 2012010503"]
 ---
 
 # ECLI:NL:RBARN:2012:BU9896 Rechtbank Arnhem , 05-01-2012 / AWB 10/4388
