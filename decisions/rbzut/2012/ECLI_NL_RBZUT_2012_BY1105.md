@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZUT:2012:BY1105"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/2572", "Belastingblad 2012/530", "FutD 2012-2694"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/2572", "Belastingblad 2012/530", "FutD 2012-2694", "Viditax (FutD) 2012102515"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2013:CA1816, Bekrachtiging/bevestiging"]]
 ---
 
