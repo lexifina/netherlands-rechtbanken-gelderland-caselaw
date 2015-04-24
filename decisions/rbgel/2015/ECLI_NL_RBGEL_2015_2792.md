@@ -1,0 +1,379 @@
+---
+ecli: "ECLI:NL:RBGEL:2015:2792"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "05/980634-13"
+decided: "2015-04-24"
+published: "2015-04-24"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2015:2792"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2015:2792 Rechtbank Gelderland , 24-04-2015 / 05/980634-13
+
+## Inhoudsindicatie
+
+Veroordeling terzake van illegale handel; voorhanden hebben van een forse hoeveelheid valse merkkleding, stroomstootwapens, pepersprays, vuurwapens, munitie, vuurwerk en hennep.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Team strafrecht
+
+Zittingsplaats Zutphen
+
+Parketnummer	: 05/980634-13
+
+Datum uitspraak	: 24 april 2015
+
+Tegenspraak
+
+vonnis van de meervoudige kamer
+
+in de zaak van
+
+de officier van justitie bij het Functioneel Parket
+
+tegen
+
+[verdachte],
+
+geboren op [geboortedatum] te [geboorteplaats], wonende te [adres], [woonplaats],
+
+raadsman	: B.J. Schadd, advocaat te Arnhem.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzitting
+
+van 10 april 2015.
+
+1
+De inhoud van de tenlastelegging
+
+Aan verdachte is ten laste gelegd dat:
+
+1. hij, verdachte, op of omstreeks 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk valse en/of vervalste en/of wederrechtelijk vervaardigde merken, te weten:
+
+- schoeisel van de/het merk(en) Ugg en/of Louis Vuitton en/of Burberry en/of Gucci; en/of
+
+- parfums van de/het merk(en) Versace en/of Armani en/of Chanel en/of Viktor&Rolf en/of Calvin Klein en/of Escada en/of Gucci; en/of
+
+- kleding van de/het merk(en) Burberry en/of Adidas en/of Ugg en/of Armani en/of Polo Ralph Lauren en/of Nickelson en/of Björn Borg en/of Gucci en/of Guess en/of Louis Vuitton en/of Chanel; en/of
+
+- tassen van de/het merk(en) Gucci en/of Burberry en/of Ugg en/of Prada en/of Chanel; en/of
+
+- horloges van de/het merk(en) Hublot en/of Rolex en/of Louis Vuitton en/of Chanel en/of Armani en/of Guess,
+
+in voorraad heeft gehad;
+
+2. hij, verdachte op of omstreeks 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een of meer anderen, althans alleen, negen, althans een of meer, wapen(s) van categorie II onder 5°, te weten (telkens) een voorwerp waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, voorhanden heeft gehad (bijlage AH-007);
+
+3. hij, verdachte op of omstreeks 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een of meer anderen, althans alleen, vier, althans een of meer, wapen(s) van categorie II onder 6°, te weten (telkens) voorwerp(en) bestemd voor het treffen van personen met (een) giftige en/of verstikkende en/of weerloosmakende en/of traanverwekkende stof(fen), voorhanden heeft gehad, te weten (een) (spuit)busje(s) pepperspray(bijlagen AH-007 en AH-008);
+
+4. hij, verdachte op of omstreeks 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een of meer anderen, althans alleen, een of meer (vuur)wapen(s) van categorie III, te weten:
+
+- een enkelloops hagelgeweer, merk Winchester, model 37a, kaliber 28 (bijlage AH-009); en/of
+
+- een gaspistool, merk Röhm, model Vektor CP1, kaliber 9mm (bijlage AH-010); en/of
+
+- een alarm-/startpistool, merk Röhm, model RG3, kaliber 6mm Flobert Platz (bijlage AH-011); en/of
+
+- een gaspistool, merk Blow, model F92, kaliber 9mm P.A.K. (bijlage AH-012); en/of
+
+munitie van categorie III, te weten:
+
+- 199, althans een of meer, patronen kaliber 9mm P.A.K. (bijlage AH010); en/of
+
+- 8, althans een of meer, hagelpatronen, merk Nouvelle Cartoucherie, kaliber 9mm randvuur
+
+(bijlage AH-013),
+
+voorhanden heeft gehad;
+
+5. hij, verdachte, op of omstreeks 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk aanwezig heeft gehad in een pand aan het [adres], 2.586 gram, in elk geval een handelshoeveelheid, hennep en/of delen daarvan, in elk geval een hoeveelheid van meer dan 30 gram van een materiaal bevattende hennep, zijnde hennep een middel als bedoeld in de bij de Opiumwet behorende lijst II;
+
+6. hij, verdachte, op of omstreeks 14 mei 2013 te Apeldoorn, al dan niet opzettelijk, professioneel vuurwerk, te weten:
+
+- 4, althans een of meer, vuurpijlen (artikelnaam Joker1, artikelnummer 4027);en/of
+
+- 5, althans een of meer, stuks knalvuurwerk (artikelnaam Super Cobra 2G),
+
+voorhanden heeft gehad, terwijl hij, verdachte, geen persoon met gespecialiseerde kennis als bedoeld in het Vuurwerkbesluit was;
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten verbeterd. Verdachte is daardoor niet in zijn verdediging geschaad.
+
+2.	Overwegingen ten aanzien van het bewijs
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de ten laste gelegde feiten wettig en overtuigend kunnen worden bewezen.
+
+Het standpunt van de verdediging
+
+Aangegeven is dat de verdediging direct voorafgaand aan de terechtzitting overleg heeft gehad met de officier van justitie. In dit overleg heeft de officier van justitie haar voorgenomen strafeis kenbaar gemaakt. De verdediging heeft aangegeven zich in die strafmaat te kunnen vinden. Gelet hierop heeft de verdediging zich ter terechtzitting gerefereerd aan het oordeel van de rechtbank.
+
+Beoordeling door de rechtbank
+
+Ten aanzien van alle feiten
+
+Verdachte woonde op 14 mei 2013 samen met zijn partner [medeverdachte] op het adres [adres] te Apeldoorn. Op die datum zijn in die woning diverse (hieronder nader gespecificeerde) goederen aangetroffen.
+
+De rechtbank gaat er in beginsel van uit dat indien partners samenwonen, ieder van hen de volledig vrije toegang tot de woning heeft. Daarnaast neemt de rechtbank aan, ook bij gebreke van een betwisting door verdachte(n) op dit punt, dat de aldaar aangetroffen goederen in beginsel aan hen beiden toebehoorden.
+
+Nu in de onderhavige zaak op het onderdeel medeplegen geen verweer is gevoerd, is de rechtbank van oordeel dat verdachte de hieronder genoemde goederen (met uitzondering van de goederen onder feit 5 genoemd) tezamen en in vereniging met [medeverdachte] voorhanden heeft gehad, voor zover zulks ten laste is gelegd.
+
+Ten aanzien van feit 1
+
+Op 14 mei 2013 zijn op diverse plaatsen in de woning van verdachte de volgende goederen aangetroffen:
+
+- schoeisel van de merken Ugg, Louis Vuitton, Burberry en Gucci;
+
+- parfums van de merken Versace, Armani, Chanel, Viktor&Rolf, Calvin Klein, Escada en Gucci;
+
+- kleding van de merken Burberry, Adidas, Ugg, Armani, Polo Ralph Lauren, Nickelson, Björn Borg, Gucci, Guess, Louis Vuitton en Chanel;
+
+- tassen van de merken Gucci, Burberry, Ugg, Prada en Chanel, en
+
+- horloges van de merken Hublot, Rolex, Louis Vuitton, Chanel, Armani en Guess.
+
+Namens een aantal bedrijven is aangifte gedaan van vervalsing van merken. Een controleur van React heeft vastgesteld dat de inbeslaggenomen goederen vervalsingen zijn van producten van de rechthebbenden, mede op grond van de inferieure kwaliteit van de gebruikte materialen, de onjuiste labels en de gebrekkige afwerking van de producten. [verdachte] heeft verklaard dat hij nep merkkleding in huis had. [medeverdachte] heeft desgevraagd verklaard dat de kleding, schoenen en parfum restanten van [betrokkene] zijn, daarbij kennelijk doelend op [betrokkene] tegen wie het onderzoek in eerste instantie was gericht.
+
+Gelet op hetgeen hiervoor is overwogen is de rechtbank van oordeel dat het onder feit 1 tenlastegelegde wettig en overtuigend kan worden bewezen verklaard.
+
+Ten aanzien van de feiten 2, 3 en 4
+
+Op 14 mei 2013 zijn op diverse plaatsen in de woning van verdachte en haar partner aangetroffen:
+
+vallend onder de categorie II onder 5° van de Wet wapens en munitie (WWM):
+
+- negen stroomstootwapens;
+
+vallend onder de categorie II onder 6° van de WWM:
+
+- vier (spuit)busjes pepperspray;
+
+vallend onder de categorie III van de WWM:
+
+- een enkelloops hagelgeweer, merk Winchester, model 37a, kaliber 28;
+
+- een gaspistool, merk Röhm, model Vektor CP1, kaliber 9mm;
+
+- een alarm-/startpistool, merk Röhm, model RG3, kaliber 6mm Flobert Platz, en
+
+- een gaspistool, merk Blow, model F92, kaliber 9mm P.A.K.;
+
+vallend onder munitie van categorie III:
+
+- 199 patronen kaliber 9mm P.A.K. en
+
+- 8, althans een of meer, hagelpatronen, merk Nouvelle Cartoucherie, kaliber 9mm randvuur.
+
+Gelet op hetgeen hiervoor is overwogen is de rechtbank van oordeel dat het onder de feiten 2, 3 en 4 tenlastegelegde wettig en overtuigend kan worden bewezen verklaard.
+
+Ten aanzien van feit 5
+
+Op 14 mei 2013 zijn op de zolder van de woning van verdachte tussen twee stellages in een blauwe sporttas vijf zakken gevuld met in totaal (netto) 2.420 gram hennep aangetroffen.
+
+Een dusdanige hoeveelheid hennep betreft naar het oordeel van de rechtbank een handelshoeveelheid.
+
+Verdachte heeft verklaard dat die sporttas met hennep niet van hem was, doch dat die tas hem door een ander in bewaring is gegeven, dat hij die tas heeft aangenomen en op zolder gelegd en dat zijn partner [medeverdachte] van niets wist.
+
+Gelet op hetgeen hiervoor is overwogen is de rechtbank van oordeel dat het onder feit 5 tenlastegelegde wettig en overtuigend kan worden bewezen verklaard.
+
+Ten aanzien van feit 6
+
+Op 14 mei 2013 zijn op de zolder van de woning van verdachte vier vuurpijlen (Joker 1) en in een kastje op de overloop van de eerste verdieping vijf stuks knalvuurwerk (Super Cobra 2G) aangetroffen. Dit vuurwerk is gekwalificeerd als professioneel vuurwerk.
+
+Gesteld noch gebleken is dat verdachte een persoon met gespecialiseerde kennis omtrent dit soort vuurwerk was.
+
+Gelet op hetgeen hiervoor is overwogen is de rechtbank van oordeel dat het onder feit 6 tenlastegelegde wettig en overtuigend kan worden bewezen verklaard.
+
+3
+Bewezenverklaring
+
+Naar het oordeel van de rechtbank is wettig en overtuigend bewezen dat de verdachte de tenlastegelegde feiten heeft begaan, te weten dat:
+
+1. hij, verdachte, op 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een ander opzettelijk valse en/of vervalste en/of wederrechtelijk vervaardigde merken, te weten:
+
+- schoeisel van de merken Ugg en Louis Vuitton en Burberry en Gucci; en
+
+- parfums van de merken Versace en Armani en Chanel en Viktor&Rolf en Calvin Klein en Escada en Gucci; en
+
+- kleding van de merken Burberry en Adidas en Ugg en Armani en Polo Ralph Lauren en Nickelson en Björn Borg en Gucci en Guess en Louis Vuitton en Chanel; en
+
+- tassen van de merken Gucci en Burberry en Ugg en Prada en Chanel; en
+
+- horloges van de merken Hublot en Rolex en Louis Vuitton en Chanel en Armani en Guess,
+
+in voorraad heeft gehad;
+
+2. hij, verdachte op 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een ander negen wapens van categorie II onder 5°, te weten telkens een voorwerp waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, voorhanden heeft gehad (bijlage AH-007);
+
+3. hij, verdachte op 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een ander vier wapens van categorie II onder 6°, te weten telkens voorwerpen bestemd voor het treffen van personen met (een) giftige en/of verstikkende en/of weerloosmakende en/of traanverwekkende stof(fen), voorhanden heeft gehad, te weten spuitbusjes pepperspray (bijlagen AH-007 en AH-008);
+
+4. hij, verdachte op 14 mei 2013 te Apeldoorn, tezamen en in vereniging met een ander een of meer (vuur)wapens van categorie III, te weten:
+
+- een enkelloops hagelgeweer, merk Winchester, model 37a, kaliber 28 (bijlage AH-009); en
+
+- een gaspistool, merk Röhm, model Vektor CP1, kaliber 9mm (bijlage AH-010); en
+
+- een alarm-/startpistool, merk Röhm, model RG3, kaliber 6mm Flobert Platz (bijlage AH-011); en
+
+- een gaspistool, merk Blow, model F92, kaliber 9mm P.A.K. (bijlage AH-012); en
+
+munitie van categorie III, te weten:
+
+- 199 patronen kaliber 9mm P.A.K. (bijlage AH010); en
+
+- 8 hagelpatronen, merk Nouvelle Cartoucherie, kaliber 9mm randvuur
+
+(bijlage AH-013),
+
+voorhanden heeft gehad;
+
+5. hij, verdachte, op 14 mei 2013 te Apeldoorn opzettelijk aanwezig heeft gehad in een pand aan het [adres], 2.420 gram, in elk geval een handelshoeveelheid, hennep zijnde hennep een middel als bedoeld in de bij de Opiumwet behorende lijst II;
+
+6. hij, verdachte, op 14 mei 2013 te Apeldoorn, opzettelijk, professioneel vuurwerk, te weten:
+
+- 4 vuurpijlen (artikelnaam Joker1, artikelnummer 4027); en
+
+- 5 stuks knalvuurwerk (artikelnaam Super Cobra 2G),
+
+voorhanden heeft gehad, terwijl hij, verdachte, geen persoon met gespecialiseerde kennis als bedoeld in het Vuurwerkbesluit was;
+
+Wat meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard, is niet bewezen. Verdachte moet daarvan worden vrijgesproken.
+
+4
+De kwalificatie van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+Ten aanzien van feit 1:
+
+Het medeplegen van het opzettelijk in voorraad hebben van valse, vervalste of wederrechtelijk vervaardigde merken.
+
+Ten aanzien van de feiten 2 en 3 telkens:
+
+Handelen in strijd met artikel 26, eerste lid, van de Wet wapens en munitie, terwijl het feit is begaan met betrekking tot een wapen van categorie II, meermalen gepleegd.
+
+Ten aanzien van feit 4
+
+Handelen in strijd met artikel 26, eerste lid, van de Wet wapens en munitie, terwijl het feit is begaan met betrekking tot een vuurwapen van categorie III, meermalen gepleegd.
+
+Ten aanzien van feit 5
+
+Opzettelijk handelen in strijd met een in artikel 3 onder C van de Opiumwet gegeven verbod.
+
+Ten aanzien van feit 6
+
+Overtreding van een voorschrift gesteld krachtens artikel 9.2.2.1 van de Wet milieubeheer, opzettelijk begaan.
+
+5
+De strafbaarheid van het feit
+
+De feiten zijn strafbaar.
+
+6
+De strafbaarheid van de verdachte
+
+Verdachte is strafbaar, nu geen omstandigheid is gebleken of aannemelijk geworden die de strafbaarheid van verdachte uitsluit.
+
+7
+Overwegingen ten aanzien van straf en/of maatregel
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft geëist dat verdachte ter zake van het tenlastegelegde zal worden veroordeeld tot een taakstraf voor de duur van 200 uren, te vervangen door 100 dagen hechtenis, en tot een voorwaardelijke gevangenisstraf voor de duur van drie maanden met een proeftijd van twee jaren.
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich gerefereerd aan het oordeel van de rechtbank.
+
+Beoordeling door de rechtbank
+
+De rechtbank heeft bij de bepaling van de op te leggen straf gelet op de aard en de ernst van hetgeen bewezen is verklaard, de omstandigheden waaronder dit is begaan, mede gelet op de persoon en de omstandigheden van de verdachte zoals van een en ander bij het onderzoek ter terechtzitting is gebleken, waarbij onder meer is gelet op het uittreksel uit het algemeen documentatieregister, gedateerd 11 februari 2015.
+
+Verdachte heeft zich schuldig gemaakt aan diverse misdrijven. Hij heeft een forse hoeveelheid valse merkkleding, stroomstootwapens, pepersprays, vuurwapens, munitie, vuurwerk en hennep voorhanden gehad. Hij had de valse merkkleding en de stroomstootwapens voorhanden om te verhandelen aan derden. Met het verhandelen van valse merkkleding, als ware het echte merkkleding, heeft verdachte schade aan de betreffende rechthebbenden toegebracht. Uit het dossier blijkt dat verdachte reeds lange tijd met deze illegale handel bezig was. Gelet op de grote hoeveelheid illegale goederen aangetroffen op diverse plaatsen in de woning ontstaat het beeld dat verdachtes (gezins-)leven in grote mate in het teken stond van deze illegale handel. Dit neemt de rechtbank verdachte zeer kwalijk. Door het verhandelen van genoemde stroomstootwapens en met het voorhanden hebben van de overige wapens, vuurwerk en hennep draagt verdachte bij aan de verboden handel in dergelijke goederen en daarmee aan gevoelens van onveiligheid en overlast in de samenleving.
+
+Het voorgaande rechtvaardigt in beginsel een onvoorwaardelijke gevangenisstraf. Echter, het ontbreken van eerdere veroordelingen en de omstandigheid dat na 13 mei 2013 geen nieuwe veroordelingen hebben plaatsgevonden, maken dat de rechtbank geen onvoorwaardelijke gevangenisstraf zal opleggen. De door de officier van justitie gevorderde straf doet naar het oordeel van de rechtbank echter onvoldoende recht aan de ernst van deze zaak. Daarbij komt dat, zeker in vergelijking met andere door het openbaar ministerie aangedragen zaken, geen sprake is van een oude zaak, zoals door de officier van justitie ter zitting is opgemerkt. De rechtbank komt in zoverre tot oplegging van een hogere straf.
+
+De rechtbank acht een straf zoals hierna op te leggen, passend en geboden.
+
+8
+De toegepaste wettelijke bepalingen
+
+De beslissing is gegrond op de artikelen:
+
+10, 14a, 14b, 14c, 22c, 22d, 27, 47, 57, 91 en 337 van het Wetboek van Strafrecht;
+
+2, 26 en 55 van de Wet wapens en munitie;
+
+3, 11 en 13 van de Opiumwet;
+
+1a, 2 en 6 van de Wet op de economische delicten;
+
+9.2.2.1 van de Wet milieubeheer en
+
+1.2.2 van het Vuurwerkbesluit.
+
+9
+De beslissing
+
+De rechtbank:
+
+	verklaart bewezen dat verdachte het tenlastegelegde, zoals vermeld onder punt 3, heeft begaan;
+
+	verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij;
+
+	verstaat dat het aldus bewezenverklaarde oplevert de strafbare feiten zoals vermeld onder punt 4;
+
+	verklaart verdachte hiervoor strafbaar;
+
+ veroordeelt verdachte wegens het bewezenverklaarde tot:een gevangenisstraf voor de duur van 6 (zes) maanden;
+
+ bepaalt dat deze gevangenisstraf niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten, wegens niet nakoming van de voorwaarde:- dat de veroordeelde zich voor het einde van de proeftijd, die op twee jaren wordt bepaald, niet zal schuldig maken aan een strafbaar feit;
+
+ veroordeelt verdacht voorts tot een taakstraf gedurende 240 (tweehonderdveertig uren), met bevel dat indien deze straf niet naar behoren wordt verricht vervangende hechtenis zal worden toegepast voor de duur van 120 (honderdtwintig) dagen;
+
+ beveelt dat voor de tijd die door de veroordeelde vóór de tenuitvoerlegging van de werkstraf in verzekering is doorgebracht, bij de uitvoering van die straf uren in mindering worden gebracht volgens de maatstaf dat per dag in verzekering doorgebracht 2 uur in mindering wordt gebracht.
+
+Dit vonnis is gewezen door mr. M.J. Ouweneel (voorzitter), mr. S. Kropman en mr. M.J.C. Pieterse, rechters, in tegenwoordigheid van mr. C. Aalders, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 24 april 2015.
+
+Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant] van de Belastingdienst/FIOD, opgemaakte proces-verbaal, dossiernummer 52169, gesloten op 25 juli 2013 en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.
+
+Proces-verbaal van verhoor verdachte [verdachte], p. 195.
+
+Bijlagen bij het aanvullend proces-verbaal met dossiernummer 52169 en code-nummer OPV-001, te weten: het proces-verbaal inventarisatie inbeslaggenomen goederen, genummerd AH-024, en bijlagen genummerd AH-024a, AH-024b en AH-024c.
+
+Bijlage bij het aanvullend proces-verbaal met dossiernummer 52169 en code-nummer OPV-001A, te weten: Aangifte/kenmerk SNB-REACT: 130704NL, genummerd AH-026-1, pagina 2.
+
+Proces-verbaal van verhoor verdachte [verdachte], p. 195.
+
+Proces-verbaal van bevindingen, p. 41 en 42.
+
+Proces-verbaal van bevindingen, p. 84 en proces‑verbaal van bevindingen, p. 89.
+
+Proces-verbaal van bevindingen, p. 84 en 85 en proces-verbaal van bevindingen, p. 89 en 90.
+
+Proces-verbaal van bevindingen, p. 35 en proces-verbaal WWM, p. 95.
+
+Proces-verbaal van bevindingen, p. 35 en proces-verbaal WWM, p. 104.
+
+Proces-verbaal van bevindingen, p. 34 en proces-verbaal WWM, p. 117-118.
+
+Proces-verbaal van bevindingen, p. 34 en proces-verbaal WWM, p. 124.
+
+Proces-verbaal van bevindingen, p. 34 en 35 en proces-verbaal WWM, p. 105.
+
+Proces-verbaal van bevindingen, p. 35 en proces-verbaal WWM, p. 132.
+
+Proces-verbaal van bevindingen, p. 32, proces-verbaal van doorzoeking, p. 44 en een bijlage bij het aanvullend proces-verbaal met dossiernummer 52169 en code-nummer OPV-001, te weten: een proces-verbaal Opiumwet, genummerd AH-030.
+
+Proces-verbaal van verhoor verdachte [verdachte], p. 199 en 204.
+
+Relaasproces-verbaal, p. 22 en proces-verbaal van bevindingen en overdracht, p. 33
+
+Bijlage bij het aanvullend proces-verbaal met dossiernummer 52169 en code-nummer OPV-001, te weten: een proces-verbaal van onderzoek aan inbeslaggenomen vuurwerk, genummerd AH-031, p. 2 en de daarbij behorende bijlagen genummerd AH-031B en AH-031C.
