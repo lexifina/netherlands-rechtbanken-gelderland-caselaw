@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2015:6881"
-published_in: ["Rechtspraak.nl", "NJF 2015/523", "RBP 2016/12", "JBPR 2016/29 met annotatie van Mr. P.M. Vos"]
+published_in: ["Rechtspraak.nl", "NJF 2015/523", "RBP 2016/12", "JBPr 2016/29 met annotatie van Mr. P.M. Vos"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-262.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-438a.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-475e.md"]
 ---
 
