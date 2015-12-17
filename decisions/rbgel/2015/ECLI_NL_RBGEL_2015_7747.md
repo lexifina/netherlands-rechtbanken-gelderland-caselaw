@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2015:7747"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2674", "FutD 2015-3056", "NTFR 2015/3260"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2674", "FutD 2015-3056", "Viditax (FutD) 2015121713"]
 ---
 
 # ECLI:NL:RBGEL:2015:7747 Rechtbank Gelderland , 17-12-2015 / AWB - 14 _ 2131
