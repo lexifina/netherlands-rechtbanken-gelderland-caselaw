@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2016:6126"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2474", "V-N 2017/7.24.6", "FutD 2016-2841", "NTFR 2016/2893", "NLF 2016/0685 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2474", "V-N 2017/7.24.6", "NLF 2016/0685", "FutD 2016-2841", "Viditax (FutD) 2016111707"]
 ---
 
 # ECLI:NL:RBGEL:2016:6126 Rechtbank Gelderland , 17-11-2016 / AWB - 16 _ 3215
