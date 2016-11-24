@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2016:6422"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2599", "V-N 2017/9.29.10", "FutD 2016-2985", "FutD 2016-2986", "NTFR 2016/3028"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2599", "V-N 2017/9.29.10", "FutD 2016-2985", "FutD 2016-2986", "Viditax (FutD) 2016112909", "Viditax (FutD) 2016112910"]
 ---
 
 # ECLI:NL:RBGEL:2016:6422 Rechtbank Gelderland , 24-11-2016 / AWB - 15 _ 820, 15 _ 821, 15 _ 822, 15 _ 823, 15 _ 824, 15 _ 826
