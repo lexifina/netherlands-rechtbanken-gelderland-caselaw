@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2017:610"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/306", "V-N 2017/19.2.1", "FutD 2017-0367 met annotatie van Fiscaal up to Date", "NTFR 2017/681 met annotatie van Mr. M.H.W.N. Lammers", "NLF 2017/0353 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/306", "V-N 2017/19.2.1", "NLF 2017/0353", "NTFR 2017/681 met annotatie van Mr. M.H.W.N. Lammers", "FutD 2017-0367", "Viditax (FutD) 2017020701"]
 ---
 
 # ECLI:NL:RBGEL:2017:610 Rechtbank Gelderland , 07-02-2017 / AWB - 16 _ 421
