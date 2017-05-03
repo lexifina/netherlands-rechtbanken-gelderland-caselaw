@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2017:2460"
-published_in: ["Rechtspraak.nl", "NLF 2017/1147 met annotatie van Rudolf Janssen", "V-N 2017/37.2.4", "V-N Vandaag 2017/1028", "FutD 2017-1104", "NTFR 2017/1266"]
+published_in: ["Rechtspraak.nl", "NLF 2017/1147 met annotatie van Rudolf Janssen", "V-N 2017/37.2.4", "V-N Vandaag 2017/1028", "FutD 2017-1104", "Viditax (FutD) 2017050401"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2018:5174, Bekrachtiging/bevestiging"]]
 ---
 
