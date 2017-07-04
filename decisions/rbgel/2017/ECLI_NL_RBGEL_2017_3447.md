@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2017:3447"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1615", "FutD 2017-1739", "NTFR 2017/2176 met annotatie van mr. N. ten Broek", "NLF 2017/1711 met annotatie van", "NLF 2017/1711 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1615", "NLF 2017/1711", "NLF 2017/1711", "NTFR 2017/2176 met annotatie van mr. N. ten Broek", "FutD 2017-1739", "Viditax (FutD) 2017070519"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2018:2703, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
