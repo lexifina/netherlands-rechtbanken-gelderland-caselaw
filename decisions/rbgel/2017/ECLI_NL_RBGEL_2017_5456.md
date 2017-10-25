@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2017:5456"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2554", "Viditax (FutD), 27-10-2017", "FutD 2017-2749 met annotatie van Fiscaal up to Date", "NTFR 2017/2768", "NLF 2017/2823 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2554", "NLF 2017/2823", "FutD 2017-2749", "Viditax (FutD) 2017102712"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2020:9541, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
