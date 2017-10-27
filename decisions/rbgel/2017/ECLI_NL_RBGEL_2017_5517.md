@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2017:5517"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/326", "V-N 2018/13.26.7", "Viditax (FutD), 07-02-2018", "FutD 2018-0420", "NTFR 2018/385", "NLF 2018/0436 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/326", "V-N 2018/13.26.7", "NLF 2018/0436", "FutD 2018-0420", "Viditax (FutD) 2018020703"]
 ---
 
 # ECLI:NL:RBGEL:2017:5517 Rechtbank Gelderland , 27-10-2017 / AWB - 17 _ 2502
