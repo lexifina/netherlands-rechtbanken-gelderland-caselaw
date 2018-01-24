@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:454"
-published_in: ["Rechtspraak.nl", "PJ 2018/81", "JPF 2018/86", "PFR-Updates.nl 2018-0039", "PR-Updates.nl PR-2018-0015"]
+published_in: ["Rechtspraak.nl", "PJ 2018/81", "JPF 2018/86", "PFR-Updates.nl 2018-0039", "PR-Updates.nl PR-2018-0015", "PR-Updates.nl 2018-0015"]
 ---
 
 # ECLI:NL:RBGEL:2018:454 Rechtbank Gelderland , 24-01-2018 / 321568
