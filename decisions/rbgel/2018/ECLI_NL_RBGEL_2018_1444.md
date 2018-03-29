@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:1444"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/704", "V-N 2018/35.5 met annotatie van Redactie", "NTFR 2018/888"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/704", "V-N 2018/35.5 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2018:1444 Rechtbank Gelderland , 29-03-2018 / AWB - 16 _ 6230
