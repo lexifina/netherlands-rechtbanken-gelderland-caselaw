@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:2440"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1326", "Viditax (FutD), 22-06-2018", "FutD 2018-1690", "V-N 2018/55.2.5", "NTFR 2018/1637", "NLF 2018/1396 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1326", "V-N 2018/55.2.5", "NLF 2018/1396", "FutD 2018-1690", "Viditax (FutD) 2018062213"]
 ---
 
 # ECLI:NL:RBGEL:2018:2440 Rechtbank Gelderland , 08-06-2018 / AWB - 17 _ 5497
