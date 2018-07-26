@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:3315"
-published_in: ["Rechtspraak.nl", "PJ 2018/145", "PR-Updates.nl PR-2018-0105"]
+published_in: ["Rechtspraak.nl", "PJ 2018/145", "PR-Updates.nl PR-2018-0105", "PR-Updates.nl 2018-0105"]
 ---
 
 # ECLI:NL:RBGEL:2018:3315 Rechtbank Gelderland , 26-07-2018 / AWB - 17 _ 5808
