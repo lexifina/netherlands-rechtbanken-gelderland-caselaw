@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:5007"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1055", "JAAN 2019/36 met annotatie van"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1055", "JAAN 2019/36 met annotatie van mr. S.J. Petiet"]
 ---
 
 # ECLI:NL:RBGEL:2018:5007 Rechtbank Gelderland , 14-09-2018 / C/05/340178/KG ZA 18-299
