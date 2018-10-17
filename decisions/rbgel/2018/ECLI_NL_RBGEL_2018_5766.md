@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:5766"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2019-0055", "PJ 2019/56", "PR-Updates.nl PR-2019-0028", "JERF Actueel 2019/63"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2019-0055", "PJ 2019/56", "PR-Updates.nl PR-2019-0028", "JERF Actueel 2019/63", "PR-Updates.nl 2019-0028"]
 ---
 
 # ECLI:NL:RBGEL:2018:5766 Rechtbank Gelderland , 17-10-2018 / NL18.9149
