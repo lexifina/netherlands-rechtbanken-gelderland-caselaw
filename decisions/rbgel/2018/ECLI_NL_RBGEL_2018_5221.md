@@ -33,7 +33,7 @@ uitspraak van de meervoudige kamer van
 in de zaak tussen
 
 [eiser] , te [woonplaats] , eiser
-(gemachtigde: mr. R. Huertas-Mulckhuyse),
+(gemachtigde: [gemachtigde] ),
 
 en
 
@@ -130,7 +130,7 @@ Zakelijk samenwerkingsverband
 
 8.1
 
-Uit het advies van het Bureau van 11 september 2015 blijkt dat [betrokkene] ten tijde van het bestreden besluit middellijk zeggenschap over de coffeeshop had, omdat hij via [bedrijf], dochter van [bedrijf] waarvan [betrokkene] enig bestuurder is, 70 % van de aandelen bezit. Verder heeft [betrokkene] het vruchtgebruik over de resterende aandelen die in handen zijn van eiser. Het vestigingspand was eigendom van [betrokkene] en hij verhuurde dit aan eiser. Deze feiten die in het advies van het Bureau zijn opgenomen, worden op zichzelf ook niet door eiser bestreden. Verweerder mag zijn besluit in beginsel op het advies van het Bureau baseren.
+Uit het advies van het Bureau van 11 september 2015 blijkt dat [betrokkene] ten tijde van het bestreden besluit middellijk zeggenschap over de coffeeshop had, omdat hij via [bedrijf] , dochter van [bedrijf] waarvan [betrokkene] enig bestuurder is, 70 % van de aandelen bezit. Verder heeft [betrokkene] het vruchtgebruik over de resterende aandelen die in handen zijn van eiser. Het vestigingspand was eigendom van [betrokkene] en hij verhuurde dit aan eiser. Deze feiten die in het advies van het Bureau zijn opgenomen, worden op zichzelf ook niet door eiser bestreden. Verweerder mag zijn besluit in beginsel op het advies van het Bureau baseren.
 
 Uit de in rechtsoverweging 2.3 aangehaalde brief van eiser van 6 augustus 2017 blijkt bovendien dat eiser een loonvordering heeft op [betrokkene] .
 
