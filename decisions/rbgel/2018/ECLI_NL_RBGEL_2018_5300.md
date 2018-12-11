@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:5300"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 17-12-2018", "V-N Vandaag 2018/2783", "FutD 2018-3369", "NTFR 2019/97", "NLF 2018/2679 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2783", "NLF 2018/2679", "FutD 2018-3369", "Viditax (FutD) 2018121701"]
 ---
 
 # ECLI:NL:RBGEL:2018:5300 Rechtbank Gelderland , 11-12-2018 / AWB - 18 _ 2974ev
