@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2018:5431"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 02-01-2019", "FutD 2019-0010", "V-N Vandaag 2019/12", "NLF 2019/0131 met annotatie van Gert-Jan de Ruiter", "NTFR 2019/480 met annotatie van mr. M. de Jonge", "V-N 2019/17.6 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/12", "NLF 2019/0131 met annotatie van drs. G.J.W. de Ruiter", "V-N 2019/17.6", "NTFR 2019/480 met annotatie van mr. M. de Jonge", "FutD 2019-0010", "Viditax (FutD) 2019010201"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2020:8011, Bekrachtiging/bevestiging"]]
 ---
 
