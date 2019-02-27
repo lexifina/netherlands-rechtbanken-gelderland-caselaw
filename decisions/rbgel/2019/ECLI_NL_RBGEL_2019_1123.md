@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:1123"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 26-03-2019", "V-N Vandaag 2019/704", "FutD 2019-0924", "Prg. 2019/146"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/704", "Prg. 2019/146", "FutD 2019-0924", "Viditax (FutD) 2019032606"]
 ---
 
 # ECLI:NL:RBGEL:2019:1123 Rechtbank Gelderland , 27-02-2019 / 281070 eindvonnis 27-2-2019
