@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:2525"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1208", "JAAN 2019/127 met annotatie van Brenders, E.J.M., Speksnijder, M.W."]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1208", "JAAN 2019/127 met annotatie van mr. E.J.M. Brenders, mr. M.W. Speksnijder"]
 ---
 
 # ECLI:NL:RBGEL:2019:2525 Rechtbank Gelderland , 11-04-2019 / C/05/349289 / KG ZA 19-49
