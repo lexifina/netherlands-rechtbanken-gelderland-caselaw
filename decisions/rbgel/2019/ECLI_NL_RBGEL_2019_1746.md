@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:1746"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 13-06-2019", "V-N Vandaag 2019/1375", "FutD 2019-1624", "NLF 2019/1508 met annotatie van Wendy Nent", "NTFR 2019/2009 met annotatie van mr. drs. A.J. Meijer", "V-N 2019/36.30.17"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1375", "NLF 2019/1508 met annotatie van Wendy Nent", "V-N 2019/36.30.17", "NTFR 2019/2009 met annotatie van mr. drs. A.J. Meijer", "FutD 2019-1624", "Viditax (FutD) 2019061305"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2021:4945, Bekrachtiging/bevestiging"]]
 ---
 
