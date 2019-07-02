@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:2909"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 08-07-2019", "V-N Vandaag 2019/1604", "FutD 2019-1868", "ERF-Updates.nl 2019-0154", "NLF 2019/2030 met annotatie van Sabine de Wijkerslooth-Lhoëst", "Belastingadvies 2019/19.5", "NTFR 2019/2469 met annotatie van S. Oosterbaan", "Vp-bulletin 2019/52 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "V-N 2019/54.7 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1604", "ERF-Updates.nl 2019-0154", "NLF 2019/2030 met annotatie van Sabine de Wijkerslooth-Lhoëst", "Belastingadvies 2019/19.5", "Vp-bulletin 2019/52 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "V-N 2019/54.7 met annotatie van Redactie", "NTFR 2019/2469 met annotatie van S. Oosterbaan MSc", "FutD 2019-1868", "Viditax (FutD) 2019070803"]
 ---
 
 # ECLI:NL:RBGEL:2019:2909 Rechtbank Gelderland , 02-07-2019 / AWB - 17 _ 3896 ev
