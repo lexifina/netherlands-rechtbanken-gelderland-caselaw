@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:3060"
-published_in: ["Rechtspraak.nl", "PJ 2019/126", "PR-Updates.nl PR-2019-0118"]
+published_in: ["Rechtspraak.nl", "PJ 2019/126", "PR-Updates.nl PR-2019-0118", "PR-Updates.nl 2019-0118"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2020:948, Meerdere afhandelingswijzen"]]
 ---
 
