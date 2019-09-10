@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:4099"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1053", "Viditax (FutD), 23-04-2020", "FutD 2020-1294", "NTFR 2020/1535 met annotatie van mr. A.H.W. Steijn", "V-N 2020/26.2.3", "NLF 2020/1089 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1053", "V-N 2020/26.2.3", "NLF 2020/1089", "NTFR 2020/1535 met annotatie van mr. A.H.W. Steijn", "FutD 2020-1294", "Viditax (FutD) 2020042320"]
 ---
 
 # ECLI:NL:RBGEL:2019:4099 Rechtbank Gelderland , 10-09-2019 / AWB - 18 _ 5961
