@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:5481"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 21-04-2020", "V-N Vandaag 2020/1055", "FutD 2020-1292", "V-N 2020/28.5 met annotatie van Redactie", "NTFR 2020/1940 met annotatie van mr. J. Nieuwenhuizen", "NLF 2020/1088 met annotatie van", "NLF 2020/1088 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1055", "V-N 2020/28.5 met annotatie van Redactie", "NLF 2020/1088", "NLF 2020/1088", "NTFR 2020/1940 met annotatie van mr. J. Nieuwenhuizen", "FutD 2020-1292", "Viditax (FutD) 2020042102"]
 ---
 
 # ECLI:NL:RBGEL:2019:5481 Rechtbank Gelderland , 29-11-2019 / AWB - 19 _ 2616
