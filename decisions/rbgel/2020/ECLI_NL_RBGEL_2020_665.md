@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:665"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0206", "PR-Updates.nl PR-2020-0043", "PJ 2020/53"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0206", "PR-Updates.nl PR-2020-0043", "PJ 2020/53", "VAAN-AR-Updates.nl 2020-0206", "PR-Updates.nl 2020-0043"]
 ---
 
 # ECLI:NL:RBGEL:2020:665 Rechtbank Gelderland , 05-02-2020 / 8145064
