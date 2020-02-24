@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:1177"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 31-03-2020", "V-N Vandaag 2020/808", "FutD 2020-1000 met annotatie van Fiscaal up to Date", "NLF 2020/0962 met annotatie van Tom Noë", "V-N 2020/31.2.4", "NTFR 2020/1917"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/808", "NLF 2020/0962 met annotatie van Tom Noë", "V-N 2020/31.2.4", "NTFR 2020/1917", "FutD 2020-1000", "Viditax (FutD) 2020033113"]
 ---
 
 # ECLI:NL:RBGEL:2020:1177 Rechtbank Gelderland , 24-02-2020 / AWB - 17 _ 6182
