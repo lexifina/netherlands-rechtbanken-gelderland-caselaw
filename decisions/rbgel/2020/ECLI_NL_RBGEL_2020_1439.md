@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:1439"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0282", "PR-Updates.nl PR-2020-0060"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0282", "PR-Updates.nl PR-2020-0060", "VAAN-AR-Updates.nl 2020-0282", "PR-Updates.nl 2020-0060"]
 ---
 
 # ECLI:NL:RBGEL:2020:1439 Rechtbank Gelderland , 28-02-2020 / C/05/360810 / HA RK 19-293
