@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:1608"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0331", "PR-Updates.nl PR-2020-0057", "PJ 2020/70"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0331", "PR-Updates.nl PR-2020-0057", "PJ 2020/70", "VAAN-AR-Updates.nl 2020-0331", "PR-Updates.nl 2020-0057"]
 ---
 
 # ECLI:NL:RBGEL:2020:1608 Rechtbank Gelderland , 13-03-2020 / 7360330 \ CV EXPL  18-4549
