@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:2191"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-04-2020", "V-N Vandaag 2020/1016", "FutD 2020-1260 met annotatie van Fiscaal up to Date", "V-N 2020/22.9 met annotatie van Redactie", "NLF 2020/1120 met annotatie van Raymond Adema", "Belastingadvies 2020/11.3", "NTFR 2020/1652 met annotatie van Mr. P.W. Hofman", "FP 2020-0044"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1016", "V-N 2020/22.9 met annotatie van Redactie", "NLF 2020/1120 met annotatie van Raymond Adema", "Belastingadvies 2020/11.3", "NTFR 2020/1652 met annotatie van Mr. P.W. Hofman", "FutD 2020-1260", "Viditax (FutD) 2020042001"]
 ---
 
 # ECLI:NL:RBGEL:2020:2191 Rechtbank Gelderland , 02-04-2020 / AWB - 19 _ 6463
