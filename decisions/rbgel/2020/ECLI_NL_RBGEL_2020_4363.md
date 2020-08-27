@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:4363"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2347", "Viditax (FutD), 06-10-2020", "FutD 2020-3000 met annotatie van Fiscaal up to Date", "V-N 2020/55.21.3", "NTFR 2021/623", "NLF 2020/2136 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2347", "V-N 2020/55.21.3", "NLF 2020/2136", "NTFR 2021/623", "FutD 2020-3000", "Viditax (FutD) 2020100603"]
 ---
 
 # ECLI:NL:RBGEL:2020:4363 Rechtbank Gelderland , 27-08-2020 / ARN 20/996 en 20/997
