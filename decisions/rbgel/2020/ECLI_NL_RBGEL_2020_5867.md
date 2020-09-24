@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:5867"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0195"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0195", "PR-Updates.nl 2020-0195"]
 ---
 
 # ECLI:NL:RBGEL:2020:5867 Rechtbank Gelderland , 24-09-2020 / C/05/374146 / KG ZA 20-277
