@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:5443"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/3206", "Viditax (FutD), 22-12-2020", "FutD 2021-0004 met annotatie van Fiscaal up to Date", "NTFR 2021/319 met annotatie van Dhr. M.W. Krijger", "V-N 2021/6.2.4", "Belastingadvies 2021/6.5", "NLF 2021/0249 met annotatie van Luc Arets"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/3206", "V-N 2021/6.2.4", "Belastingadvies 2021/6.5", "NLF 2021/0249 met annotatie van drs. L.M.J. Arets", "NTFR 2021/319 met annotatie van M.W. Krijger MB RB", "FutD 2021-0004", "Viditax (FutD) 2020122201"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2022:1960, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2020:5443 Rechtbank Gelderland , 30-09-2020 / AWB - 19 _ 106
