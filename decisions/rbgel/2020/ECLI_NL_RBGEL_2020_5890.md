@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:5890"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1323", "PR-Updates.nl PR-2020-0192", "Prg. 2021/8", "RAR 2021/31"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1323", "PR-Updates.nl PR-2020-0192", "Prg. 2021/8", "RAR 2021/31", "VAAN-AR-Updates.nl 2020-1323", "PR-Updates.nl 2020-0192"]
 ---
 
 # ECLI:NL:RBGEL:2020:5890 Rechtbank Gelderland , 04-11-2020 / 8274065
