@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:6505"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 06-01-2021", "V-N Vandaag 2021/52", "FutD 2021-0083", "V-N 2021/6.19.1", "NTFR 2021/595 met annotatie van R.S. Bekker", "Vp-bulletin 2021/10 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NLF 2021/0304 met annotatie van Joep Verbaarschot"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/52", "V-N 2021/6.19.1", "Vp-bulletin 2021/10 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NLF 2021/0304 met annotatie van Joep Verbaarschot", "NTFR 2021/595 met annotatie van R.S. Bekker", "FutD 2021-0083", "Viditax (FutD) 2021010601"]
 ---
 
 # ECLI:NL:RBGEL:2020:6505 Rechtbank Gelderland , 02-12-2020 / AWB - 19 _ 6815
