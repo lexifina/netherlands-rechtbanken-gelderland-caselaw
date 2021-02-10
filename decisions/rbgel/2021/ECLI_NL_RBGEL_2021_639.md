@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:639"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/542", "V-N 2021/17.1.3", "NLF 2021/0542 met annotatie van", "NTFR 2021/1240 met annotatie van MR. E. ALINK"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/542", "V-N 2021/17.1.3", "NLF 2021/0542", "NTFR 2021/1240 met annotatie van MR. E. ALINK", "FutD 2021-0479", "Viditax (FutD) 2021021201"]
 relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2021:1963"]]
 ---
 
