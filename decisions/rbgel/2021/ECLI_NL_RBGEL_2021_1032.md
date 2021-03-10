@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:1032"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0055"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0055", "PR-Updates.nl 2021-0055"]
 ---
 
 # ECLI:NL:RBGEL:2021:1032 Rechtbank Gelderland , 10-03-2021 / 8730820
