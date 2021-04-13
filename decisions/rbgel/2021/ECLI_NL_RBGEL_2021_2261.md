@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:2261"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0109"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0109", "PR-Updates.nl 2021-0109"]
 ---
 
 # ECLI:NL:RBGEL:2021:2261 Rechtbank Gelderland , 13-04-2021 / C/05/364006 / ES RK 19-669 en C/05/379989 / FA RK 20-4232
