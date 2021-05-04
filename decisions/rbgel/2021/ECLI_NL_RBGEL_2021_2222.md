@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:2222"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0018", "JR-Updates.nl 2021-0018"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0018", "JR-Updates.nl 2021-0018", "PFR-Updates.nl 2021-0018"]
 ---
 
 # ECLI:NL:RBGEL:2021:2222 Rechtbank Gelderland , 04-05-2021 / 05/272470-20
