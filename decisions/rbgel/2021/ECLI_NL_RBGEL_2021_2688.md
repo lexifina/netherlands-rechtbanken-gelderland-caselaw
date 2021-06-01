@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:2688"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1501", "NLF 2021/1411 met annotatie van Sara Verkaik", "V-N 2021/35.13 met annotatie van Redactie", "NTFR 2021/2427 met annotatie van dr. H.M. Roose", "Viditax (FutD) 2021062302", "FutD 2021-1974"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1501", "NLF 2021/1411 met annotatie van Sara Verkaik", "V-N 2021/35.13", "NTFR 2021/2427 met annotatie van dr. H.M. Roose", "Viditax (FutD) 2021062302", "FutD 2021-1974"]
 ---
 
 # ECLI:NL:RBGEL:2021:2688 Rechtbank Gelderland , 01-06-2021 / AWB - 20 _ 3343
