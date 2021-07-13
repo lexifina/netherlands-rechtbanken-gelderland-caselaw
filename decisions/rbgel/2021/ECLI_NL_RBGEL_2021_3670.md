@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:3670"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0131"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0131", "PR-Updates.nl 2021-0131"]
 ---
 
 # ECLI:NL:RBGEL:2021:3670 Rechtbank Gelderland , 13-07-2021 / C/05/388448 / KZ ZA 21-84
