@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:4480"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0158", "PJ 2021/120", "Sdu Nieuws Belastingzaken 2023/565"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0158", "PJ 2021/120", "Sdu Nieuws Belastingzaken 2023/565", "PR-Updates.nl 2021-0158"]
 ---
 
 # ECLI:NL:RBGEL:2021:4480 Rechtbank Gelderland , 18-08-2021 / C/05/377608 / HA ZA 20-579
