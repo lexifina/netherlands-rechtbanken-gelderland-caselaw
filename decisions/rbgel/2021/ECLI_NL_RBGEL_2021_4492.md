@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:4492"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1056", "PR-Updates.nl PR-2021-0159", "PJ 2021/116 met annotatie van E. Lutjens", "VAAN-AR-Updates.nl 2021-1056"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1056", "PR-Updates.nl PR-2021-0159", "PJ 2021/116 met annotatie van E. Lutjens", "VAAN-AR-Updates.nl 2021-1056", "PR-Updates.nl 2021-0159"]
 ---
 
 # ECLI:NL:RBGEL:2021:4492 Rechtbank Gelderland , 18-08-2021 / 8947906 \ CV EXPL 20-12068
