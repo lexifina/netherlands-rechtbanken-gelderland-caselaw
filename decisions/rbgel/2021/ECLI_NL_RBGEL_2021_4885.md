@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:4885"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1219", "PR-Updates.nl PR-2021-0189", "VAAN-AR-Updates.nl 2021-1219"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1219", "PR-Updates.nl PR-2021-0189", "VAAN-AR-Updates.nl 2021-1219", "PR-Updates.nl 2021-0189"]
 ---
 
 # ECLI:NL:RBGEL:2021:4885 Rechtbank Gelderland , 15-09-2021 / 9133515
