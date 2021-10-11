@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:6051"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1440", "PR-Updates.nl PR-2021-0231", "VAAN-AR-Updates.nl 2021-1440"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1440", "PR-Updates.nl PR-2021-0231", "VAAN-AR-Updates.nl 2021-1440", "PR-Updates.nl 2021-0231"]
 ---
 
 # ECLI:NL:RBGEL:2021:6051 Rechtbank Gelderland , 11-10-2021 / 9391718
