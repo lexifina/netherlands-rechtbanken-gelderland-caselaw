@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:6024"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2998", "NLF 2022/0015 met annotatie van Wendy Nent,  Heleen Elbert", "NLF 2022/0016 met annotatie van Heleen Elbert,  Wendy Nent", "V-N 2022/11.9 met annotatie van Redactie", "NTFR 2022/57 met annotatie van mr. B.A. Kalshoven", "Viditax (FutD) 2021121005", "FutD 2021-3842"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2998", "NLF 2022/0015 met annotatie van Heleen Elbert, Wendy Nent", "NLF 2022/0016 met annotatie van Heleen Elbert, Wendy Nent", "V-N 2022/11.9", "NTFR 2022/57 met annotatie van mr. B.A. Kalshoven", "Viditax (FutD) 2021121005", "FutD 2021-3842"]
 ---
 
 # ECLI:NL:RBGEL:2021:6024 Rechtbank Gelderland , 11-11-2021 / AWB - 19 _ 2705
