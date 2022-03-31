@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:1585"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8652"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2081, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBGEL:2022:1585 Rechtbank Gelderland , 31-03-2022 / 20/750
