@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:1698"
-published_in: ["Rechtspraak.nl", "PJ 2022/54", "PR-Updates.nl PR-2022-0088"]
+published_in: ["Rechtspraak.nl", "PJ 2022/54", "PR-Updates.nl PR-2022-0088", "PR-Updates.nl 2022-0088"]
 ---
 
 # ECLI:NL:RBGEL:2022:1698 Rechtbank Gelderland , 06-04-2022 / C/05/390717 / HZ ZA 21-254
