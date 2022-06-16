@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:3034"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2027", "NLF 2022/1712", "V-N 2022/40.2.7", "Douanerechtspraak 2022/109", "Viditax (FutD) 2022082203", "FutD 2022-2362", "DouaneUpdate 2022-0363"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:238, Niet ontvankelijk"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1004, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBGEL:2022:3034 Rechtbank Gelderland , 16-06-2022 / AWB - 21 _ 2465
