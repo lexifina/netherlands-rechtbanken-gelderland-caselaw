@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:5652"
 published_in: ["Rechtspraak.nl", "NLF 2022/1995", "V-N Vandaag 2022/2521", "V-N 2022/51.22.15", "Viditax (FutD) 2022101001", "FutD 2022-2847"]
-relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:243"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:688"]]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBGEL:2025:4197"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:243"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:688"]]
 ---
 
 # ECLI:NL:RBGEL:2022:5652 Rechtbank Gelderland , 05-10-2022 / AWB - 19 _ 3285
