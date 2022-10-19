@@ -52,9 +52,9 @@ tegen
 
 de besloten vennootschap met beperkte aansprakelijkheid
 
-VAN DE BUNT ISOLATIETECHNIEK B.V.,
+[gedaagde] B.V.,
 
-gevestigd te Putten,
+gevestigd te [vestigingsplaats] ,
 
 gedaagde in conventie,
 
@@ -62,7 +62,7 @@ eiseres in reconventie,
 
 advocaat mr. E.W.J. van Dijk te Elst (Gelderland).
 
-Partijen zullen hierna Neopixels en Van de Bunt genoemd worden.
+Partijen zullen hierna Neopixels en [gedaagde] genoemd worden.
 
 1
 De procedure
@@ -77,7 +77,7 @@ het deskundigenbericht
 
 de conclusie na deskundigenbericht van Neopixels
 
-de conclusie na deskundigenbericht van Van de Bunt, tevens akte overlegging producties
+de conclusie na deskundigenbericht van [gedaagde] , tevens akte overlegging producties
 
 de akte uitlaten producties van de zijde van Neopixels.
 
@@ -98,7 +98,7 @@ Bij vonnis van 16 december 2020 is een deskundigenonderzoek gelast en is de heer
 
 Aan de deskundige zijn daarbij de volgende vragen ter beantwoording voorgelegd:
 
-1. Van de Bunt heeft in de periode 2012 – 2016 Neofixx-lijm betrokken van Neopixels en die lijm gebruikt bij het isoleren van de spouwmuren van woningen met grafietparels. Staat vast dat in de door Van de Bunt aangewezen woningen daadwerkelijk die lijm is toegepast?
+1. [gedaagde] heeft in de periode 2012 – 2016 Neofixx-lijm betrokken van Neopixels en die lijm gebruikt bij het isoleren van de spouwmuren van woningen met grafietparels. Staat vast dat in de door [gedaagde] aangewezen woningen daadwerkelijk die lijm is toegepast?
 
 2. Welke (industriële) normen waren op die lijm van toepassing en wat waren de verwerkingsvoorschriften?
 
@@ -106,7 +106,7 @@ Aan de deskundige zijn daarbij de volgende vragen ter beantwoording voorgelegd:
 
 4. Indien sprake is van onvoldoende hechting van de parels met als gevolg uitstroom daarvan of onvoldoende dichtheid van de parels binnen de spouw, wat is daarvan dan de oorzaak?
 
-5. Indien u constateert dat in de onderzochte woningen sprake is van gebreken, ligt het dan in de rede om te verwachten dat die gebreken zich in alle woningen (zullen gaan) voordoen, die in de betreffende periode door Van de Bunt zijn geïsoleerd?
+5. Indien u constateert dat in de onderzochte woningen sprake is van gebreken, ligt het dan in de rede om te verwachten dat die gebreken zich in alle woningen (zullen gaan) voordoen, die in de betreffende periode door [gedaagde] zijn geïsoleerd?
 
 6. Indien u constateert dat er sprake is van gebreken, kunnen die gebreken dan worden weggenomen door herstelwerkzaamheden en, zo ja, tegen welke kosten?
 
@@ -122,7 +122,7 @@ De deskundige heeft vraag 1 als volgt beantwoord (bladzijde 73) :
 
 2.4.
 
-Neopixels heeft in haar conclusie na deskundigenbericht aangevoerd dat uit het laboratoriumonderzoek niet is gebleken dat Van de Bunt de Neofixx-lijm daadwerkelijk heeft gebruikt. De rechtbank gaat er evenwel vanuit dat Van de Bunt de Neofixx-lijm wel heeft gebruikt bij het na-isoleren van de spouwmuren van de door de deskundige onderzochte woningen. De rechtbank acht het tegendeel volstrekt onaannemelijk. De hele voorgeschiedenis wijst er op dat partijen reeds langere tijd in gesprek zijn over de klachten van de woningen, die ook door de deskundige zijn onderzocht, woningen die steeds zijn geïsoleerd in een periode dat Van de Bunt producten van Neopixels afnam. Onder deze omstandigheden kon Neopixels niet volstaan met een blote ontkenning, maar had zij dit verweer nader dienen te motiveren, al dan niet door daartoe nodige informatie bij Van de Bunt op te vragen.
+Neopixels heeft in haar conclusie na deskundigenbericht aangevoerd dat uit het laboratoriumonderzoek niet is gebleken dat [gedaagde] de Neofixx-lijm daadwerkelijk heeft gebruikt. De rechtbank gaat er evenwel vanuit dat [gedaagde] de Neofixx-lijm wel heeft gebruikt bij het na-isoleren van de spouwmuren van de door de deskundige onderzochte woningen. De rechtbank acht het tegendeel volstrekt onaannemelijk. De hele voorgeschiedenis wijst er op dat partijen reeds langere tijd in gesprek zijn over de klachten van de woningen, die ook door de deskundige zijn onderzocht, woningen die steeds zijn geïsoleerd in een periode dat [gedaagde] producten van Neopixels afnam. Onder deze omstandigheden kon Neopixels niet volstaan met een blote ontkenning, maar had zij dit verweer nader dienen te motiveren, al dan niet door daartoe nodige informatie bij [gedaagde] op te vragen.
 
 2.5.
 
@@ -351,11 +351,11 @@ De vraag of de zaak voldoet aan de overeenkomst, moet worden beantwoord aan de h
 
 2.27.
 
-Van de Bunt behoefde naar het oordeel van de rechtbank niet te verwachten dat de Neofixx-lijm niet bestand is tegen bacteriële invloeden vanuit de bodem onder de spouw, waardoor na verloop van tijd de lijm zou oplossen en de grafietparels los zouden komen te zitten. Van de Bunt heeft er immers voor gekozen om voor het na-isoleren van spouwmuren gebruik te maken van het systeem van Neopixels dat er op neer komt dat de grafietparels samen met de Neofixx-lijm in de spouwmuur worden gespoten met als doel dat de grafietparels vast in de spouw komen te zitten. Van de Bunt mocht een duurzaam resultaat verwachten, mede gelet op het feit dat Neopixels in haar brochure vermeldt: ”Het bindmiddel is een water-gedragen high-tech lijm die ervoor zorgt dat er in de spouw een stabiele verbinding ontstaat tussen de Neopixels om mobiliteit tegen te gaan”.
+[gedaagde] behoefde naar het oordeel van de rechtbank niet te verwachten dat de Neofixx-lijm niet bestand is tegen bacteriële invloeden vanuit de bodem onder de spouw, waardoor na verloop van tijd de lijm zou oplossen en de grafietparels los zouden komen te zitten. [gedaagde] heeft er immers voor gekozen om voor het na-isoleren van spouwmuren gebruik te maken van het systeem van Neopixels dat er op neer komt dat de grafietparels samen met de Neofixx-lijm in de spouwmuur worden gespoten met als doel dat de grafietparels vast in de spouw komen te zitten. [gedaagde] mocht een duurzaam resultaat verwachten, mede gelet op het feit dat Neopixels in haar brochure vermeldt: ”Het bindmiddel is een water-gedragen high-tech lijm die ervoor zorgt dat er in de spouw een stabiele verbinding ontstaat tussen de Neopixels om mobiliteit tegen te gaan”.
 
 2.28.
 
-De conclusie kan dan ook geen andere zijn dan dat de Neofixx-lijm niet de eigenschappen bezit die Van de Bunt op grond van de overeenkomst mocht verwachten.
+De conclusie kan dan ook geen andere zijn dan dat de Neofixx-lijm niet de eigenschappen bezit die [gedaagde] op grond van de overeenkomst mocht verwachten.
 
 2.29.
 
@@ -379,11 +379,11 @@ Uit het antwoord van de deskundige op vraag 6 volgt dat door middel van het wate
 
 2.31.
 
-Tussen partijen is niet in geschil dat Van de Bunt bij het na-isoleren van spouwmuren voor het overgrote deel van de jaren 2012-2016 gehouden was om de voorschriften in de Uitvoeringsrichtlijn Aanbrengen Spouwmuurisolatie met gebonden EPS-schuimparels URL 28-101 d.d. 17 april 2013 in acht te nemen. Op bladzijde 2 van deze richtlijn staat dat deze moet worden  gebruikt in combinatie met de “Nationale Beoordelingsrichtlijn voor het KOMO-attest en het KOMO-procescertificaat voor het thermisch isoleren van spouwmuren met in situ materialen”, BRL 2110.
+Tussen partijen is niet in geschil dat [gedaagde] bij het na-isoleren van spouwmuren voor het overgrote deel van de jaren 2012-2016 gehouden was om de voorschriften in de Uitvoeringsrichtlijn Aanbrengen Spouwmuurisolatie met gebonden EPS-schuimparels URL 28-101 d.d. 17 april 2013 in acht te nemen. Op bladzijde 2 van deze richtlijn staat dat deze moet worden  gebruikt in combinatie met de “Nationale Beoordelingsrichtlijn voor het KOMO-attest en het KOMO-procescertificaat voor het thermisch isoleren van spouwmuren met in situ materialen”, BRL 2110.
 
 2.32.
 
-In de URL 28-101(productie `30 van Van de Bunt Neopixels) komen onder meer de volgende passages voor:“2.2 Bouwkundige randvoorwaarden
+In de URL 28-101(productie `30 van [gedaagde] Neopixels) komen onder meer de volgende passages voor:“2.2 Bouwkundige randvoorwaarden
 
 Hoewel in het algemeen spouwmuren van steenachtige constructies zonder bouwfysische bezwaren met isolatiemateriaal gevuld kunnen worden moet men, om de beoogde kwaliteit te krijgen, van tevoren attent zijn op een aantal beperkende factoren.
 
@@ -475,13 +475,13 @@ Het is niet toelaatbaar isolatiewerkzaamheden uit te voeren bij temperaturen lag
 
 2.33.
 
-In geen van de richtlijnen die Van de Bunt had moeten volgen (de URL 28-101 en de BRL 2110) staat met zoveel woorden dat het waterdicht afdichten van de maaiveldzone altijd nodig is om het vocht, de schimmels en de bacteriën te weren van de spouwmuurisolatie. Over de invloed van bacteriën is niets te lezen in de in deze van belang zijnde richtlijnen. Voor zover de deskundige nog verwijst naar de Belgische regeling STS 71-1 geldt dat partijen door die regeling niet zijn gebonden. Terzijde zij opgemerkt dat onder 6.10 nog wel staat: “De producten mogen niet beïnvloed worden door biologische agentia.”, maar onduidelijk is of daarmee bedoeld wordt dat er absoluut geen gebruik mag worden gemaakt van producten met een organisch karakter, of dat bedoeld is dat voordat met na-isoleren mag worden begonnen zodanige condities dienen te worden geschapen dat de toegepaste producten niet kunnen worden blootgesteld aan de invloed van schimmels en bacteriën.
+In geen van de richtlijnen die [gedaagde] had moeten volgen (de URL 28-101 en de BRL 2110) staat met zoveel woorden dat het waterdicht afdichten van de maaiveldzone altijd nodig is om het vocht, de schimmels en de bacteriën te weren van de spouwmuurisolatie. Over de invloed van bacteriën is niets te lezen in de in deze van belang zijnde richtlijnen. Voor zover de deskundige nog verwijst naar de Belgische regeling STS 71-1 geldt dat partijen door die regeling niet zijn gebonden. Terzijde zij opgemerkt dat onder 6.10 nog wel staat: “De producten mogen niet beïnvloed worden door biologische agentia.”, maar onduidelijk is of daarmee bedoeld wordt dat er absoluut geen gebruik mag worden gemaakt van producten met een organisch karakter, of dat bedoeld is dat voordat met na-isoleren mag worden begonnen zodanige condities dienen te worden geschapen dat de toegepaste producten niet kunnen worden blootgesteld aan de invloed van schimmels en bacteriën.
 
-Uit de voor partijen geldende richtlijnen kan in ieder geval niet worden afgeleid dat in alle gevallen waarin tot na-isolatie van spouwmuren wordt overgegaan eerst zou moeten worden overgegaan tot het waterdicht afdichten van de maaiveldzone. 2.34.	Alleen indien in de gevel optrekkend vocht wordt waargenomen dan wel vochtdoorslag wordt waargenomen dienen er maatregelen te worden getroffen om het vochtprobleem op te lossen. Een vochtig klimaat in de spouw is immers van zeer grote negatieve invloed op het effect van de na-isolatie. Wat betreft de maatregelen die genomen moeten worden om het vochtprobleem op te lossen wordt gesproken over hydrofoberen (een maatregel tegen vochtdoorslag) en het dichtmaken van scheuren. Maar daarmee is echter niet zonder meer gegeven dat daardoor ook voortaan schimmels en bacteriën uit de bodem onder de spouw worden geweerd. Over het - door de deskundige voorgeschreven - waterdicht afdichten van de maaiveldzone staat in geen van de richtlijnen iets vermeld. Om die reden wordt voorbij gegaan aan de stelling van Neopixels dat Van de Bunt ten onrechte heeft nagelaten om de gevels te hydrofoberen alvorens tot na-isolatie over te gaan.
+Uit de voor partijen geldende richtlijnen kan in ieder geval niet worden afgeleid dat in alle gevallen waarin tot na-isolatie van spouwmuren wordt overgegaan eerst zou moeten worden overgegaan tot het waterdicht afdichten van de maaiveldzone. 2.34.	Alleen indien in de gevel optrekkend vocht wordt waargenomen dan wel vochtdoorslag wordt waargenomen dienen er maatregelen te worden getroffen om het vochtprobleem op te lossen. Een vochtig klimaat in de spouw is immers van zeer grote negatieve invloed op het effect van de na-isolatie. Wat betreft de maatregelen die genomen moeten worden om het vochtprobleem op te lossen wordt gesproken over hydrofoberen (een maatregel tegen vochtdoorslag) en het dichtmaken van scheuren. Maar daarmee is echter niet zonder meer gegeven dat daardoor ook voortaan schimmels en bacteriën uit de bodem onder de spouw worden geweerd. Over het - door de deskundige voorgeschreven - waterdicht afdichten van de maaiveldzone staat in geen van de richtlijnen iets vermeld. Om die reden wordt voorbij gegaan aan de stelling van Neopixels dat [gedaagde] ten onrechte heeft nagelaten om de gevels te hydrofoberen alvorens tot na-isolatie over te gaan.
 
 2.35.
 
-Uit het vorenstaande volgt dat niet gezegd kan worden dat het door geen van voormelde voorzorgsmaatregelen te (laten) nemen, het aan de eigen schuld van Van de Bunt is te wijten dat bij de door haar na-geïsoleerde spouwmuren na een periode van enige jaren de grafietparels los kwamen te zitten doordat de van Neopixels betrokken lijm geheel dan wel gedeeltelijk was opgelost.
+Uit het vorenstaande volgt dat niet gezegd kan worden dat het door geen van voormelde voorzorgsmaatregelen te (laten) nemen, het aan de eigen schuld van [gedaagde] is te wijten dat bij de door haar na-geïsoleerde spouwmuren na een periode van enige jaren de grafietparels los kwamen te zitten doordat de van Neopixels betrokken lijm geheel dan wel gedeeltelijk was opgelost.
 
 2.36.
 
@@ -495,27 +495,27 @@ Dit betekent dat ook de weersomstandigheden tijdens het na-isoleren van belang z
 
 2.38.
 
-De deskundige heeft inspecties uitgevoerd bij 12 woningen, waarvan de spouwmuren door Van de Bunt zijn geïsoleerd. De deskundige heeft daarbij de weersomstandigheden opgezocht met betrekking tot de dagen waarop de isolatiewerkzaamheden hebben plaatsgevonden alsmede de weersomstandigheden van de daaraan voorafgaande en daarop volgende dagen.
+De deskundige heeft inspecties uitgevoerd bij 12 woningen, waarvan de spouwmuren door [gedaagde] zijn geïsoleerd. De deskundige heeft daarbij de weersomstandigheden opgezocht met betrekking tot de dagen waarop de isolatiewerkzaamheden hebben plaatsgevonden alsmede de weersomstandigheden van de daaraan voorafgaande en daarop volgende dagen.
 
 2.39.
 
-Van de Bunt heeft aangevoerd dat de meteorologische gegevens waarvan de deskundige is uitgegaan in deze niet bruikbaar zijn, omdat de weerstations, waaraan de deskundige deze gegevens heeft ontleend, te ver verwijderd staan van de door de deskundige onderzochte woningen.
+[gedaagde] heeft aangevoerd dat de meteorologische gegevens waarvan de deskundige is uitgegaan in deze niet bruikbaar zijn, omdat de weerstations, waaraan de deskundige deze gegevens heeft ontleend, te ver verwijderd staan van de door de deskundige onderzochte woningen.
 
 2.40.
 
-Dit verweer treft geen doel. Van de Bunt heeft immers geen meteorologische gegevens in het geding gebracht waaruit een meer betrouwbare inschatting van de weersomstandigheden ten tijde van het na-isoleren van de door de deskundige onderzochte woningen kan worden afgeleid. De enkele stelling dat de hoeveelheid neerslag plaatselijk is en aanzienlijk kan verschillen van een meetpunt van soms wel 30 kilometer verderop is te algemeen om daarmee de conclusie van de deskundige, dat in alle onderzochte gevallen de relatieve luchtvochtigheid te hoog was om destijds de na-isolatie uit te voeren te kunnen weerleggen.
+Dit verweer treft geen doel. [gedaagde] heeft immers geen meteorologische gegevens in het geding gebracht waaruit een meer betrouwbare inschatting van de weersomstandigheden ten tijde van het na-isoleren van de door de deskundige onderzochte woningen kan worden afgeleid. De enkele stelling dat de hoeveelheid neerslag plaatselijk is en aanzienlijk kan verschillen van een meetpunt van soms wel 30 kilometer verderop is te algemeen om daarmee de conclusie van de deskundige, dat in alle onderzochte gevallen de relatieve luchtvochtigheid te hoog was om destijds de na-isolatie uit te voeren te kunnen weerleggen.
 
 2.41.
 
-Uit het vorenstaande kan worden geconcludeerd dat bij alle door de deskundige onderzochte woningen de weersomstandigheden tijdens het na-isoleren door Van de Bunt een ongunstige factor zijn geweest voor de uitharding van de Neofixx-lijm. Hierdoor kan worden verklaard dat de grafietparels op een gegeven moment los zijn komen zitten.
+Uit het vorenstaande kan worden geconcludeerd dat bij alle door de deskundige onderzochte woningen de weersomstandigheden tijdens het na-isoleren door [gedaagde] een ongunstige factor zijn geweest voor de uitharding van de Neofixx-lijm. Hierdoor kan worden verklaard dat de grafietparels op een gegeven moment los zijn komen zitten.
 
 2.42.
 
-Van Van de Bunt mocht worden verwacht dat zij ervan op de hoogte was dat de weersomstandigheden (met name de relatieve luchtvochtigheid) vlak voor en tijdens het na-isoleren van groot belang zijn voor de mate waarin een watergedragen lijm, zoals de Neofixx-lijm, optimaal kan uitharden.
+Van [gedaagde] mocht worden verwacht dat zij ervan op de hoogte was dat de weersomstandigheden (met name de relatieve luchtvochtigheid) vlak voor en tijdens het na-isoleren van groot belang zijn voor de mate waarin een watergedragen lijm, zoals de Neofixx-lijm, optimaal kan uitharden.
 
 2.43.
 
-De volgende vraag die voorligt is of Van de Bunt jegens Neopixels aanspraak kan maken op vergoeding van de schade die zij stelt te hebben geleden en nog zal lijden doordat zij de gevolgen van het oplossen van de lijm inmiddels heeft moeten herstellen of in de toekomst nog zal moeten herstellen bij haar opdrachtgevers door de gevels zoveel mogelijk dicht te maken zodat de parels op hun plaats blijven zitten en niet naar buiten kunnen komen.
+De volgende vraag die voorligt is of [gedaagde] jegens Neopixels aanspraak kan maken op vergoeding van de schade die zij stelt te hebben geleden en nog zal lijden doordat zij de gevolgen van het oplossen van de lijm inmiddels heeft moeten herstellen of in de toekomst nog zal moeten herstellen bij haar opdrachtgevers door de gevels zoveel mogelijk dicht te maken zodat de parels op hun plaats blijven zitten en niet naar buiten kunnen komen.
 
 2.44.
 
@@ -523,13 +523,13 @@ Het feit dat de lijm, die ervoor moet zorgen dat de grafietparels bij elkaar bli
 
 2.45.
 
-Van de Bunt heeft aangevoerd dat de spouw niet behoefde te worden dichtgemaakt.
+[gedaagde] heeft aangevoerd dat de spouw niet behoefde te worden dichtgemaakt.
 
 Zij is door Neopixels niet gewaarschuwd dat kieren en openingen moesten worden dichtgemaakt. Het systeem van Neopixels is juist bedoeld om eenvoudig in de spouwmuur te kunnen worden ingebracht, waarna het na uitharding op haar plek blijft zitten zonder dat het afdichten van kieren noodzakelijk is. Zij heeft altijd nauwgezet conform de verwerkingsvoorschriften (URL 28-101) gewerkt.
 
 2.46.
 
-Neopixels heeft daartegenover gesteld dat de eis van het afsluiten van de spouwmuur blijkt uit haar vooropnameformulier (productie 14). Daarin staat: “Spouwsluiting aan bovenzijde” met daarachter een aan te vinken blokje met “ja” en een aan te vinken blokje met daarachter “nee, nog te voorzien”. Alsmede “Te dichten stootvoegen (spouwverluchting)” met daarachter eveneens twee aan te vinken blokjes met daarachter “ja” respectievelijk “nee”. Van de Bunt heeft niet weersproken dat zij dit vooropnameformulier heeft ontvangen, zodat zij had kunnen weten dat de spouw wel moest worden dichtgemaakt alvorens met na-isoleren te beginnen.
+Neopixels heeft daartegenover gesteld dat de eis van het afsluiten van de spouwmuur blijkt uit haar vooropnameformulier (productie 14). Daarin staat: “Spouwsluiting aan bovenzijde” met daarachter een aan te vinken blokje met “ja” en een aan te vinken blokje met daarachter “nee, nog te voorzien”. Alsmede “Te dichten stootvoegen (spouwverluchting)” met daarachter eveneens twee aan te vinken blokjes met daarachter “ja” respectievelijk “nee”. [gedaagde] heeft niet weersproken dat zij dit vooropnameformulier heeft ontvangen, zodat zij had kunnen weten dat de spouw wel moest worden dichtgemaakt alvorens met na-isoleren te beginnen.
 
 Neopixels heeft voorts in dit verband gewezen op de door haar als productie 17 overgelegde technische voorlichting van het Wetenschappelijk en Technisch Centrum voor het Bouwbedrijf over na-isolatie van spouwmuren door het opvullen van de luchtspouw. In paragraaf 5.3.3. (bladzijde 29 en 30), die gaat over het opvullen van de spouw staat onder meer: “Indien de spouw aan de bovenzijde open is (…), dient met erop toe te zien dat het vulmateriaal op deze plaats niet kan ontsnappen”.  En voorts: “Als men daarentegen merkt dat het opvullen op een bepaald punt veel meer tijd in beslag neemt dan elders, kan dit erop wijzen dat er via vooraf niet-ontdekte openingen isolatieproduct ontsnapt naar plaatsen, waar dit niet gewenst is.”
 
@@ -539,55 +539,55 @@ In de URL 28-101 komen over het afsluiten komen (onder 2.2.10, bladzijde 7) de v
 
 2.48.
 
-Neopixels heeft in dit verband tot slot nog aangevoerd dat zij Van de Bunt erop heeft gewezen dat het geheel afsluiten van de spouwmuur noodzakelijk is om voldoende druk op te bouwen tijdens het na-isoleren. Dit is door Van de Bunt niet, althans niet voldoende gemotiveerd weersproken.
+Neopixels heeft in dit verband tot slot nog aangevoerd dat zij [gedaagde] erop heeft gewezen dat het geheel afsluiten van de spouwmuur noodzakelijk is om voldoende druk op te bouwen tijdens het na-isoleren. Dit is door [gedaagde] niet, althans niet voldoende gemotiveerd weersproken.
 
 2.49.
 
-Uit de eigen stellingen van Van de Bunt volgt dat zij de spouw niet heeft afgesloten alvorens tot na-isolatie over te gaan. Dit betekent dat de door haar geleden en nog te lijden  schade op grond van eigen schuld voor haar rekening dient te blijven.
+Uit de eigen stellingen van [gedaagde] volgt dat zij de spouw niet heeft afgesloten alvorens tot na-isolatie over te gaan. Dit betekent dat de door haar geleden en nog te lijden  schade op grond van eigen schuld voor haar rekening dient te blijven.
 
 Conclusie
 
 2.50.
 
-Nu de door Neopixels aan Van de Bunt geleverde lijm (dit geldt voor beide door Neopixels aan Van de Bunt geleverde lijmsoorten) niet voldoet aan de koopovereenkomsten zullen de koopovereenkomsten met betrekking tot de geleverde lijm worden ontbonden.
+Nu de door Neopixels aan [gedaagde] geleverde lijm (dit geldt voor beide door Neopixels aan [gedaagde] geleverde lijmsoorten) niet voldoet aan de koopovereenkomsten zullen de koopovereenkomsten met betrekking tot de geleverde lijm worden ontbonden.
 
 2.51.
 
-Vast staat dat Van de Bunt een gedeelte van de koopprijs voor de geleverde grafietparels en lijm tot een bedrag van € 45.471,80 (inclusief btw) niet aan Neopixels heeft betaald. Nu de koopovereenkomsten voor wat betreft de geleverde maar nog niet betaalde lijm zullen worden ontbonden, behoeft Van de Bunt voor de lijm niet meer te betalen. Maar dat moet zij wel voor de geleverde grafietparels.
+Vast staat dat [gedaagde] een gedeelte van de koopprijs voor de geleverde grafietparels en lijm tot een bedrag van € 45.471,80 (inclusief btw) niet aan Neopixels heeft betaald. Nu de koopovereenkomsten voor wat betreft de geleverde maar nog niet betaalde lijm zullen worden ontbonden, behoeft [gedaagde] voor de lijm niet meer te betalen. Maar dat moet zij wel voor de geleverde grafietparels.
 
 2.52.
 
 De rechtbank stelt aan de hand van de door Neopixels als productie 1 overgelegde onbetaalde facturen (waarbij in sommige gevallen niet alleen de lijm maar ook de
 
-grafietparels in rekening zijn gebracht en in andere gevallen alleen de grafietparels) vast dat Neopixels voor de lijm in totaal € 4.840,00 (inclusief btw) in rekening heeft gebracht en voor de parels € 35.791,80. Dit laatste bedrag dient Van de Bunt nog te betalen.
+grafietparels in rekening zijn gebracht en in andere gevallen alleen de grafietparels) vast dat Neopixels voor de lijm in totaal € 4.840,00 (inclusief btw) in rekening heeft gebracht en voor de parels € 35.791,80. Dit laatste bedrag dient [gedaagde] nog te betalen.
 
 2.53.
 
-Van de Bunt stelt zich op het standpunt dat alle overeenkomsten met betrekking tot door haar gekochte lijm dienen te worden ontbonden en dat zij het daardoor door Neofixx aan haar terug te betalen bedrag wenst te verrekenen met het bedrag dat zij nog aan Neofixx verschuldigd mocht zijn. Voor zover verrekening niet mogelijk zou zijn, vordert zij in reconventie terugbetaling van de koopprijs.
+[gedaagde] stelt zich op het standpunt dat alle overeenkomsten met betrekking tot door haar gekochte lijm dienen te worden ontbonden en dat zij het daardoor door Neofixx aan haar terug te betalen bedrag wenst te verrekenen met het bedrag dat zij nog aan Neofixx verschuldigd mocht zijn. Voor zover verrekening niet mogelijk zou zijn, vordert zij in reconventie terugbetaling van de koopprijs.
 
-Dit verweer en de daarmee spiegelbeeldig samenhangende vordering in reconventie wordt verworpen. Aan de ene zijde kan Van de Bunt de lijm niet meer terug leveren in het kader van de bij ontbinding op haar rustende ongedaanmakingsverbintenis. Dit kan haar evenwel niet worden toegerekend. Van de Bunt mocht er immers vanuit gaan dat de lijm wel geschikt was voor het doel waarvoor deze werd toegepast. Aan de andere kant zou Van de Bunt ongerechtvaardigd worden verrijkt, als Neofixx de betalingen wel ongedaan zou dienen te maken, geheel daargelaten dat met betaling voor uitsluitend de tekortschietende lijm geen bedrag van € 429.417,26 gemoeid is. Van de Bunt heeft immers - zo kan geredelijk worden aangenomen - de door haar aan Neopixels betaalde koopprijs voor de lijm doorberekend aan haar opdrachtgevers.
+Dit verweer en de daarmee spiegelbeeldig samenhangende vordering in reconventie wordt verworpen. Aan de ene zijde kan [gedaagde] de lijm niet meer terug leveren in het kader van de bij ontbinding op haar rustende ongedaanmakingsverbintenis. Dit kan haar evenwel niet worden toegerekend. [gedaagde] mocht er immers vanuit gaan dat de lijm wel geschikt was voor het doel waarvoor deze werd toegepast. Aan de andere kant zou [gedaagde] ongerechtvaardigd worden verrijkt, als Neofixx de betalingen wel ongedaan zou dienen te maken, geheel daargelaten dat met betaling voor uitsluitend de tekortschietende lijm geen bedrag van € 429.417,26 gemoeid is. [gedaagde] heeft immers - zo kan geredelijk worden aangenomen - de door haar aan Neopixels betaalde koopprijs voor de lijm doorberekend aan haar opdrachtgevers.
 
 2.54.
 
-De vordering van Van de Bunt tot schadevergoeding ter zake van de herstelkosten is- zo volgt uit hetgeen hiervoor onder 2.49 is overwogen- niet voor toewijzing vatbaar. Ook hier kan geen sprake zijn van verrekening.
+De vordering van [gedaagde] tot schadevergoeding ter zake van de herstelkosten is- zo volgt uit hetgeen hiervoor onder 2.49 is overwogen- niet voor toewijzing vatbaar. Ook hier kan geen sprake zijn van verrekening.
 
 2.55.
 
-Dit betekent dat Van de Bunt in verzuim is komen te verkeren door de openstaande facturen niet te voldoen.
+Dit betekent dat [gedaagde] in verzuim is komen te verkeren door de openstaande facturen niet te voldoen.
 
 2.56.
 
-Van de Bunt zal dan ook worden veroordeeld om aan Neopixels te betalen een bedrag van € 35.791,80, vermeerderd met de wettelijke handelsrente als bedoeld in artikel 6:119 a BW vanaf de dag volgend op de dertigste dag na de factuurdatum van de respectieve bedragen, een en ander met inachtneming van hetgeen hiervoor onder 2.52 is overwogen.
+[gedaagde] zal dan ook worden veroordeeld om aan Neopixels te betalen een bedrag van € 35.791,80, vermeerderd met de wettelijke handelsrente als bedoeld in artikel 6:119 a BW vanaf de dag volgend op de dertigste dag na de factuurdatum van de respectieve bedragen, een en ander met inachtneming van hetgeen hiervoor onder 2.52 is overwogen.
 
 2.57.
 
 Neopixels vordert vergoeding van buitengerechtelijke incassokosten als redelijke kosten ter verkrijging van voldoening buiten rechte als bedoeld in artikel 6:96 lid 2 sub c BW, berekend volgens hetgeen in een incassopraktijk gebruikelijk is.
 
-Voor toewijzing van bedoelde kosten is vereist dat daadwerkelijk buitengerechtelijke incassokosten  zijn gemaakt. Nu Neopixels niet heeft gesteld dat zij daadwerkelijk buitengerechtelijke incassokosten heeft gemaakt en dit ook na verweer van Van de Bunt niet ook bij conclusie van repliek heeft gesteld, zal dit onderdeel van de vordering worden afgewezen.
+Voor toewijzing van bedoelde kosten is vereist dat daadwerkelijk buitengerechtelijke incassokosten  zijn gemaakt. Nu Neopixels niet heeft gesteld dat zij daadwerkelijk buitengerechtelijke incassokosten heeft gemaakt en dit ook na verweer van [gedaagde] niet ook bij conclusie van repliek heeft gesteld, zal dit onderdeel van de vordering worden afgewezen.
 
 2.58.
 
-Resteert de door Neopixels gevorderde boete in verband met het niet tijdig teruggeven van de twee vulpistolen (voor het derde vulpistool is geen schriftelijke bruikleenovereenkomst gesloten).Nu Van de Bunt in verzuim is ten aanzien van het geheel voldoen van de restant koopprijs, zijn de schriftelijke bruikleenovereenkomsten met betrekking tot de 2 vulpistolen op grond van het bepaalde in die overeenkomsten geëindigd en diende Van de Bunt de vulpistolen op straffe van een  boete een werkdag na het eindigen van de bruikleenovereenkomsten aan Neopixels terug te geven.
+Resteert de door Neopixels gevorderde boete in verband met het niet tijdig teruggeven van de twee vulpistolen (voor het derde vulpistool is geen schriftelijke bruikleenovereenkomst gesloten).Nu [gedaagde] in verzuim is ten aanzien van het geheel voldoen van de restant koopprijs, zijn de schriftelijke bruikleenovereenkomsten met betrekking tot de 2 vulpistolen op grond van het bepaalde in die overeenkomsten geëindigd en diende [gedaagde] de vulpistolen op straffe van een  boete een werkdag na het eindigen van de bruikleenovereenkomsten aan Neopixels terug te geven.
 
 2.59.
 
@@ -595,45 +595,45 @@ Voor het inroepen van een boetebeding is op grond van artikel 6:93 BW een ingebr
 
 2.60.
 
-In deze is (op grond van productie 4 van Neopixels) niet méér komen vast te staan dan dat Marco [betrokkene 3] op 26 september 2019 een e-mail aan [betrokkene 2] (van Neopixels) heeft verzonden, met de volgende inhoud.“(…)op dinsdag 30 April 2019 zijn wij, in opdracht van Neopixels Insulation BV, bij van de Bunt Isolatietechniek in Putten geweest. Om 2 lijmdoseringen en 3 stuks Neopixels F1 vulpistolen van Neopixels op te halen.
+In deze is (op grond van productie 4 van Neopixels) niet méér komen vast te staan dan dat Marco [betrokkene 3] op 26 september 2019 een e-mail aan [betrokkene 2] (van Neopixels) heeft verzonden, met de volgende inhoud.“(…)op dinsdag 30 April 2019 zijn wij, in opdracht van Neopixels Insulation BV, bij [gedaagde] in Putten geweest. Om 2 lijmdoseringen en 3 stuks Neopixels F1 vulpistolen van Neopixels op te halen.
 
 De 3 stuks F1 vulpistolen kregen we niet mee (…).”
 
 2.61.
 
-Gesteld noch gebleken is dat Neopixels voorafgaande aan het bezoek van [betrokkene 3] Van de Bunt op de hoogte heeft gesteld van diens komst. Van de Bunt heeft voorts onbestreden aangevoerd dat [betrokkene 3] tijdens diens bezoek niet heeft aangegeven dat hij namens Neopixels handelde.
+Gesteld noch gebleken is dat Neopixels voorafgaande aan het bezoek van [betrokkene 3] [gedaagde] op de hoogte heeft gesteld van diens komst. [gedaagde] heeft voorts onbestreden aangevoerd dat [betrokkene 3] tijdens diens bezoek niet heeft aangegeven dat hij namens Neopixels handelde.
 
-Om die reden kan het Van de Bunt niet worden verweten dat hij de vulpistolen toen niet aan [betrokkene 3] heeft meegegeven.
+Om die reden kan het [gedaagde] niet worden verweten dat hij de vulpistolen toen niet aan [betrokkene 3] heeft meegegeven.
 
 De e-mail van 26 september 2019 kan niet als een ingebrekestelling worden gekwalificeerd.
 
-De dagvaarding van 15 oktober 2019 kan wel als een ingebrekestelling worden  gekwalificeerd. Van de Bunt heeft de vulpistolen op 12 november 2019 aan Neopixels teruggeven.
+De dagvaarding van 15 oktober 2019 kan wel als een ingebrekestelling worden  gekwalificeerd. [gedaagde] heeft de vulpistolen op 12 november 2019 aan Neopixels teruggeven.
 
 2.62.
 
-Van de Bunt is dan ook in beginsel een boete verschuldigd over de periode van 15 oktober 2019 tot 12 november 2019.De rechtbank zal de boete op verzoek van Van de Bunt echter matigen en wel tot nihil omdat de billijkheid dit klaarblijkelijk eist.Daartoe is het volgende redengevend.Volgens de eigen stellingen van Neopixels was Van de Bunt op 26 december 2018 in verzuim. Eerst op 30 april 2019 heeft Neopixels [betrokkene 3] bij Van de Bunt langs gestuurd om de vulpistolen op te halen. In plaats van dat Neopixels binnen bekwame tijd bij Van de Bunt reclameert over het niet meegeven van de vulpistolen, stuurt Neopixels pas op 26 september 2019 voormelde e-mail, die - zoals hiervoor reeds is overwogen - geen ingebrekestellende kracht heeft. Heel veel haast en daarmee belang om de drie vulpistolen terug te krijgen had Neopixels dan ook niet. Eerst bij dagvaarding van 15 oktober 2019 maakt Neopixels jegens Van de Bunt aanspraak op teruggave van de vulpistolen. Naar het oordeel van de rechtbank heeft Van de Bunt tijdig aan dit onderdeel van de oorspronkelijke vordering voldaan. Toepassing van het boetebeding zou in de gegeven omstandigheden tot een buitensporig en daarom onaanvaardbaar resultaat leiden.
+[gedaagde] is dan ook in beginsel een boete verschuldigd over de periode van 15 oktober 2019 tot 12 november 2019.De rechtbank zal de boete op verzoek van [gedaagde] echter matigen en wel tot nihil omdat de billijkheid dit klaarblijkelijk eist.Daartoe is het volgende redengevend.Volgens de eigen stellingen van Neopixels was [gedaagde] op 26 december 2018 in verzuim. Eerst op 30 april 2019 heeft Neopixels [betrokkene 3] bij [gedaagde] langs gestuurd om de vulpistolen op te halen. In plaats van dat Neopixels binnen bekwame tijd bij [gedaagde] reclameert over het niet meegeven van de vulpistolen, stuurt Neopixels pas op 26 september 2019 voormelde e-mail, die - zoals hiervoor reeds is overwogen - geen ingebrekestellende kracht heeft. Heel veel haast en daarmee belang om de drie vulpistolen terug te krijgen had Neopixels dan ook niet. Eerst bij dagvaarding van 15 oktober 2019 maakt Neopixels jegens [gedaagde] aanspraak op teruggave van de vulpistolen. Naar het oordeel van de rechtbank heeft [gedaagde] tijdig aan dit onderdeel van de oorspronkelijke vordering voldaan. Toepassing van het boetebeding zou in de gegeven omstandigheden tot een buitensporig en daarom onaanvaardbaar resultaat leiden.
 
 2.63.
 
-Neopixels heeft haar eis met betrekking tot de vulpistolen in zoverre gewijzigd dat zij in plaats van afgifte van de vulpistolen vordert om Van de Bunt te veroordelen om de ontbrekende onderdelen van de drie in bruikleen gegeven lijmpistolen aan Neopixels af te geven dan wel om Neopixels toegang te geven tot de ruimte(n) waarin die vulpistolen zich bevinden.Het gaat hierbij om de onderdelen zoals kenbaar is uit productie 10 van Neopixels. Van de Bunt heeft in haar conclusie van dupliek aangevoerd dat hij de betreffende onderdelen, die van geringe importantie zijn, niet meer in zijn bezit heeft. Dit staat aan toewijzing van dit onderdeel van de vordering in de weg.
+Neopixels heeft haar eis met betrekking tot de vulpistolen in zoverre gewijzigd dat zij in plaats van afgifte van de vulpistolen vordert om [gedaagde] te veroordelen om de ontbrekende onderdelen van de drie in bruikleen gegeven lijmpistolen aan Neopixels af te geven dan wel om Neopixels toegang te geven tot de ruimte(n) waarin die vulpistolen zich bevinden.Het gaat hierbij om de onderdelen zoals kenbaar is uit productie 10 van Neopixels. [gedaagde] heeft in haar conclusie van dupliek aangevoerd dat hij de betreffende onderdelen, die van geringe importantie zijn, niet meer in zijn bezit heeft. Dit staat aan toewijzing van dit onderdeel van de vordering in de weg.
 
 2.64.
 
-Aangezien Van de Bunt een gedeelte van de openstaande facturen ten onrechte onbetaald heeft gelaten, zal de vordering van Van de Bunt, strekkende tot opheffing van het beslag, worden afgewezen.
+Aangezien [gedaagde] een gedeelte van de openstaande facturen ten onrechte onbetaald heeft gelaten, zal de vordering van [gedaagde] , strekkende tot opheffing van het beslag, worden afgewezen.
 
 2.65.
 
-Omdat beide door Neopixels aan Van de Bunt geleverde lijmen ondeugdelijk zijn voor het doel waarvoor deze worden aangewend, zal Neopixels worden veroordeeld in de kosten van het deskundigenbericht ad € 20.976,35. Aangezien beide partijen ieder de helft van de voorschotten ad in totaal € 20.852,00 bij de griffie van deze rechtbank hebben gedeponeerd, zal Neopixels worden veroordeeld om de helft van dat bedrag, zijnde € 10.426,00, aan Van de Bunt te betalen.
+Omdat beide door Neopixels aan [gedaagde] geleverde lijmen ondeugdelijk zijn voor het doel waarvoor deze worden aangewend, zal Neopixels worden veroordeeld in de kosten van het deskundigenbericht ad € 20.976,35. Aangezien beide partijen ieder de helft van de voorschotten ad in totaal € 20.852,00 bij de griffie van deze rechtbank hebben gedeponeerd, zal Neopixels worden veroordeeld om de helft van dat bedrag, zijnde € 10.426,00, aan [gedaagde] te betalen.
 
 2.66.
 
-Neopixels vordert Van de Bunt te veroordelen tot betaling van de beslagkosten. Nu de geldvordering van Neopixels - gedeeltelijk - wordt toegewezen is de vordering tot betaling van de beslagkosten - gelet op het bepaalde in art. 706 Rv - toewijsbaar. De beslagkosten worden begroot op € 958,22 voor verschotten en € 721,00 voor salaris advocaat (1 rekest x tarief III, 721,00 per punt).
+Neopixels vordert [gedaagde] te veroordelen tot betaling van de beslagkosten. Nu de geldvordering van Neopixels - gedeeltelijk - wordt toegewezen is de vordering tot betaling van de beslagkosten - gelet op het bepaalde in art. 706 Rv - toewijsbaar. De beslagkosten worden begroot op € 958,22 voor verschotten en € 721,00 voor salaris advocaat (1 rekest x tarief III, 721,00 per punt).
 
 2.67.
 
 De nakosten zijn in conventie toewijsbaar als na te melden.
 
-In reconventie bestaat - gelet op het feit dat enkel de overeenkomsten met betrekking tot de door Neopixels aan Van de Bunt geleverde Neofixx-lijm zullen worden ontbonden- voor toewijzing van nakosten geen grondslag, zodat ter zake afwijzing dient te volgen.
+In reconventie bestaat - gelet op het feit dat enkel de overeenkomsten met betrekking tot de door Neopixels aan [gedaagde] geleverde Neofixx-lijm zullen worden ontbonden- voor toewijzing van nakosten geen grondslag, zodat ter zake afwijzing dient te volgen.
 
 2.68.
 
@@ -648,7 +648,7 @@ in conventie
 
 3.1.
 
-veroordeelt Van de Bunt om aan Neopixels te betalen een bedrag van € 35.791,80   inclusief btw, vermeerderd met de wettelijke rente als bedoeld in art. 6:119a BW over een bedrag van:- € 6.232,71 (factuurnummer 187039) vanaf 27 december 2018;
+veroordeelt [gedaagde] om aan Neopixels te betalen een bedrag van € 35.791,80   inclusief btw, vermeerderd met de wettelijke rente als bedoeld in art. 6:119a BW over een bedrag van:- € 6.232,71 (factuurnummer 187039) vanaf 27 december 2018;
 
 € 6.23271 (factuurnummer 187040, vanaf  28 december 2018;
 
@@ -664,7 +664,7 @@ telkens tot de dag van volledige betaling.
 
 3.2.
 
-veroordeelt Van de Bunt in de beslagkosten, tot op heden begroot op € 1.679,22, te vermeerderen met de wettelijke rente als bedoeld in art. 6:119 BW over dit bedrag met ingang van de veertiende dag na betekening van dit vonnis tot de dag van volledige betaling,
+veroordeelt [gedaagde] in de beslagkosten, tot op heden begroot op € 1.679,22, te vermeerderen met de wettelijke rente als bedoeld in art. 6:119 BW over dit bedrag met ingang van de veertiende dag na betekening van dit vonnis tot de dag van volledige betaling,
 
 3.3.
 
@@ -672,11 +672,11 @@ veroordeelt Neopixels in de kosten van het deskundigenbericht ad € 20.976,35.
 
 3.4.
 
-veroordeelt Neopixels om aan Van de Bunt te betalen een bedrag van € 10.426,00 ter zake van door Van de Bunt voldane voorschotten op de kosten van het deskundigenbericht,
+veroordeelt Neopixels om aan [gedaagde] te betalen een bedrag van € 10.426,00 ter zake van door [gedaagde] voldane voorschotten op de kosten van het deskundigenbericht,
 
 3.5.
 
-veroordeelt Van de Bunt in de na dit vonnis ontstane kosten, begroot op € 163,00 aan salaris advocaat, te vermeerderen, onder de voorwaarde dat Van de Bunt niet binnen veertien dagen na aanschrijving aan het vonnis heeft voldaan en er vervolgens betekening van de uitspraak heeft plaatsgevonden, met een bedrag van € 85,00 aan salaris advocaat en de explootkosten van betekening van de uitspraak,
+veroordeelt [gedaagde] in de na dit vonnis ontstane kosten, begroot op € 163,00 aan salaris advocaat, te vermeerderen, onder de voorwaarde dat [gedaagde] niet binnen veertien dagen na aanschrijving aan het vonnis heeft voldaan en er vervolgens betekening van de uitspraak heeft plaatsgevonden, met een bedrag van € 85,00 aan salaris advocaat en de explootkosten van betekening van de uitspraak,
 
 3.6.
 
@@ -694,7 +694,7 @@ in reconventie
 
 3.9.
 
-ontbindt de koopovereenkomsten tussen partijen met betrekking tot de door Neopixels aan Van de Bunt geleverde Neofixx-lijm,
+ontbindt de koopovereenkomsten tussen partijen met betrekking tot de door Neopixels aan [gedaagde] geleverde Neofixx-lijm,
 
 3.10.
 
