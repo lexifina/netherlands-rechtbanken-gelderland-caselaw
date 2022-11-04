@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:6205"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1246", "PR-Updates.nl PR-2022-0208", "Sdu Nieuws Arbeidsrecht 2022/478", "VAAN-AR-Updates.nl 2022-1246"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1246", "PR-Updates.nl PR-2022-0208", "Sdu Nieuws Arbeidsrecht 2022/478", "VAAN-AR-Updates.nl 2022-1246", "PR-Updates.nl 2022-0208"]
 ---
 
 # ECLI:NL:RBGEL:2022:6205 Rechtbank Gelderland , 04-11-2022 / 9985789 HA VERZ 22-78
