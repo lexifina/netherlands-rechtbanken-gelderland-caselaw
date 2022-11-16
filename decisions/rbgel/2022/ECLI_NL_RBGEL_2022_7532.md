@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:7532"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0087"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0087", "PR-Updates.nl 2023-0087"]
 ---
 
 # ECLI:NL:RBGEL:2022:7532 Rechtbank Gelderland , 16-11-2022 / C/05/399983 / ES RK 22-48 & C/05/406263 / FA RK 22/2127
