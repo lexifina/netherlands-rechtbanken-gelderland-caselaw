@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:6983"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2691, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBGEL:2022:6983 Rechtbank Gelderland , 15-12-2022 / ARN 21/3662
