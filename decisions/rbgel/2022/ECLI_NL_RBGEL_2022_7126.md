@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:7126"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5744, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBGEL:2022:7126 Rechtbank Gelderland , 21-12-2022 / AWB -21 _ 4284
