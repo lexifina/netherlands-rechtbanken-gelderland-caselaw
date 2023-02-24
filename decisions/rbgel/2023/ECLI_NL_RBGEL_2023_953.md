@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:953"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/644", "NLF 2023/0618", "NTFR 2023/587 met annotatie van M. van Zijl MSc", "V-N 2023/28.2.1", "Sdu Nieuws Belastingzaken 2023/252", "Viditax (FutD) 2023032001", "FutD 2023-0838"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1330, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2023:953 Rechtbank Gelderland , 24-02-2023 / AWB - 21 _ 2717
