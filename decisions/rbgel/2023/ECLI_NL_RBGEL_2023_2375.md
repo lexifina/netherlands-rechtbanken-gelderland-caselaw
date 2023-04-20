@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBGEL:2023:2375"
 court: "Rechtbank Gelderland"
 court_code: "RBGEL"
-docket: "05-178370-22"
+docket: "05.178370.22"
 decided: "2023-04-20"
 published: "2023-04-24"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:237
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBGEL:2023:2375 Rechtbank Gelderland , 20-04-2023 / 05-178370-22
+# ECLI:NL:RBGEL:2023:2375 Rechtbank Gelderland , 20-04-2023 / 05.178370.22
 
 ## Inhoudsindicatie
 
