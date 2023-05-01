@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:2483"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1137", "NLF 2023/1239", "V-N 2023/32.2.2"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:851, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2023:2483 Rechtbank Gelderland , 01-05-2023 / ARN 20/1692
