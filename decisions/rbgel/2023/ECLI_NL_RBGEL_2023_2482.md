@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:2482"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/956", "NLF 2023/1063", "V-N 2023/33.2.3", "Sdu Nieuws Belastingzaken 2023/402", "Viditax (FutD) 2023050314", "FutD 2023-1167"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBGEL:2022:2864"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBGEL:2022:2864"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:852, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2023:2482 Rechtbank Gelderland , 01-05-2023 / ARN 19/5568
