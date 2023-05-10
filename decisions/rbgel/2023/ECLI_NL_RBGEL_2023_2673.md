@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:2673"
 published_in: ["Rechtspraak.nl", "JBO 2023/16 met annotatie van Redactie"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2261"]]
 ---
 
 # ECLI:NL:RBGEL:2023:2673 Rechtbank Gelderland , 10-05-2023 / 22/1154
