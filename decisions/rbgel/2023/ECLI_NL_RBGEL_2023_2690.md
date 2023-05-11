@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:2690"
 published_in: ["Rechtspraak.nl", "NTFR 2023/1046 met annotatie van mr. B.S. Kats", "V-N Vandaag 2023/1510", "NLF 2023/1547 met annotatie van Rogier Froentjes", "V-N 2023/37.15 met annotatie van Redactie", "Viditax (FutD) 2023061210", "FutD 2023-1576"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7992"]]
 ---
 
 # ECLI:NL:RBGEL:2023:2690 Rechtbank Gelderland , 11-05-2023 / AWB - 21 _ 2786
