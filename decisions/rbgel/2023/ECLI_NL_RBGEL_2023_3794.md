@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:3794"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2023-0340"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4125"]]
 ---
 
 # ECLI:NL:RBGEL:2023:3794 Rechtbank Gelderland , 06-07-2023 / 16-286208-20
