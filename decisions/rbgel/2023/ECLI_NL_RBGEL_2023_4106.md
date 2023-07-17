@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4106"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0937", "Sdu Nieuws Arbeidsrecht 2023/298", "JAR 2023/206 met annotatie van mr. M.L.G. Otto", "PR-Updates.nl PR-2023-0153", "VAAN-AR-Updates.nl 2023-0937"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0937", "Sdu Nieuws Arbeidsrecht 2023/298", "JAR 2023/206 met annotatie van mr. M.L.G. Otto", "PR-Updates.nl PR-2023-0153", "VAAN-AR-Updates.nl 2023-0937", "PR-Updates.nl 2023-0153"]
 ---
 
 # ECLI:NL:RBGEL:2023:4106 Rechtbank Gelderland , 17-07-2023 / 10460784
