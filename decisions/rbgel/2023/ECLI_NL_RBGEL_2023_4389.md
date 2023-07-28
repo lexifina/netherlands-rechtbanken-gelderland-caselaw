@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4389"
 published_in: ["Rechtspraak.nl", "JOM 2023/339", "Omgevingsvergunning in de praktijk 2023/8931"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4953, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2023:4389 Rechtbank Gelderland , 28-07-2023 / AWB – 21 _ 2348
