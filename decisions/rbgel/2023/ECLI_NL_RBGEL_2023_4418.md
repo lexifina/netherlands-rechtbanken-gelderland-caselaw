@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4418"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1915", "NDFR Nieuws 2023/1208", "NTFR 2023/1504 met annotatie van mr. N.I. Groenland", "NLF 2023/1995 met annotatie van Recep Bagci", "V-N 2023/45.2.2", "Viditax (FutD) 2023082104", "FutD 2023-2242"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1691, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2023:4418 Rechtbank Gelderland , 01-08-2023 / 20_3168
