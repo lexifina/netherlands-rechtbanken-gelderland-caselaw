@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4952"
-published_in: ["Rechtspraak.nl", "PJ 2023/121", "PR-Updates.nl PR-2023-0184"]
+published_in: ["Rechtspraak.nl", "PJ 2023/121", "PR-Updates.nl PR-2023-0184", "PR-Updates.nl 2023-0184"]
 ---
 
 # ECLI:NL:RBGEL:2023:4952 Rechtbank Gelderland , 09-08-2023 / 413572
