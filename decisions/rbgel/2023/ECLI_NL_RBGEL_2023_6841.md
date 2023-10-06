@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6841"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2023/1273", "V-N Vandaag 2023/3107", "V-N 2024/3.2.2", "NLF 2024/0200 met annotatie van Willem Boei", "NDFR Nieuws 2024/189", "NTFR 2024/345 met annotatie van Mr. R.S. Bekker", "Viditax (FutD) 2023121502", "FutD 2024-0016"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2023/1273", "V-N Vandaag 2023/3107", "V-N 2024/3.2.2", "NLF 2024/0200 met annotatie van W. Boei LLM", "NDFR Nieuws 2024/189", "NTFR 2024/345 met annotatie van Mr. R.S. Bekker", "Viditax (FutD) 2023121502", "FutD 2024-0016"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2988, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2023:6841 Rechtbank Gelderland , 06-10-2023 / ARN 21/4128
