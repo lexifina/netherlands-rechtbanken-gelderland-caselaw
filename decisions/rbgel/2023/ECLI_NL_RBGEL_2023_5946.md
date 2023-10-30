@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBGEL:2023:5946"
 court: "Rechtbank Gelderland"
 court_code: "RBGEL"
-docket: "AWB - 22_4405"
+docket: "ARN 21/4405"
 decided: "2023-10-30"
 published: "2023-10-27"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:594
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2023/1813", "NLF 2023/2886", "NTFR 2024/183 met annotatie van mr. J.A. de Vries"]
 ---
 
-# ECLI:NL:RBGEL:2023:5946 Rechtbank Gelderland , 30-10-2023 / AWB - 22_4405
+# ECLI:NL:RBGEL:2023:5946 Rechtbank Gelderland , 30-10-2023 / ARN 21/4405
 
 ## Inhoudsindicatie
 
