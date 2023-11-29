@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6459"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/20", "NDFR Nieuws 2024/47", "NLF 2024/0124", "NTFR 2024/230 met annotatie van mr. J.H.E. Breman"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4475, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2023:6459 Rechtbank Gelderland , 29-11-2023 / 22-2877
