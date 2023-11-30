@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6490"
 published_in: ["Rechtspraak.nl", "JOM 2024/59", "Sdu Nieuws Omgevingsrecht 2024/10", "Jurisprudentie Grondzaken 2024/69 met annotatie van mr. F.M.A. van der Loo"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4803, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBGEL:2023:6490 Rechtbank Gelderland , 30-11-2023 / AWB _ 21 - 2987
