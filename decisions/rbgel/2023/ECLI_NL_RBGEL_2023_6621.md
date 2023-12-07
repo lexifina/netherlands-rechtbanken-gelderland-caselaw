@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6621"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/30", "NDFR Nieuws 2024/48", "NLF 2024/0116", "NTFR 2024/134 met annotatie van Mr. P.F. Zijlstra", "V-N 2024/10.15 met annotatie van Redactie", "Viditax (FutD) 2024010217", "FutD 2024-0105"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/30", "NDFR Nieuws 2024/48", "NLF 2024/0116", "NTFR 2024/134 met annotatie van Mr. P.F. Zijlstra", "V-N 2024/10.15", "Viditax (FutD) 2024010217", "FutD 2024-0105"]
 ---
 
 # ECLI:NL:RBGEL:2023:6621 Rechtbank Gelderland , 07-12-2023 / AWB - 22 _ 1132
