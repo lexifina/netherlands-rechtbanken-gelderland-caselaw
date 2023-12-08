@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:7230"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0032", "RBP 2024/34", "Prg. 2024/126", "NJF 2024/265"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0032", "RBP 2024/34", "Prg. 2024/126", "NJF 2024/265", "BPR-Updates.nl 2024-0032"]
 ---
 
 # ECLI:NL:RBGEL:2023:7230 Rechtbank Gelderland , 08-12-2023 / 10470587 \ CV EXPL  23-1148
