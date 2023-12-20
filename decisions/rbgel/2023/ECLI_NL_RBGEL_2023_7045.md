@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:7045"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0032", "PJ 2024/26 met annotatie van E. Lutjens", "JAR 2024/78 met annotatie van drs. L.W. Bijleveld"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0032", "PJ 2024/26 met annotatie van E. Lutjens", "JAR 2024/78 met annotatie van drs. L.W. Bijleveld", "PR-Updates.nl 2024-0032"]
 ---
 
 # ECLI:NL:RBGEL:2023:7045 Rechtbank Gelderland , 20-12-2023 / 10555905
