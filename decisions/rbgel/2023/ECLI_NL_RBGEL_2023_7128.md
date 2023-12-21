@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:7128"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/21", "V-N Vandaag 2024/61", "NLF 2024/0101", "NDFR Nieuws 2024/90", "NTFR 2024/213 met annotatie van Drs. N.M. Ligthart", "Belastingadvies 2024/4.3", "V-N 2024/15.2.2", "Viditax (FutD) 2024010311", "FutD 2024-0082", "FutD 2024-0083"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:118, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2023:7128 Rechtbank Gelderland , 21-12-2023 / ARN 22/2591
