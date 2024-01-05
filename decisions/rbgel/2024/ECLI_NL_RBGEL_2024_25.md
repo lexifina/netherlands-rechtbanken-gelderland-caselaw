@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:25"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2024/9014", "JOM 2024/84"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3685, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:25 Rechtbank Gelderland , 05-01-2024 / AWB-22_482
