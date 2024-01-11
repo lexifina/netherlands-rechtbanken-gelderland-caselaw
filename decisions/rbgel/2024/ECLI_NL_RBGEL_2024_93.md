@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:93"
-published_in: ["Rechtspraak.nl", "AB 2024/189 met annotatie van H.S. ten Cate"]
+published_in: ["Rechtspraak.nl", "AB 2024/189 met annotatie van H.S. ten Cate", "Sdu Nieuws Bestuursrecht 2024/10"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4814, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBGEL:2024:93 Rechtbank Gelderland , 11-01-2024 / 22/4472
