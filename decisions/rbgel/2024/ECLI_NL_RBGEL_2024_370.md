@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:370"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/88", "V-N Vandaag 2024/209", "NLF 2024/0244", "NDFR Nieuws 2024/217", "NTFR 2024/346 met annotatie van Mr. A.J.M. Arends", "Vp-bulletin 2024/11 met annotatie van Kluwer", "V-N 2024/16.4 met annotatie van Redactie", "Belastingadvies 2024/6.2", "Viditax (FutD) 2024012502", "FutD 2024-0241"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/88", "V-N Vandaag 2024/209", "NLF 2024/0244", "NDFR Nieuws 2024/217", "NTFR 2024/346 met annotatie van Mr. A.J.M. Arends", "Vp-bulletin 2024/11 met annotatie van Kluwer", "V-N 2024/16.4", "Belastingadvies 2024/6.2", "Viditax (FutD) 2024012502", "FutD 2024-0241"]
 ---
 
 # ECLI:NL:RBGEL:2024:370 Rechtbank Gelderland , 19-01-2024 / ARN 22/2841 e.v.
