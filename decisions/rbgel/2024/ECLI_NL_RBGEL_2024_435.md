@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:435"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0058", "PJ 2024/41 met annotatie van C. Beltman", "NTHR 2024/17, p. 61"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0058", "PJ 2024/41 met annotatie van C. Beltman", "NTHR 2024/17, p. 61", "PR-Updates.nl 2024-0058"]
 ---
 
 # ECLI:NL:RBGEL:2024:435 Rechtbank Gelderland , 24-01-2024 / 417949
