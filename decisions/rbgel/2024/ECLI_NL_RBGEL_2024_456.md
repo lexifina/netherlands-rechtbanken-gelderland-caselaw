@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:456"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/463", "NLF 2024/0580", "Belastingblad 2024/124 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/463", "NLF 2024/0580", "Belastingblad 2024/124"]
 ---
 
 # ECLI:NL:RBGEL:2024:456 Rechtbank Gelderland , 31-01-2024 / AWB 22_3292
