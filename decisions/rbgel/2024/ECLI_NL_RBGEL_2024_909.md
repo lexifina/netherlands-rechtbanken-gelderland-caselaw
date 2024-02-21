@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:909"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/452", "Sdu Nieuws Belastingzaken 2024/215", "NLF 2024/0597", "NDFR Nieuws 2024/425", "NTFR 2024/566 met annotatie van mr. A. Wolkers", "V-N 2024/23.2.2", "Viditax (FutD) 2024022602", "FutD 2024-0573"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7159, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:909 Rechtbank Gelderland , 21-02-2024 / AWB 23_1843
