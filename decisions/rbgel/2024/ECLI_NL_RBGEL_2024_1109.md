@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:1109"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/260", "V-N Vandaag 2024/542", "V-N 2024/30.28 met annotatie van Redactie", "Viditax (FutD) 2024040410", "FutD 2024-0858"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/260", "V-N Vandaag 2024/542", "V-N 2024/30.28", "Viditax (FutD) 2024040410", "FutD 2024-0858"]
 ---
 
 # ECLI:NL:RBGEL:2024:1109 Rechtbank Gelderland , 04-03-2024 / ARN - 22_3596
