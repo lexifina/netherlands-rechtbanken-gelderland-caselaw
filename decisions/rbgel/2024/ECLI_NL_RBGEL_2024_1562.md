@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:1562"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2024/37", "JBP 2024/63"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2574, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBGEL:2024:1562 Rechtbank Gelderland , 21-03-2024 / AWB _ 20-3065 en AWB _20 - 3066
