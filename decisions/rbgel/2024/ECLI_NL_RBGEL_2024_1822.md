@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:1822"
-published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2024/8710", "Omgevingswet Ruimte 2024/52"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2024/8710", "Omgevingswet Ruimte 2024/52", "Module Ruimtelijke Ordening 2026/8876"]
 ---
 
 # ECLI:NL:RBGEL:2024:1822 Rechtbank Gelderland , 29-03-2024 / AWB 24/1593
