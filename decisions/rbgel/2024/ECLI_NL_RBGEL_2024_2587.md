@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:2587"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1373, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:2587 Rechtbank Gelderland , 01-05-2024 / 23/4239
