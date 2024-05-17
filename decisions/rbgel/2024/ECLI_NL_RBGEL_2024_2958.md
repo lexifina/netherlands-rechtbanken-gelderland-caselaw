@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:2958"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1175", "NLF 2024/1260", "V-N 2024/38.10 met annotatie van Redactie", "Viditax (FutD) 2024052414", "FutD 2024-1230"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7998, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:2958 Rechtbank Gelderland , 17-05-2024 / ARN 23_668
