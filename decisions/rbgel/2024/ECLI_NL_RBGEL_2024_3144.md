@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Geheimhoudingsbeslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:3144"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1158", "NDFR Nieuws 2024/979", "NLF 2024/1327", "Sdu Nieuws Bestuursrecht 2024/106", "NTFR 2024/1074 met annotatie van Mr. P.G.M. Jansen", "V-N 2024/35.19 met annotatie van Redactie", "Viditax (FutD) 2024052701", "FutD 2024-1300"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1158", "NDFR Nieuws 2024/979", "NLF 2024/1327", "Sdu Nieuws Bestuursrecht 2024/106", "NTFR 2024/1074 met annotatie van Mr. P.G.M. Jansen", "V-N 2024/35.19", "Viditax (FutD) 2024052701", "FutD 2024-1300"]
 ---
 
 # ECLI:NL:RBGEL:2024:3144 Rechtbank Gelderland , 21-05-2024 / ARN - 22 _ 5858
