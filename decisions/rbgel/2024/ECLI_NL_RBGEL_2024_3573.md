@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:3573"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6404"]]
 ---
 
 # ECLI:NL:RBGEL:2024:3573 Rechtbank Gelderland , 05-06-2024 / C/05/429379 / HZ ZA 23-451
