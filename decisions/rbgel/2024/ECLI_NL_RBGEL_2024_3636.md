@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:3636"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1668", "V-N 2024/36.17 met annotatie van Redactie", "JIN 2024/110 met annotatie van mr. M.A.J.G. Janssen", "Prg. 2024/219", "NJF 2024/382", "JBPr 2024/57 met annotatie van prof. mr. P.E. Ernste", "Mediaforum 2024-5, nr. 10 met annotatie van W.F. Korthals Altes", "BNB 2024/124 met annotatie van R.F.C. SPEK", "EeR 2024/45, p. 239"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1668", "V-N 2024/36.17", "JIN 2024/110 met annotatie van mr. M.A.J.G. Janssen", "Prg. 2024/219", "NJF 2024/382", "JBPr 2024/57 met annotatie van prof. mr. P.E. Ernste", "Mediaforum 2024-5, nr. 10 met annotatie van W.F. Korthals Altes", "BNB 2024/124 met annotatie van R.F.C. SPEK", "EeR 2024/45, p. 239"]
 ---
 
 # ECLI:NL:RBGEL:2024:3636 Rechtbank Gelderland , 07-06-2024 / 10664071 CV23-2321
