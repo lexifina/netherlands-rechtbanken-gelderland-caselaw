@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:6161"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2015", "Sdu Nieuws Belastingzaken 2024/1148", "NDFR Nieuws 2024/1691", "NTFR 2024/1724 met annotatie van Mr. dr. C. Bruijsten", "V-N 2024/53.2.4", "Viditax (FutD) 2024100708", "FutD 2024-2141"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1856, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:6161 Rechtbank Gelderland , 18-06-2024 / AWB 22/287, 22/288, 22/290, 22/291, 22/293 t/m 22/298 en 23/1749
