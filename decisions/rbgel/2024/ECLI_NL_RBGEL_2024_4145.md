@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:4145"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0155"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0155", "PR-Updates.nl 2024-0155"]
 ---
 
 # ECLI:NL:RBGEL:2024:4145 Rechtbank Gelderland , 05-07-2024 / 10701423 / CV EXPL 23-2649
