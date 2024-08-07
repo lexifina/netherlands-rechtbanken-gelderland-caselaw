@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:5722"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:5132"]]
 ---
 
 # ECLI:NL:RBGEL:2024:5722 Rechtbank Gelderland , 07-08-2024 / 10883672 CV EXPL 24-182
