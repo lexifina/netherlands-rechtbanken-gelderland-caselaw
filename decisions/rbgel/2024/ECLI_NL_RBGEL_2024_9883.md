@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:9883"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/103 met annotatie van W.J.M. Sengers"]
 ---
 
 # ECLI:NL:RBGEL:2024:9883 Rechtbank Gelderland , 07-08-2024 / 10961865
