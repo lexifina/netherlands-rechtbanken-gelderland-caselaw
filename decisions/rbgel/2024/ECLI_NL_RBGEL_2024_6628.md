@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:6628"
 published_in: ["Rechtspraak.nl", "FutD 2025-0003", "V-N Vandaag 2025/12", "NDFR Nieuws 2025/52", "NLF 2025/0072", "NTFR 2025/235 met annotatie van mr. M.H.J. Regtuit", "V-N 2025/8.2.2"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1520, Overig"]]
 ---
 
 # ECLI:NL:RBGEL:2024:6628 Rechtbank Gelderland , 01-10-2024 / AWB 21/4924; 21/4925;  21/4926
