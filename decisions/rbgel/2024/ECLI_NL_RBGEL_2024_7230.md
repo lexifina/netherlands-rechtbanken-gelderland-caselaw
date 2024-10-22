@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:7230"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6368, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:7230 Rechtbank Gelderland , 22-10-2024 / ARN 24/4807 en 24/4808
