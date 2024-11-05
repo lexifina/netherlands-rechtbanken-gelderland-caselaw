@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:7645"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020303", "V-N Vandaag 2025/218", "FutD 2025-0280", "Sdu Nieuws Belastingzaken 2025/141", "NDFR Nieuws 2025/232", "NLF 2025/0349", "V-N 2025/13.2.4", "NTFR 2025/533 met annotatie van Mr. D.C. Simonis"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1521, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:7645 Rechtbank Gelderland , 05-11-2024 / ARN 23/5107 en 24/2056
