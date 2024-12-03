@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:8480"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2407, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2024:8480 Rechtbank Gelderland , 03-12-2024 / AWB - 23 _ 5373
