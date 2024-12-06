@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:8676"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2025/196 met annotatie van F.J.H.L. Makkinga"]
 ---
 
 # ECLI:NL:RBGEL:2024:8676 Rechtbank Gelderland , 06-12-2024 / AWB 23/1314 en 23/2473
