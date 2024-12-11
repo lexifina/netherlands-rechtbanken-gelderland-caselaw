@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:8528"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/6", "V-N Vandaag 2025/14", "Viditax (FutD) 2025010902", "FutD 2025-0083", "NDFR Nieuws 2025/67", "NTFR 2025/128 met annotatie van mr. R.B.H. Beune", "NDFR Nieuws 2025/81", "V-N 2025/8.29 met annotatie van Redactie", "JA 2025/29 met annotatie van mr. Y. Bosschaart"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/6", "V-N Vandaag 2025/14", "Viditax (FutD) 2025010902", "FutD 2025-0083", "NDFR Nieuws 2025/67", "NTFR 2025/128 met annotatie van mr. R.B.H. Beune", "NDFR Nieuws 2025/81", "V-N 2025/8.29", "JA 2025/29 met annotatie van mr. Y. Bosschaart"]
 ---
 
 # ECLI:NL:RBGEL:2024:8528 Rechtbank Gelderland , 11-12-2024 / 431391
