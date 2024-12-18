@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:9140"
-published_in: ["Rechtspraak.nl", "Notamail 2025/5", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/10", "INS-Updates.nl 2025-0009", "OR-Updates.nl 2025-0011", "RO 2025/13", "JONDR 2025/201"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/5", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/10", "INS-Updates.nl 2025-0009", "OR-Updates.nl 2025-0011", "RO 2025/13", "JONDR 2025/201", "JOR 2026/96 met annotatie van prof. mr. dr. Bastiaan Kemp"]
 ---
 
 # ECLI:NL:RBGEL:2024:9140 Rechtbank Gelderland , 18-12-2024 / 430483
