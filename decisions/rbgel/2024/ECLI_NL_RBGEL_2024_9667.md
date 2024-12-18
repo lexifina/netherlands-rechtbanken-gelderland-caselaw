@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenbeschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:9667"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0245", "AR-Updates.nl 2025-0245", "JAR 2025/78"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0245", "AR-Updates.nl 2025-0245", "JAR 2025/78", "JOR 2025/131 met annotatie van mr. drs. A.E.C.N. Verhagen", "JONDR 2025/520"]
 ---
 
 # ECLI:NL:RBGEL:2024:9667 Rechtbank Gelderland , 18-12-2024 / 11325743
