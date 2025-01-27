@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:491"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5954, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2025:491 Rechtbank Gelderland , 27-01-2025 / ARN 24/300
