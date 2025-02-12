@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:1860"
-published_in: ["Rechtspraak.nl", "Prg. 2025/143"]
+published_in: ["Rechtspraak.nl", "Prg. 2025/143", "FJR 2026/40.7", "FJR 2026/40.11"]
 ---
 
 # ECLI:NL:RBGEL:2025:1860 Rechtbank Gelderland , 12-02-2025 / 11221673 CU VERZ 24-196
