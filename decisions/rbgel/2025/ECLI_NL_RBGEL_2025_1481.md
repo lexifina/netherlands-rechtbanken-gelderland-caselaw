@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:1481"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042805", "FutD 2025-0912", "Sdu Nieuws Belastingzaken 2025/503", "NLF 2025/0939 met annotatie van Bastiaan Didden", "NDFR Nieuws 2025/814", "V-N Vandaag 2025/886", "V-N 2025/22.2.3"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042805", "FutD 2025-0912", "Sdu Nieuws Belastingzaken 2025/503", "NLF 2025/0939 met annotatie van Bastiaan Didden", "NDFR Nieuws 2025/814", "V-N Vandaag 2025/886", "V-N 2025/22.2.3", "NTFR 2025/1119 met annotatie van mr. S.P.J. van Straalen"]
 ---
 
 # ECLI:NL:RBGEL:2025:1481 Rechtbank Gelderland , 26-02-2025 / ARN 23/67
