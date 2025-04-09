@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:2674"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2025/83", "Sdu Nieuws Personen- en familierecht 2026/328"]
 ---
 
 # ECLI:NL:RBGEL:2025:2674 Rechtbank Gelderland , 09-04-2025 / 434365
