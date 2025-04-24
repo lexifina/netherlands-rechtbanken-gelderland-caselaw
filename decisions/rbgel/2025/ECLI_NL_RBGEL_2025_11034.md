@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBGEL:2025:11034"
 court: "Rechtbank Gelderland"
 court_code: "RBGEL"
-docket: "378290"
+docket: "05.378290.24"
 decided: "2025-04-24"
 published: "2025-12-16"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:110
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBGEL:2025:11034 Rechtbank Gelderland , 24-04-2025 / 378290
+# ECLI:NL:RBGEL:2025:11034 Rechtbank Gelderland , 24-04-2025 / 05.378290.24
 
 ## Inhoudsindicatie
 
