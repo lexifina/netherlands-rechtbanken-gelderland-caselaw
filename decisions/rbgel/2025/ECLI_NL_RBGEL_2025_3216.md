@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:3216"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0110", "JOR 2025/199 met annotatie van mr. L.J.J. Kerstens", "RF 2025/60", "RI 2025/105"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6407"]]
 ---
 
 # ECLI:NL:RBGEL:2025:3216 Rechtbank Gelderland , 07-05-2025 / 438811
