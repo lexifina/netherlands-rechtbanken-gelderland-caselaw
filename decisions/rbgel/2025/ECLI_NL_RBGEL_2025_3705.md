@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:3705"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3195, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2025:3705 Rechtbank Gelderland , 15-05-2025 / ARN 24/289
