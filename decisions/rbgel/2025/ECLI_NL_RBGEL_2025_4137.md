@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:4137"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5338"]]
 ---
 
 # ECLI:NL:RBGEL:2025:4137 Rechtbank Gelderland , 28-05-2025 / 11318827 CV EXPL 24-3194
