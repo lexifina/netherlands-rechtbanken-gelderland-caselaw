@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:4182"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025061601", "V-N Vandaag 2025/1217", "Sdu Nieuws Belastingzaken 2025/679", "FutD 2025-1271", "NLF 2025/1298 met annotatie van Gino Sparidis", "PJ 2025/83 met annotatie van B. Dieleman", "V-N 2025/36.2.2"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025061601", "V-N Vandaag 2025/1217", "Sdu Nieuws Belastingzaken 2025/679", "FutD 2025-1271", "NLF 2025/1298 met annotatie van E. Sparidis MSc", "PJ 2025/83 met annotatie van B. Dieleman", "V-N 2025/36.2.2"]
 ---
 
 # ECLI:NL:RBGEL:2025:4182 Rechtbank Gelderland , 30-05-2025 / AWB 20/946
