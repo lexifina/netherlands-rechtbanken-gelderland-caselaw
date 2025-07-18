@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:6713"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAR 2026/153 met annotatie van prof. mr. dr. W.A. Zondag"]
 ---
 
 # ECLI:NL:RBGEL:2025:6713 Rechtbank Gelderland , 18-07-2025 / C/05/454286 / KG ZA 25-250
