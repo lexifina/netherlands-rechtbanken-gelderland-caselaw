@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBGEL:2025:6476"
 court: "Rechtbank Gelderland"
 court_code: "RBGEL"
 docket: "ARN 24_6311"
-decided: "2025-07-23"
+decided: "2025-07-21"
 published: "2025-08-05"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:6476"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4152, Meerdere afhandelingswijzen"]]
 ---
 
-# ECLI:NL:RBGEL:2025:6476 Rechtbank Gelderland , 23-07-2025 / ARN 24_6311
+# ECLI:NL:RBGEL:2025:6476 Rechtbank Gelderland , 21-07-2025 / ARN 24_6311
 
 ## Inhoudsindicatie
 
