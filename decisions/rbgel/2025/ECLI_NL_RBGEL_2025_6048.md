@@ -1,0 +1,615 @@
+---
+ecli: "ECLI:NL:RBGEL:2025:6048"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "176698-23"
+decided: "2025-07-21"
+published: "2025-07-24"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:6048"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2025:6048 Rechtbank Gelderland , 21-07-2025 / 176698-23
+
+## Inhoudsindicatie
+
+162 uur taakstraf met aftrek van voorarrest en een voorwaardelijke gevangenisstraf van 1 maand voor openlijk geweld. Vordering benadeelde partij deels toegewezen, overige niet-ontvankelijk.
+
+Vrijspraak voor poging doodslag/zware mishandeling/ poging zware mishandeling.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Team strafrecht
+
+Zittingsplaats Arnhem
+
+Parketnummer: 05/176698-23
+
+Datum uitspraak	: 21 juli 2025
+
+Tegenspraak
+
+vonnis van de meervoudige kamer
+
+in de zaak van
+
+de officier van justitie
+
+tegen
+
+[verdachte]
+,
+
+geboren op [geboortedag] 2003 in [geboorteplaats] (Syrië),
+
+wonende aan de [adres] in ( [postcode] ) [woonplaats] .
+
+Raadsman: mr. C.J.M. Jansen, advocaat in Tilburg.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op openbare terechtzittingen.
+
+1
+De inhoud van de tenlastelegging
+
+Aan verdachte is ten laste gelegd dat:
+
+1.
+
+hij op of omstreeks 15 juli 2023 te Nijmegenter uitvoering van het door verdachte voorgenomen misdrijf om [slachtoffer] opzettelijk van het leven te beroven,die [slachtoffer] , terwijl die [slachtoffer] op de grond lag, met kracht tegen het hoofd heeft geschopt,terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid
+
+subsidiair:
+
+hij op of omstreeks 15 juli 2023 te Nijmegen,aan [slachtoffer] opzettelijk zwaar lichamelijk letsel, te weten een of meerdere wonden in/aan het aangezicht en/of enig hersenletsel, heeft toegebracht door die [slachtoffer] met kracht tegen het hoofd te schoppen;
+
+meer subsidiair:
+
+hij op of omstreeks 15 juli 2023 te Nijmegen,ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer] opzettelijk zwaar lichamelijk letsel toe te brengendie [slachtoffer] , terwijl die [slachtoffer] op de grond lag, met kracht tegen het hoofd heeft geschopt,terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+2.hij op of omstreeks 15 juli 2023 te Nijmegen,openlijk, te weten, op/aan Plein 1944 en/of aan de Bloemerstraat,in elk geval op of aan de openbare weg en/of op een voor het publiek toegankelijke plaats,in vereniging geweld heeft gepleegd tegen een persoon, te weten [slachtoffer] ,door die [slachtoffer] meermaals tegen het hoofd, de schouders, de torso en/of de benen, althans tegen het lichaam te slaan en/of te schoppen.
+
+2.	Overwegingen ten aanzien van het bewijs
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gesteld dat verdachte dient te worden vrijgesproken van het onder 1 tenlastegelegde en dat wettig en overtuigend bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan het onder 2 tenlastegelegde. Wat betreft de zogenoemde ‘kopschop’, waarop de tenlastelegging onder laatstgenoemd parketnummer ziet, heeft de officier van justitie het volgende naar voren gebracht. Er moet uitgegaan worden van het eenmaal met forse kracht schoppen tegen het hoofd van aangever; dat is de ‘kopschop’. Eén persoon moet deze schop gegeven hebben, de vraag is wie. Enerzijds kijkende naar wat getuigen [getuige 1] en [getuige 2] direct na het incident hebben verklaard, welke verklaringen wijzen naar een persoon die qua signalement overeenkomt met verdachte, en anderzijds kijkende naar de 112-gesprekken, die wijzen naar een persoon die qua signalement overeenkomst met [medeverdachte 1] , is er gerede twijfel aanwezig ten aanzien van de vraag wie van beiden heeft geschopt. Onvoldoende duidelijk is welke bewijsmiddelen de doorslag moeten geven en overtuigend bewijs ontbreekt daarom.
+
+Het standpunt van de verdediging
+
+De raadsman heeft bepleit dat verdachte integraal dient te worden vrijgesproken. Wanneer alle getuigenverklaringen en politiebevindingen nauwgezet worden bekeken, dan is er geen betrouwbaar bewijs voorhanden waaruit blijkt dat verdachte aangever ook maar met één vinger heeft aangeraakt. De enige getuigenverklaringen waaruit dat zou kunnen blijken zijn die van getuigen [getuige 1] , [getuige 2] en [getuige 3] . Die verklaringen zijn echter niet betrouwbaar en daarom niet bruikbaar voor het bewijs. Enerzijds omdat de verklaringen niet consistent zijn, anderzijds omdat ze op essentiële onderdelen verschillen van de verklaringen van andere getuigen en medeverdachten. Er is niet één objectieve getuige die heeft verklaard dat verdachte aangever heeft geslagen of geschopt. Een daadwerkelijke herkenning op de persoon van verdachte is niet verricht. Bovendien zijn er nog twee andere verdachten die zouden kunnen voldoen aan het signalement ‘jongeman met een zwart petje, een zwart t-shirt en een (ring)baardje’. Het gaat dan om de broers [medeverdachte 2] en [medeverdachte 3] . Concluderend kan niet worden vastgesteld of verdachte een significant aandeel heeft gehad in de ten laste gelegde feiten die jegens aangever zijn gepleegd en wat dat aandeel dan zou zijn geweest.
+
+Beoordeling door de rechtbank
+
+Ten aanzien van het onder 2 tenlastegelegde:
+
+Inleiding
+
+Uit de navolgende bewijsmiddelen blijkt dat aangever [slachtoffer] (hierna: [slachtoffer] ) in de avond van 15 juli 2023 in de Bloemerstraat in Nijmegen door meerdere personen is geslagen en geschopt. Hij is daarbij kortdurend bewusteloos geraakt en heeft letsel opgelopen, bestaande uit hoofdtrauma en aangezichtstrauma, te weten een barstwond in de rechterwenkbrauw met zwelling, een wondje aan de binnenzijde van de bovenlip en een slijmvliesbeschadiging aan de binnenzijde van de bovenlip met bloeduitstorting, zwelling van de onderhuidse weke delen van de neus en twee zwellingen op het achterhoofd. Verder heeft [slachtoffer] meerdere oppervlakkige schaafwonden en bloeduitstortingen opgelopen op meerdere plekken op het gezicht, zijn linkerschouder, romp en linkerbeen. Tot slot was mogelijk sprake van een bloedneus en een hersenschudding.
+
+De rechtbank dient de vraag te beantwoorden wat zich heeft afgespeeld ten tijde van het geweldsincident en te beoordelen of verdachte en zijn medeverdachten daarbij betrokken zijn geweest, en zo ja, welke rol verdachte in het geheel heeft gehad. Bij de beantwoording van deze vragen zal de rechtbank enkel uitgaan van de verklaringen die kort na het incident zijn afgelegd, nu zij deze het meest betrouwbaar acht. Enkele getuigen zijn geruime tijd later opnieuw dan wel voor het eerst gehoord bij de politie dan wel de rechter-commissaris. De toen afgelegde verklaringen zijn door tijdsverloop minder betrouwbaar, zeker waar het gaat om een geweldsincident als het onderhavige waarbij in zeer korte tijd veel is gebeurd en waarbij meerdere personen betrokken waren. Verder zal de rechtbank slechts uitgaan van de verklaringen van onderstaande getuigen, zijnde (met uitzondering van getuige [getuige 4] ) onafhankelijke getuigen die buiten het geweldsincident staan en er, anders dan verdachte en de medeverdachten, geen belang bij hebben een onjuiste voorstelling van zaken te geven. Het enkele feit dat deze verklaringen op punten verschillend zijn, maakt niet dat deze niet bruikbaar zijn voor het bewijs. Dat is namelijk bij waarnemingen in een situatie als hier aan de orde onvermijdelijk. Evenmin maakt het feit dat de getuigen telefonisch zijn gehoord de verklaringen niet zonder meer minder betrouwbaar. Zoals hierna zal blijken is uit de verklaringen een in de kern gelijkluidend beeld te destilleren.
+
+Verklaring verdachte
+
+Niet in discussie is dat verdachte deel uitmaakte van een groep van zes personen. De andere leden van die groep waren de medeverdachten: [medeverdachte 4] , [medeverdachte 1] , [medeverdachte 5] , [medeverdachte 2] en [medeverdachte 3] . Verdachte heeft ontkend dat hij geweld heeft gepleegd tegen [slachtoffer] . Hij heeft alleen geprobeerd [getuige 4] te schoppen, maar dit was mis.
+
+Bewijsmiddelen
+
+Getuige [getuige 4] is de partner van [slachtoffer] . Hij heeft verklaard dat hij in de avond van 15 juli 2023 met [slachtoffer] op de Bloemerstraat in Nijmegen liep en dat [slachtoffer] een arm om zijn middel had gedaan. [getuige 4] en [slachtoffer] kregen een heftige woordenwisseling met een groep van zes jonge mannen. [getuige 4] weet niet meer wat de aanleiding van deze woordenwisseling was. Hij hoorde de mannen naar hen roepen dat zij een ‘homo’ en ‘flikker’ waren. [getuige 4] en [slachtoffer] probeerden om de groep heen te draaien. Hierdoor ontstond een afstand tussen [getuige 4] en [slachtoffer] en de mannen kwamen op neusafstand van [getuige 4] en [slachtoffer] te staan. Er ontstond een heftige discussie en dit escaleerde in een handgemeen. De groep mannen is het gevecht gestart. Vier van de zes mannen waren actief in de mishandeling en niemand van hen probeerde de ruzie te sussen. [getuige 4] zag dat [slachtoffer] door twee of drie mannen tegen de grond werd gewerkt. Op enig moment zag hij dat [slachtoffer] op de grond lag en buiten bewustzijn is geweest.
+
+Het dossier bevat een aantal opnamen van 112-meldingen door getuigen. Deze meldingen zijn door een verbalisant beluisterd en beschreven in een proces-verbaal. Melder [getuige 5] (rechtbank: [getuige 5]) liep achter een groep van vier à vijf jongens aan die een jongen flink zouden hebben mishandeld. [getuige 5] bleef in gesprek met de medewerker totdat hij vertelde dat de politie bij de verdachten stond. Melder [getuige 6] (rechtbank: [getuige 6]) heeft aangegeven dat politie-inzet nodig is vanwege kopschopperij waarbij een viertal verdachten betrokken is. [getuige 6] heeft de verdachte die tegen het hoofd had geschopt te voet gevolgd en aan de politie bevestigd dat zij de juiste verdachten hebben aangehouden. Volgens de verbalisant blijkt uit de geluidsfragmenten dat melder [getuige 5] en melder [getuige 7] , die ook een 112-melding heeft gedaan, in hun melding aangeven dat zij hebben gezien dat de verdachte met het groene shirt dan wel de groene polo tegen het hoofd van het slachtoffer heeft geschopt.
+
+Een verbalisant heeft de signalementen van de vier aangehouden verdachten vastgelegd:
+
+[medeverdachte 1]
+
+(…) normaal postuur, ongeveer 1.70 meter lang, kort bruin haar en geen gezichtsbeharing. Hij droeg een blauwe spijkerbroek met gaten, zwarte sportschoenen van het merk Lacoste en een groen poloshirt ook van het merk Lacoste.
+
+[verdachte]
+
+(…) ongeveer 1.70 meter lang, normaal postuur, kort bruin haar, bruine snor en baard. Hij droeg een zwarte spijkerbroek van het merk Dsquared, een zwart Dsquared T-shirt, zwarte Adidas sportschoenen, een zwarte pet van het merk Under Armour en een zwarte korte jas van het merk Parajumpers.
+
+[medeverdachte 4]
+
+(…) normaal postuur, getinte huidskleur, ongeveer 1.70 meter lang, donker kort haar, donkere snor. Hij droeg een blauwe spijkerbroek, een wit Prada T-shirt, een korte blauwe gewatteerde jas van het merk Under Armour en een donkerblauwe New York Yankees baseballcap.
+
+[medeverdachte 5]
+
+(…) ongeveer 1.90 meter lang, normaal postuur, getinte huidskleur, donker zwart achterovergekamd kort haar, lichte donkergekleurde snor, klein donkergekleurd baardje, (…). Hij droeg een lichtblauwe spijkerbroek met gaten, halfhoge donkerblauwe/witte Nike Air Jordan sportschoenen en een witte korte jas met kleine geel/blauwe strepen van het merk Emporio Armani.
+
+De rechtbank stelt vast dat deze signalementen overeenkomen met de vier personen die te zien zijn op door getuigen [getuige 1] en [getuige 2] aangeleverde foto’s. Verdachte heeft zichzelf herkend als degene die als ‘verdachte 3’ wordt aangeduid op de foto’s op pagina 68 en 69 van het dossier. Verdachte 1 is [medeverdachte 1] , verdachte 2 is [medeverdachte 4] en verdachte 4 is [medeverdachte 5] .
+
+Getuige [getuige 1] liep samen met getuige [getuige 2] en hun partners in Nijmegen. Ze zagen dat vijf à zes jongens een andere jongen in elkaar sloegen. Ze schopten en sloegen allemaal met kracht tegen het slachtoffer. Toen het slachtoffer op de grond lag, zag hij dat een van de jongens met kracht tegen het hoofd van het slachtoffer trapte alsof het een voetbal was. De trap was hard en raak. [getuige 1] heeft over [medeverdachte 5] (afbeelding 1 op pagina 48) verklaard dat hij actief heeft meegedaan aan het mishandelen van het slachtoffer. Hij heeft het slachtoffer met zijn vuist geslagen en, toen het slachtoffer nog stond, geschopt. Over [medeverdachte 1] (afbeelding 1 op pagina 48) heeft [getuige 1] verklaard dat hij het slachtoffer ook heeft geslagen en twee of drie keer geschopt. Hij schopte met kracht en raakte het slachtoffer op zijn lijf. Ook hij deed actief mee in de mishandeling. Over [verdachte] (afbeelding 1 op pagina 48) heeft hij verklaard dat dit de man is die het slachtoffer een kopschop heeft gegeven. Hij haalde zijn rechterbeen naar achteren en schopte het slachtoffer, dat op de grond lag, heel hard tegen de linkerzijde van zijn hoofd. Het leek er volgens getuige op dat hij een vrije schop nam, zoals bij voetbal of rugby. Over [medeverdachte 4] (afbeelding 3 op pagina 50) heeft [getuige 1] verklaard dat hij ook actief heeft meegedaan met het mishandelen van het slachtoffer. Hij heeft hem ook zien schoppen tegen het lichaam van het slachtoffer en hij heeft hem zien slaan met zijn vuisten. De vier mannen waren verschrikkelijk agressief en verschrikkelijk erg aan het schoppen en slaan.
+
+Getuige [getuige 2] hoorde een hele harde knal en zag dat vier jongens een jongen sloegen en schopten. Die jongen viel op de grond en de jonge man met een zwarte pet, een gouden ketting en een ringbaardje schopte tegen het hoofd van de jongen samen met de jongen in het witte shirt. In een aanvullend verhoor heeft [getuige 2] onder verwijzing naar door hem genomen foto’s het volgende verklaard. [medeverdachte 1] heeft het slachtoffer geschopt en geslagen en was verbaal ook zeer agressief. [medeverdachte 4] heeft het slachtoffer ook geslagen. [verdachte] sloeg het slachtoffer en schopte op zijn lichaam en schopte ook tegen het hoofd van het slachtoffer toen het slachtoffer op de grond lag. [medeverdachte 5] heeft het slachtoffer ook geslagen en geschopt. Hij stampte op het lichaam van het slachtoffer toen het slachtoffer al op de grond lag. Dit was op diens nek of hoofd.
+
+Getuige [getuige 6] zag dat er een opstootje ontstond waarbij een jongen werd aangevallen door een groep van vier jongens. Er werd voornamelijk geslagen door de vier jongens en ze hadden alle vier een actieve rol in het slaan. Bij het weglopen van de vier jongens, draaide een jongen zich weer om en gaf hij de jongen die op de grond lag een hele harde trap. Het was volgens de getuige alsof hij tegen een lekke voetbal aan trapte, want het was een doffe klap. Hij heeft de vier mannen gevolgd totdat zij werden aangehouden.
+
+Getuige [getuige 3] heeft gezien dat vier mannen aan het slaan waren. Ze sloegen een andere man met hun vuisten en ze schopten hem. Alle vier de mannen speelden een actieve rol in de mishandeling. Een van de vier mannen schopte de andere man naar het hoofd en het leek net alsof hij een voetbal weg schoot. Hij zag de vier mannen weglopen en bleef achter hen aan lopen. Hij hield de vier mannen in het zicht waardoor hij zeker weet dat de juiste mannen werden aangehouden.
+
+Getuige [getuige 8] zag dat er duw- en trekwerk ontstond tussen een groep van vier of vijf jongens en twee andere mannen. De jongens met het witte T-shirt en het zwarte T-shirt begonnen in te slaan op de twee andere jongens. Op enig moment zag zij dat de twee jongens op de grond vielen en dat de andere vier jongens op hen in bleven slaan. Daarna liepen de vier of vijf jongens weg. Een van jongens liep terug en schopte met zijn rechtervoet tegen het hoofd van een van de andere twee mannen. Zij is achter de vier of vijf jongens aan gelopen en deze jongens werden staande gehouden.
+
+Getuige [getuige 9] zag een cirkel van mensen waarin een ruzie gaande was. Twee jongens met allebei een zwart shirt aan liepen weg en een van deze jongens had een zwart petje op. De jongen met het zwarte shirt en het zwarte petje draaide zich om en schopte een jongen die op de grond lag heel hard tegen zijn hoofd. Het leek alsof de jongen een bal heel hard weg wilde schoppen. Hij haalde echt met een gestrekt been uit. Hierna renden ze met z’n vieren weg en kort daarna zag getuige dat de vier jongens werden aangehouden door de politie.
+
+Getuige [getuige 10] zag op de Bloemerstraat twee mannen, een man in een wit shirt die erg dronken was en een man in een zwart shirt. Vier à vijf jongens waren aan het bekvechten met de twee mannen. Op een gegeven moment gaf een van de mannen gekleed in een zwart shirt een schop aan de man in zwart shirt die bij het hek stond. Hierna vlogen alle vier à vijf mannen op de twee mannen af en ze sloegen en schopten allemaal de twee mannen. Op een gegeven moment liepen de mannen door, maar de man in het groene poloshirt draaide zich om, liep naar de man die op de grond lag en gaf een harde schop tegen het hoofd van die man.
+
+[slachtoffer] droeg een witte trui.
+
+[verdachte] heeft verklaard dat zijn vriend twee mannen zag, waarvan er een heel erg op zijn mattie steunde, omdat hij zo dronken was. Zijn vrienden zeiden tegen die man "goed vasthouden". Die man begon toen heel boos te doen, dit was niet de man die zo dronken was. Hij en zijn vrienden liepen weg en toen begon de man hun moeders uit te schelden en toen ontstond de vechtpartij. [verdachte] heeft verder verklaard dat hij is gevallen toen hij probeerde de man die niet zo dronken was onderuit te halen door een soort van sliding op zijn benen te maken.
+
+[medeverdachte 2] heeft verklaard dat [verdachte] een van de mannen heeft gevloerd en dat hij toen zag dat een lange man uit het publiek rende richting de jongens die hij kent. Hij dacht dat de man wilde ingrijpen. Hij heeft een beetje met die lange man geworsteld en kreeg hem op de grond. Hij hield hem op de grond, waarop hij op zijn achterhoofd werd geslagen door een vriend van de man. Toen werd hijzelf geholpen door één van zijn vrienden. Hij was bezig die man op de grond te houden en het enige wat hij zich herinnert is dat hij een gezicht naast zich zag. Dat was niet één van zijn vrienden. Hij zag dat die persoon zijn arm omhoog deed en hij heeft toen gelijk met zijn rechtervuist in de richting van die persoon geslagen.
+
+[medeverdachte 1] heeft op 25 juli 2023 een telefoongesprek gevoerd met (naar zijn zeggen) [medeverdachte 2] . In het gesprek is onder meer het volgende gezegd:
+
+[medeverdachte 2] : “Ik ben gewoon weggekomen maat”.
+
+[medeverdachte 1] : “ja maar boer, hun weten dat wij met zes man waren, getuige waren getuigen.”
+
+[medeverdachte 2] : “Ik en [verdachte] (…) terwijl jullie met hem bezig waren. Zo kanker grote man ik veeg die man. Ik sla hem helemaal de kanker in. Ik word weer aangevallen door iemand anders. Hem heb ik ook gegeven.”
+
+Naar het oordeel van de rechtbank kan worden aangenomen dat de persoon aan de andere kant van de lijn inderdaad [medeverdachte 2] is, dit gelet op de inhoud van het gesprek die overeenkomt met de voornoemde verklaring van [medeverdachte 2] .
+
+Feitelijke gang van zaken
+
+De rechtbank gaat op grond van de voormelde bewijsmiddelen, in samenhang bezien, uit van de volgende feitelijke gang van zaken.
+
+Na een heftige woordenwisseling tussen [getuige 4] en (één of meerdere leden van) de groep van verdachte, is [verdachte] op [getuige 4] afgelopen en heeft hem geschopt dan wel geprobeerd te schoppen. Hierna is het geweld geëscaleerd en zijn, naast [verdachte] , ook [medeverdachte 4] , [medeverdachte 1] en [medeverdachte 5] daaraan gaan deelnemen en hebben zij zich gericht op [slachtoffer] . [slachtoffer] is door hen op zijn hoofd geslagen en op zijn lichaam geslagen en geschopt, ook nadat hij door het geweld op de grond terecht was gekomen. [medeverdachte 2] heeft, blijkens zijn eigen verklaring, belet dat een omstander kon ingrijpen nadat het geweld was uitgebroken. Op enig moment zijn [medeverdachte 4] , [verdachte] , [medeverdachte 1] en [medeverdachte 5] samen weggelopen. Ook [medeverdachte 2] en [medeverdachte 3] zijn weggelopen. Hierna is een van de verdachten teruggelopen naar [slachtoffer] , die nog altijd op de grond lag. Die persoon heeft [slachtoffer] met een uithaal van zijn been heel hard tegen het hoofd geschopt, waarna [slachtoffer] bewusteloos is geraakt.
+
+In dit verband merkt de rechtbank nog op dat uit de bewijsmiddelen onvoldoende naar voren komt dat ook [medeverdachte 3] een aandeel heeft gehad in de openlijke geweldpleging. De rechtbank gaat daarom uit van vijf deelnemers aan het openlijke geweld. [medeverdachte 2] heeft, door het door de anderen gepleegde geweld tegen [slachtoffer] mogelijk te maken, een wezenlijke bijdrage daaraan geleverd. Blijkens de wetsgeschiedenis kan immers het feitelijk mogelijk maken van openlijk geweld ook een wezenlijke bijdrage opleveren. De wetgever geeft onder meer als voorbeeld genoemd het afschermen van degenen die gewelddaden plegen tegen anderen die dat geweld willen beletten (Kamerstukken II, 1999-2000, 26519, nr. 199a, p. 5-6).
+
+Conclusie ten aanzien van verdachte
+
+Er zijn getuigen die verdachte op door hen gemaakte foto’s aanwijzen als een van de geweldplegers. Daarnaast zijn er getuigen die de aangehouden groep van vier, waarvan ook verdachte deel uitmaakte, aanwijzen als de groep die geweld heeft gepleegd. Anders dan de verdediging meent, laten de getuigenverklaringen er geen twijfel over bestaan dat ook verdachte [slachtoffer] heeft geslagen en geschopt. Dat [slachtoffer] rake klappen en trappen heeft gehad, zowel tegen zijn hoofd als lichaam, vindt bevestiging in het daarbij passende letsel, zoals hiervóór beschreven.
+
+Met zijn handelen heeft verdachte naar het oordeel van de rechtbank opzet gehad op de ten laste gelegde geweldshandelingen en daaraan een significante en wezenlijke bijdrage geleverd. De rechtbank acht dan ook wettig en overtuigend bewezen dat verdachte zich schuldig heeft gemaakt aan de ten laste gelegde openlijke geweldpleging.
+
+Ten aanzien van het onder 1 tenlastegelegde:
+
+Gelet op het voorgaande staat vast dat [slachtoffer] eenmaal hard tegen zijn hoofd is geschopt. Het gaat om een zogenoemde ‘kopschop’. Dat een dergelijke schop is gegeven, staat niet ter discussie. De vraag is wie dat heeft gedaan. Zoals uit de hiervóór - over het signalement van de ‘kopschopper’ niet uitputtend weergegeven - getuigenverklaringen blijkt, lopen de beschrijvingen van de persoon die heeft geschopt zodanig uiteen dat niet buiten redelijke twijfel kan worden vastgesteld wie die persoon is. Hierbij betrekt de rechtbank dat er onvoldoende reden is om aan bewijsmiddelen die in de ene richting wijzen meer bewijswaarde toe te kennen dan aan bewijsmiddelen die in een andere richting wijzen. Anders dan de officier van justitie, laat de rechtbank, ondanks de aanwijzingen in de richting van verdachte dan wel [medeverdachte 1] , volledig in het midden wie van de verdachten de ‘kopschop’ heeft gegeven. Van belang daarbij is dat niet duidelijk is welke kleding [medeverdachte 3] de bewuste avond droeg en dat ook [medeverdachte 2] net als [verdachte] klein van stuk is, een baardje heeft en volgens zijn eigen verklaring bij de politie donker gekleed was (“Grijs of zwart shirt. Lange broek. Donker gekleurd. Zwarte schoenen”, p. 302).
+
+De rechtbank concludeert dat niet wettig en overtuigend bewezen kan worden dat verdachte het onder 1 tenlastegelegde heeft begaan en zal hem daarvan vrijspreken.
+
+3
+De bewezenverklaring
+
+Naar het oordeel van de rechtbank is wettig en overtuigend bewezen dat verdachte het onder 2 tenlastegelegde heeft begaan, te weten dat:
+
+2.hij op of omstreeks 15 juli 2023 te Nijmegen,openlijk, te weten, op/aan Plein 1944 en/of aan de Bloemerstraat,in elk geval op of aan de openbare weg en/of op een voor het publiek toegankelijke plaats,in vereniging geweld heeft gepleegd tegen een persoon, te weten [slachtoffer] ,door die [slachtoffer] meermaals tegen het hoofd, de schouders, de torso en/of de benen, althans tegen het lichaam te slaan en/of te schoppen.
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten verbeterd. Verdachte is daardoor niet in de verdediging geschaad.
+
+Wat meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard, is niet bewezen.
+
+Verdachte zal daarvan worden vrijgesproken.
+
+4
+De kwalificatie van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+feit 2:
+
+openlijk in vereniging geweld plegen tegen personen.
+
+5
+De strafbaarheid van het feit
+
+Het feit is zijn strafbaar.
+
+6
+De strafbaarheid van de verdachte
+
+Verdachte is strafbaar, nu geen omstandigheid is gebleken of aannemelijk is geworden die de strafbaarheid van verdachte uitsluit.
+
+7
+De overwegingen ten aanzien van straf en/of maatregel
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte zal worden veroordeeld tot een gevangenisstraf voor de duur van 5 maanden, met aftrek van de tijd in verzekering en voorlopige hechtenis doorgebracht. Voorts heeft zij gevorderd dat een contactverbod met [slachtoffer] wordt opgelegd in de vorm van een maatregel in de zin van artikel 38v van het Wetboek van Strafrecht (Sr) voor de duur van 3 jaren. Wanneer verdachte dit contactverbod overtreedt, dient hij 7 dagen vervangende hechtenis uit te zitten, met een maximum van 6 maanden.
+
+Het standpunt van de verdediging
+
+De raadsman heeft bepleit dat rekening dient te worden gehouden met de persoonlijke omstandigheden van verdachte en dat aan verdachte in ieder geval geen onvoorwaardelijke gevangenisstraf dient te worden opgelegd. Ten aanzien van het gevorderde contactverbod heeft de raadsman geen verweer gevoerd.
+
+De beoordeling door de rechtbank
+
+De rechtbank heeft bij de bepaling van de op te leggen straf rekening gehouden met de ernst van het bewezenverklaarde, de omstandigheden waaronder dit is begaan en de persoon van verdachte, zoals daarvan uit het procesdossier en ter terechtzitting is gebleken. De rechtbank heeft in het bijzonder het volgende in haar beoordeling betrokken.
+
+Aard en ernst van het bewezenverklaarde feit
+
+Verdachte heeft samen met anderen in de avond van 15 juli 2023, tijdens de Vierdaagsefeesten, zonder enige aanleiding fors geweld gepleegd tegen [slachtoffer] . [slachtoffer] , en overigens ook zijn partner, werden tijdens het uitgaan geconfronteerd met dit volstrekt zinloze geweld zonder daartoe zelf enige aanleiding te hebben gegeven en zonder daarin zelf een aandeel te hebben gehad. Het was een situatie van (in ieder geval) vier tegen één. [slachtoffer] heeft meerdere rake klappen gekregen en is meermaals tegen zijn hoofd en lichaam geslagen. Toen hij weerloos op de grond lag is hij nog hard tegen zijn hoofd getrapt, waarna hij bewusteloos is geraakt. De manier waarop getuigen de (laatste) trap tegen het hoofd beschrijven, zoals hiervóór weergegeven, maakt duidelijk dat het een hele harde trap was. De gevolgen voor [slachtoffer] , die nu al ingrijpend zijn, hadden veel groter kunnen zijn. Het met geschoeide voet hard trappen tegen een hoofd “alsof je een bal wegschiet”, bij iemand die weerloos op de grond ligt, roept minst genomen een kans op zwaar letsel in het leven en kan zelfs leiden tot de dood. Dat het in dit geval niet zover is gekomen (en het is gebleven bij het hiervoor beschreven letsel van [slachtoffer] ), is daarom enkel een kwestie van geluk en is zeker niet aan verdachte en zijn mededaders te danken. Na het incident zijn verdachte en zijn medeverdachten weggelopen, zonder zich nog te bekommeren om het bewusteloze slachtoffer, wat zeer kwalijk is. Ook de proceshouding van verdachte spreekt niet in zijn voordeel. Hij heeft geen enkele openheid van zaken gegeven over de persoon die de zogenoemde ‘kopschop’ heeft gegeven, terwijl de rechtbank ter terechtzitting stellig de indruk heeft gekregen dat verdachte weet wie deze schop heeft uitgedeeld (indien hij het al niet zelf is geweest). Het lijkt er sterk op dat verdachte en zijn medeverdachten elkaar ‘de hand boven het hoofd houden’. Verdachte heeft ook geen enkele verantwoordelijkheid genomen voor zijn eigen aandeel in het gepleegde geweld.
+
+Verdachte heeft met zijn handelen op grove wijze inbreuk gemaakt op de lichamelijke integriteit van [slachtoffer] . [slachtoffer] heeft lichamelijk letsel opgelopen, waaronder een wond bij zijn wenkbrauw die gehecht moest worden en een blijvend litteken heeft achtergelaten. Het is bovendien een feit van algemene bekendheid dat slachtoffers van dergelijke geweldsdelicten zich nog langere tijd angstig en onveilig kunnen voelen en psychische gevolgen van het geweld kunnen ondervinden. Dat het geweld ook in dit geval een grote psychische impact heeft gehad blijkt wel uit de slachtofferverklaring van [slachtoffer] die hij ter terechtzitting van 12 mei 2025 heeft voorgedragen. Hij heeft traumabehandelingen ondergaan. Verder veroorzaakt geweld als hier aan de orde gevoelens van angst en onveiligheid in de samenleving, in het bijzonder bij hen die daarvan getuigen zijn. Veel mensen zijn noodgedwongen getuige geweest van het geweld. Dat zij het geweld, en vooral ook de zogenoemde ‘kopschop’, als schokkend hebben ervaren, blijkt wel uit hun verklaringen.
+
+Gelet op al het voorgaande, zou het bewezenverklaarde openlijke geweld op zichzelf de oplegging van een onvoorwaardelijke gevangenisstraf van enige duur rechtvaardigen. Niettemin zal de rechtbank daarvan afzien en daarbij allereerst ingaan op de vraag of sprake was van zogenoemd homogerelateerd geweld.
+
+Discriminatoir aspect?
+
+De officier van justitie heeft bij haar eis als strafverzwarend meegewogen dat er een discriminatoir aspect ten grondslag lijkt te liggen aan het geweld, nu de aanleiding daarvoor (volgens de officier van justitie) is gelegen in de omstandigheid dat [slachtoffer] een arm om zijn partner heeft gelegd, waarop er vanuit de groep van verdachte ‘homo’s’ en/of ‘flikkers’ geroepen is. De rechtbank overweegt hierover als volgt. Van belang kan zijn binnen welke context het geweld heeft plaatsgevonden. Als sprake is van homogerelateerd geweld, zijnde geweld dat puur is ingegeven door homohaat of op andere wijze verband houdt met de geaardheid van [slachtoffer] en zijn partner, is dit strafverzwarend. Duidelijk, en begrijpelijk ook, is dat [slachtoffer] en zijn partner in hun beleving zijn geconfronteerd met het geweld vanuit de groep van verdachte wegens hun geaardheid. Naar het oordeel van de rechtbank staat namelijk vast dat vanuit de groep van verdachte op enig moment is gescholden met woorden als ‘homo’s’ en/of ‘flikkers’, scheldwoorden die zien op de geaardheid van [slachtoffer] en zijn partner. Het procesdossier, en in het bijzonder de verklaring van de partner van [slachtoffer] , laten echter de mogelijkheid open dat aanvankelijk om andere redenen, bijvoorbeeld wegens andersoortige uitlatingen over de dronkenschap van [slachtoffer] en het elkaar ondersteunen, een woordenwisseling is ontstaan tussen iemand uit de groep van verdachte en de partner van [slachtoffer] en dat ergens in die woordenwisseling door iemand uit de groep van verdachte de scheldwoorden ‘homo’s’ en/of ‘flikkers’ zijn geroepen. Hoewel het gebruik van die scheldwoorden zonder twijfel kwalijk is, kan enkel op grond daarvan nog niet worden aangenomen dat [slachtoffer] (vervolgens) is mishandeld omdat hij homoseksueel is. Daarvoor biedt het procesdossier onvoldoende concrete aanknopingspunten. De rechtbank gaat daarom niet uit van een (strafverzwarend) discriminatoir aspect.
+
+Motivering van de straf
+
+Andere redenen om af te zien van de oplegging van een onvoorwaardelijke gevangenisstraf (naast het ontbreken van een discriminatoir aspect) vindt de rechtbank in het volgende. Verdachte was nog jong ten tijde van het delict, namelijk 20 jaar oud en daarmee jongvolwassen. Hij heeft, afgezien van een boete voor een in februari 2024 begane snelheidsovertreding, een blanco strafblad en is verder na 15 juli 2023 niet meer in beeld gekomen bij politie en justitie. Zijn strafblad is dus niet strafverhogend. Verder is sinds het delict de nodige tijd verstreken. Hoewel geen sprake is van overschrijding van de redelijke termijn, en het tijdsverloop bovendien voornamelijk zijn oorzaak vindt in de noodzaak tot het horen van vele getuigen, vindt de rechtbank ook om deze reden een onvoorwaardelijke gevangenisstraf niet passend.
+
+De reclassering heeft in het rapport van 23 januari 2024 toepassing van het volwassenenstrafrecht geadviseerd, welk advies de rechtbank volgt.
+
+Naar het oordeel van de rechtbank is een taakstraf passend. Volgens de oriëntatiepunten van het Landelijk Overleg Vakinhoud Strafrecht geldt als uitgangspunt bij een openlijke geweldpleging die lichamelijk letsel tot gevolg heeft gehad een taakstraf van 150 uren. De rechtbank gaat niet uit van zwaar letsel, aangezien niet duidelijk is geworden of het litteken in het gelaat van [slachtoffer] zodanig zichtbaar en ontsierend is dat het als zwaar letsel kan worden aangemerkt. Wel is het letsel van [slachtoffer] ernstiger dan enkel schrammen en blauwe plekken. Bovendien heeft het geweld ook psychisch letsel veroorzaakt. Een taakstraf van 150 uren doet om deze reden, maar ook gelet op de hiervóór besproken aard van het (heftige) openlijke geweld (in het uitgaansleven), onvoldoende recht aan de ernst van het bewezenverklaarde feit. De rechtbank zou in dit geval passend vinden (niet een onvoorwaardelijke gevangenisstraf, maar) een maximale taakstraf van 240 uren, subsidiair 120 dagen hechtenis. Daarbij merkt de rechtbank nog op dat ten aanzien van allegeweldplegers, dus ook in deze zaak, het uitgangspunt geldt van ‘gelijke monniken, gelijke kappen’. Daarom zouden alle geweldplegers, en dus ook verdachte, op gelijke wijze moeten worden gestraft. De rechtbank verwijst in dit verband naar wat zij hiervóór heeft overwogen over de proceshouding van verdachte, die er mede debet aan is dat niet duidelijk is geworden wie van de verdachten met het uitdelen van de ‘kopschop’ de grootste rol heeft gehad in geheel.
+
+In het specifieke geval van verdachte ziet de rechtbank echter aanleiding voor een andere afdoening. Verdachte heeft reeds 81 dagen in voorarrest doorgebracht. Gelet hierop, is het naar het oordeel van de rechtbank niet opportuun om aan verdachte nog een taakstraf van 240 uren op de leggen en zal zij volstaan met een taakstraf van 162 uren, te vervangen door 81 dagen hechtenis. In aanmerking nemende dat de door verdachte in voorarrest doorgebrachte tijd, zijnde 81 dagen, zich vertaald in 162 uren aftrek, resteert er voor verdachte geen nog te verrichten taakstraf. Van belang hierbij is nog dat een gevangenisstraf (hier in de vorm van voorlopige hechtenis) een zwaardere strafmodaliteit is dan een taakstraf.
+
+Wel ziet de rechtbank in de ernst van het bewezenverklaarde aanleiding om aan verdachte, net als aan zijn medeverdachten, nog een voorwaardelijke gevangenisstraf op te leggen voor de duur van één maand, met een proeftijd van twee jaren. Deze voorwaardelijke straf dient als zogenoemde ‘stok achter de deur’ om verdachte, die kennelijk vanuit het niets zeer agressief kan reageren, ervan te doordringen dat hij zich in de toekomst moet beheersen en niet opnieuw strafbare feiten mag begaan.
+
+Contactverbod
+
+Hoewel de rechtbank zich kan indenken dat een contactverbod met [slachtoffer] , in de vorm van een vrijheidsbeperkende maatregel in de zin van 38v Sr, voor hem helpend kan zijn, zal de rechtbank deze maatregel niet aan verdachte opleggen. De Hoge Raad heeft eerder beslist dat er onvoldoende grond is voor het opleggen van een vrijheidsbeperkende maatregel, wanneer daarvoor enkel het veiligheidsgevoel van het slachtoffer ter onderbouwing wordt aangevoerd (HR 27 oktober 2020, ECLI:NL:HR:2020:1680, rov. 2.4). De rechtbank ziet naast het veiligheidsgevoel van [slachtoffer] geen andere reden voor het opleggen van de maatregel. Bovendien geldt dat sinds het ten laste gelegde feit en dit vonnis twee jaar is verstreken en verdachte sindsdien geen contact heeft gezocht met [slachtoffer] . De rechtbank acht een contactverbod in de vorm van een vrijheidsbeperkende maatregel daarom niet passend en geboden.
+
+8
+De beoordeling van de civiele vordering
+
+De benadeelde partij [slachtoffer] heeft in verband met het ten laste gelegde feit een vordering tot schadevergoeding ingediend. De benadeelde partij vordert - na vermindering van eis ter terechtzitting - een bedrag van in totaal € 34.162,96, vermeerderd met de wettelijke rente. Dit bedrag is opgebouwd uit de volgende schadeposten:
+
+Beschadigde spullen 						€      244,95
+
+Arbeidsvermogensschade 					€ 15.099,00
+
+Huishoudelijke hulp/mantelzorg/persoonlijke verzorging 	€   3.010,50
+
+Zelfwerkzaamheid 						€      434,41
+
+Overige kosten (vervoerskosten en kosten zonder nut) 		€   1.992,98
+
+Medische kosten 						€   2.846,76
+
+Kosten opvragen medische informatie 				€      534,36
+
+Smartengeld							€ 10.000,00
+
+De benadeelde partij heeft verzocht de schadevergoedingsmaatregel op te leggen.
+
+Standpunten
+
+De officier van justitie heeft zich op het standpunt gesteld dat de vordering van de benadeelde partij geheel kan worden toegewezen, met toekenning van de wettelijke rente, en vordert oplegging van de schadevergoedingsmaatregel. Zij heeft verder verzocht om te bepalen dat de vordering hoofdelijk wordt toegewezen.
+
+De verdediging heeft verzocht om de benadeelde partij niet-ontvankelijk te verklaren in de vordering, primair gelet op de verzochte vrijspraak en subsidiair omdat de behandeling van de vordering een onevenredige belasting van het strafgeding oplevert. De verdediging heeft betwist dat verdachte (mede) verantwoordelijk is voor de schade van de benadeelde partij, die is ontstaan door de trap tegen het hoofd. De gevorderde schade is complex en niet van eenvoudige aard. Verder heeft de verdediging, ingeval de rechtbank mocht toekomen aan een inhoudelijke toets van de vordering, alle schadeposten nadrukkelijk betwist.
+
+De beoordeling door de rechtbank
+
+Groepsaansprakelijkheid
+
+De rechtbank stelt vast dat in gevallen als het onderhavige, waarin het geweld door verdachte in vereniging met één of meer anderen is gepleegd, in civielrechtelijk opzicht sprake is van groepsaansprakelijkheid als bedoeld in artikel 6:166 van het Burgerlijk Wetboek (BW). Dat artikel bepaalt dat, als één van tot een groep behorende personen onrechtmatig schade toebrengt en de kans op het aldus toebrengen van schade deze personen had behoren te weerhouden van hun gedragingen in groepsverband, zij hoofdelijk aansprakelijk zijn als deze gedragingen hun kunnen worden toegerekend. Het gaat daarbij dus om individuele aansprakelijkheid van tot een groep behorende personen (deelnemers) voor onrechtmatig vanuit de groep toegebrachte schade. De mate van betrokkenheid van de afzonderlijke deelnemers bij dat onrechtmatig handelen is niet van belang. De rechtvaardiging voor deze individuele aansprakelijkheid ligt in ieders bijdrage aan het in het leven roepen van de kans dat zodanige schade zou ontstaan. De regeling beoogt buiten twijfel te stellen dat een deelnemer aan onrechtmatige gedragingen in groepsverband zich niet aan aansprakelijkheid voor de daaruit ontstane schade kan onttrekken met het causaliteitsverweer dat de schade ook zonder zijn deelneming aan de groep zou zijn ontstaan.
+
+De rechtbank heeft bewezenverklaard dat verdachte openlijk geweld in vereniging heeft gepleegd tegen de benadeelde partij. Er is sprake geweest van bewuste gezamenlijke deelname aan gewelddadige gedragingen in groepsverband en tussen die gedragingen bestaat naar het oordeel van de rechtbank een duidelijke samenhang. Dergelijk groepsgeweld tegen een persoon brengt de kans met zich dat aan die persoon letsel of andere schade wordt toegebracht, en verdachte heeft dat risico voor lief genomen. De kans op het toebrengen van letsel aan de benadeelde partij had alle deelnemende groepsleden, en dus ook verdachte, moeten weerhouden van hun eigen gewelddadige gedragingen binnen dat groepsverband. Vanwege de gewelddadige deelname aan de groep zijn verdachte en zijn mededaders naar burgerlijk recht hoofdelijk aansprakelijk voor de schade die door het strafbare feit is toegebracht. Dat geldt ook voor de schade die is ontstaan door de schop tegen het hoofd van de benadeelde partij, nu ook deze geweldshandeling vanuit de groep, waarvan verdachte deel uitmaakte, is gepleegd.
+
+De rechtbank is van oordeel dat uit het onderzoek ter terechtzitting voldoende is gebleken dat de benadeelde partij als gevolg van het bewezenverklaarde handelen van verdachte rechtstreeks schade heeft geleden. De rechtbank zal hierna ingaan op de verschillende schadeposten.
+
+1. Beschadigde spullen 				  		€ 244,95
+
+De rechtbank stelt vast dat de schadeposten onvoldoende gemotiveerd zijn betwist. De schadeposten zijn voldoende onderbouwd en komen redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. De rechtbank is daarom van oordeel dat het gevorderde bedrag kan worden toegewezen.
+
+2) Arbeidsvermogensschade 					€ 15.099,00
+
+Naar het oordeel van de rechtbank staat voldoende vast dat de benadeelde partij als gevolg van het strafbare feit rechtstreeks inkomensschade heeft geleden. De benadeelde partij heeft vanwege de gevolgen van het strafbare feit enige tijd niet kunnen werken en heeft daardoor inkomsten uit zijn werk als [beroep] misgelopen. De benadeelde partij heeft vergoeding van gemiste inkomsten tussen 15 juli 2023 en 31 oktober 2023 gevorderd. Hij heeft in die periode uitkeringen ontvangen uit een - door hemzelf op eigen initiatief afgesloten - arbeidsongeschiktheidsverzekering. De rechtbank stelt vast dat deze verzekering een sommenverzekering betreft als bedoeld in artikel 7:964 BW. Dit is tussen partijen geen onderwerp van geschil geweest. De vraag is of de uitkeringen die de benadeelde partij uit deze verzekering heeft genoten op grond van artikel 6:100 BW dienen te worden verrekend met de gevorderde schadevergoeding. Verrekening vindt alleen plaats voor zover dat redelijk is. De rechtbank is van oordeel dat er geen reden is om de genoten uitkeringen in redelijkheid in mindering te brengen op de vordering tot schadevergoeding en overweegt daartoe als volgt.
+
+In het arrest Verhaeg/Jenniskens (ECLI:NL:HR:2010:BM7808) heeft de Hoge Raad gezichtspunten geboden die bij de toepassing van art. 6:100 BW in aanmerking dienen te worden genomen. Hieruit volgt dat een uitkering op grond van een sommenverzekering die door de benadeelde zelf is gesloten en betaald in beginsel niet leidt tot verrekening. Het bestaan van een dergelijke verzekering wordt in dat verband gezien als een zuiver individuele en persoonlijke beslissing, zowel voor de vraag of men een dergelijke verzekering afsluit als voor de vraag voor welke bedragen men zich wenst te verzekeren en welke premie men daarvoor bereid is betalen. Bovendien bestaat er minder snel aanleiding voor verrekening wanneer de aansprakelijkheid gebaseerd is op schuld, zoals in het onderhavige geval. De rechtbank is van oordeel dat verdachte in dat geval niet mag profiteren van de goede voorzorgsmaatregelen die de benadeelde partij heeft genomen om zijn inkomen (deels) te beschermen.
+
+De schade (de hoogte van de gederfde inkomsten) is naar het oordeel van de rechtbank door de benadeelde partij gedegen onderbouwd en het gevorderde bedrag komt de rechtbank ook redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de gevorderde arbeidsvermogensschade geheel kan worden toegewezen.
+
+3) Huishoudelijke hulp/mantelzorg/persoonlijke verzorging 	€ 3.010,50
+
+De rechtbank stelt vast dat de schadeposten onvoldoende gemotiveerd zijn betwist. De berekening van de schade is gebaseerd op de Richtlijn Huishoudelijke hulp van de Letselschade Raad en de schadeposten zijn daarmee voldoende onderbouwd en komen redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de vordering voor wat betreft deze schadeposten kan worden toegewezen.
+
+4) Zelfwerkzaamheid 						€ 434,41
+
+De rechtbank stelt vast dat de gevorderde schadepost onvoldoende gemotiveerd is betwist. De berekening van de schadepost is gebaseerd op de Richtlijn Zelfwerkzaamheid van de Letselschade Raad. De schadepost is daarmee voldoende onderbouwd en komt redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de vordering voor wat betreft deze schadepost kan worden toegewezen.
+
+5) Overige kosten (vervoerskosten en kosten zonder nut) 		€ 1.992,98
+
+a. Vervoerskosten						€      45,00
+
+De rechtbank stelt vast dat de schadepost onvoldoende gemotiveerd is betwist. De schadepost is voldoende onderbouwd en komt redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de vordering voor wat betreft deze schadepost kan worden toegewezen.
+
+b. Kosten zonder nut						€ 1.947,98
+
+De gevorderde kosten zonder nut bestaan uit kosten voor twee kaartjes voor de musical [musical] op 18 juli 2023 (€ 175,78), een weekend [plaats 1] van 11 t/m 14 augustus 2023 voor drie personen (€ 1.143,90), een kaartje voor festival [festival] op 18 augustus 2023 (€ 290,00) en een weekend [plaats 2] van 25 t/m 27 augustus 2023 voor twee personen (€ 338,30).
+
+De door de benadeelde partij gemaakte kosten staan in voldoende rechtstreeks verband tot het bewezenverklaarde feit. De rechtbank is van oordeel dat de kosten voor de musicaltickets, de boeking in [plaats 2] en voor het festivalticket geheel kunnen worden toegewezen. Deze posten zijn voldoende onderbouwd en komen redelijk voor. De gevorderde schade wegens de gemiste reis naar [plaats 1] kan naar het oordeel van de rechtbank gedeeltelijk worden toegewezen. Er was sprake van een reservering voor drie personen. Voor de rechtbank staat onvoldoende vast dat en waarom de twee reisgenoten van de benadeelde partij geen gebruik hebben kunnen en willen maken van deze boeking. Dat betekent dat een derde van de gevorderde kosten van deze boeking als schade zullen worden toegewezen, dat is € 381,30. Voor de in totaal onder deze post toegewezen schadevergoeding van € 1.185,38 is verdachte naar burgerlijk recht aansprakelijk.
+
+c. Conclusie post overige kosten
+
+De rechtbank concludeert dat de schadepost overige kosten kan worden toegewezen tot een bedrag van € 1.230,38. Voor het meerdere zal de benadeelde partij niet-ontvankelijk worden verklaard in de vordering.
+
+6) Medische kosten 						€ 2.846,76
+
+De rechtbank stelt vast dat de schadepost onvoldoende gemotiveerd is betwist. De schadeposten zijn voldoende onderbouwd en komen redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de vordering voor wat betreft deze schadepost kan worden toegewezen.
+
+7) Kosten opvragen medische informatie 				€ 534,36
+
+De rechtbank stelt vast dat de schadepost onvoldoende gemotiveerd is betwist. De schadeposten zijn voldoende onderbouwd en komen redelijk voor. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk. Daarom is de rechtbank van oordeel dat de vordering voor wat betreft deze schadepost kan worden toegewezen.
+
+8) Conclusie materiële schade
+
+De rechtbank wijst het volgende toe:
+
+Beschadigde spullen 						€      244,95
+
+Arbeidsvermogensschade 						€ 15.099,00
+
+Huishoudelijke hulp/mantelzorg/persoonlijke verzorging 		€   3.010,50
+
+Zelfwerkzaamheid 						€      434,41
+
+Overige kosten (vervoerskosten en kosten zonder nut) 		€   1.230,38
+
+Medische kosten 							€   2.846,76
+
+Kosten opvragen medische informatie 				€      534,36
+
+Totaal toegewezen bedrag:						€ 23.400,36
+
+De rechtbank zal de benadeelde partij voor het overige niet-ontvankelijk verklaren in de vordering. De benadeelde partij kan dit deel van de vordering nog aan de burgerlijke rechter voorleggen.
+
+Smartengeld
+
+De benadeelde partij heeft volgens artikel 6:106 BW recht op vergoeding van smartengeld in het geval dat, voor zover hier van belang:
+
+- de benadeelde partij lichamelijk letsel heeft opgelopen, of
+
+- de benadeelde partij op andere wijze in de persoon is aangetast.
+
+Om te spreken van een aantasting in persoon op andere wijze moet sprake zijn van geestelijk letsel of een diepe inbreuk op de persoonlijke levenssfeer, persoonlijke integriteit of een fundamenteel recht.
+
+Op basis van de genoemde bewijsmiddelen en wat ter terechtzitting over de vordering is besproken, stelt de rechtbank vast dat de benadeelde partij door het bewezenverklaarde schade heeft geleden die in de voornoemde categorieën van artikel 6:106 BW valt. Door de openlijke geweldpleging heeft de benadeelde immers lichamelijk letsel opgelopen, bestaande uit hoofdtrauma en aangezichtstrauma, te weten een barstwond in de rechterwenkbrauw met zwelling, een wondje aan de binnenzijde van de bovenlip en een slijmvliesbeschadiging aan de binnenzijde van de bovenlip met bloeduitstorting, zwelling van de onderhuidse weke delen van de neus en twee zwellingen op het achterhoofd. Verder heeft de benadeelde meerdere oppervlakkige schaafwonden en bloeduitstortingen opgelopen op meerdere plekken op het gezicht, linkerschouder, romp en linkerbeen. Ook heeft de benadeelde geestelijk letsel opgelopen in de vorm van een ‘andere gespecificeerde trauma- of stressorgerelateerde stoornis’ waarvoor hij EMDR therapie en cognitieve gedragstherapie heeft ondergaan. De benadeelde is daarmee op andere wijze in de persoon aangetast. Dit is aan verdachte toe te rekenen. De rechtbank houdt rekening met de aard en de ernst van het feit en de bedragen die Nederlandse rechters in vergelijkbare gevallen toewijzen. Naar maatstaven van billijkheid zal zij het smartengeld op een bedrag van € 5.000,00 vaststellen. De rechtbank zal de benadeelde partij voor het overige niet-ontvankelijk verklaren in de vordering.
+
+Wettelijke rente
+
+Verdachte is wettelijke rente over het toegewezen bedrag verschuldigd vanaf het moment dat de schade is ingetreden. Wanneer daarbij sprake is van een periode, zal de datum worden gekozen die ongeveer in het midden van de periode ligt. De rechtbank zal hierna per post bepalen vanaf welke datum de wettelijke rente is verschuldigd.
+
+Kostenpost
+
+Bedrag
+
+Ingangs-
+
+datum wettelijke rente
+
+Toelichting
+
+Beschadigde spullen
+
+€      244,95
+
+15 juli 2023
+
+datum feit
+
+Arbeids- vermogensschade
+
+€ 15.099,00
+
+15 september 2023
+
+datum gelegen ongeveer in het midden van de periode tussen datum feit (15 juli 2023) en datum betermelding (30 oktober 2023)
+
+Huishoudelijke hulp/mantelzorg/ persoonlijke verzorging
+
+€   3.010,50
+
+15 februari 2024
+
+datum gelegen ongeveer in het midden van de periode tussen datum feit (15 juli 2023) en einddatum huishoudelijke hulp en mantelzorg (31 juli 2024)
+
+Zelfwerkzaamheid
+
+€      434,41
+
+15 oktober 2023
+
+datum gelegen ongeveer in het midden van de periode tussen datum feit (15 juli 2023) en einddatum hulp zelfwerkzaamheid (31 december 2023)
+
+Vervoerskosten
+
+€  45,00
+
+15 juli 2023
+
+datum feit
+
+Kosten zonder nut:
+
+[musical]
+
+Weekend [plaats 1]
+
+[festival]
+
+Weekend [plaats 2]
+
+€ 175,78 + € 381,30 +
+
+€ 290,00 + € 338,30
+
+18 juli,
+
+11 augustus,
+
+18 augustus,
+
+25 augustus 2023
+
+de respectieve data waarop de kosten daadwerkelijk zonder nut zijn geworden.
+
+Medische kosten
+
+€   2.846,76
+
+15 november 2023
+
+datum gelegen ongeveer in het midden van de periode tussen datum feit (15 juli 2023) en datum laatste medische kosten (14 maart 2024)
+
+Kosten opvragen medische informatie
+
+€      534,36
+
+1 maart 2024
+
+datum gelegen ongeveer in het midden van de periode tussen eerste factuur (6 oktober 2023) en laatste factuur (30 juli 2024)
+
+Smartengeld
+
+€   5.000,00
+
+15 juli 2023
+
+datum feit
+
+Hoofdelijkheid
+
+De rechtbank overweegt dat verdachte en de mededaders ieder voor het hele schadebedrag (hoofdelijk) kunnen worden aangesproken. Verdachte hoeft niet meer te betalen indien en voor zover de mededaders de schade hebben vergoed.
+
+Schadevergoedingsmaatregel
+
+De rechtbank ziet aanleiding om op grond van artikel 36f Sr de schadevergoedingsmaatregel aan verdachte op te leggen. Verdachte wordt verplicht het aan de benadeelde partij toegewezen bedrag aan de Staat te betalen. Eventueel toegekende proceskosten zijn daar niet bij inbegrepen.
+
+9
+De toegepaste wettelijke bepalingen
+
+De oplegging van de straf en/of maatregel is gegrond op de artikelen 9, 14a, 14b, 14c, 22c, 22d, 36f, 63 en 141 van het Wetboek van Strafrecht.
+
+10
+De beslissing
+
+De rechtbank:
+
+ verklaart spreekt verdachte vrij van het onder 1 ten laste gelegde feit;
+
+ verklaart bewezen dat verdachte het tenlastegelegde, zoals vermeld onder ‘De bewezenverklaring’, heeft begaan;
+
+ verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij;
+
+ verstaat dat het aldus bewezenverklaarde oplevert het strafbare feit zoals vermeld onder ‘De kwalificatie van het bewezenverklaarde’;
+
+ verklaart verdachte hiervoor strafbaar;
+
+ veroordeelt verdachte tot een gevangenisstraf voor de duur van 1 maand;
+
+ bepaalt dat deze gevangenisstraf, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat verdachte zich voor het einde van de proeftijd van twee jaren schuldig heeft gemaakt aan een strafbaar feit;
+
+ legt op een taakstraf van 162 uren, met bevel dat indien deze straf niet naar behoren wordt verricht vervangende hechtenis zal worden toegepast voor de duur van 81 dagen;
+
+ beveelt dat voor de tijd die door verdachte vóór de tenuitvoerlegging van de taakstraf in verzekering en in voorlopige hechtenis is doorgebracht, bij de uitvoering van die straf uren in mindering worden gebracht volgens de maatstaf dat per dag in verzekering doorgebracht 2 uren in mindering worden gebracht;
+
+ten aanzien van de vordering van de benadeelde partij:
+
+ veroordeelt verdachte in verband met het ten laste gelegde feit tot betaling van schadevergoeding aan de benadeelde partij [slachtoffer] van € 23.400,36 aan materiële schade, waarvan
+
+o € 244,95 vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 15.099,00 vermeerderd met de wettelijke rente vanaf 15 september 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 3.010,50 vermeerderd met de wettelijke rente vanaf 15 februari 2024 tot aan de dag dat het hele bedrag is betaald;
+
+o € 434,41 vermeerderd met de wettelijke rente vanaf 15 oktober 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 45,00 vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 175,78 vermeerderd met de wettelijke rente vanaf 18 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 381,30 vermeerderd met de wettelijke rente vanaf 11 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 290,00 vermeerderd met de wettelijke rente vanaf 18 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 338,30 vermeerderd met de wettelijke rente vanaf 25 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 2.846,76 vermeerderd met de wettelijke rente vanaf 15 november 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 534,36 vermeerderd met de wettelijke rente vanaf 1 maart 2024 tot aan de dag dat het hele bedrag is betaald
+
+en € 5.000,- aan smartengeld, vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+ veroordeelt verdachte in de kosten die de benadeelde partij in deze procedure heeft gemaakt en de kosten die de benadeelde partij mogelijk nog moet maken om het toegewezen bedrag betaald te krijgen, tot vandaag begroot op nul;
+
+ verklaart de benadeelde partij [slachtoffer] voor het overige niet-ontvankelijk in de vordering tot vergoeding van materiële schade;
+
+ verklaart de benadeelde partij [slachtoffer] voor het overige niet-ontvankelijk in de vordering tot vergoeding van smartengeld;
+
+ legt aan verdachte de verplichting op om aan de Staat, ten behoeve van benadeelde partij [slachtoffer] , een bedrag te betalen van € 23.400,36 aan materiële schade, waarvan
+
+o € 244,95 vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 15.099,00 vermeerderd met de wettelijke rente vanaf 15 september 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 3.010,50 vermeerderd met de wettelijke rente vanaf 15 februari 2024 tot aan de dag dat het hele bedrag is betaald;
+
+o € 434,41 vermeerderd met de wettelijke rente vanaf 15 oktober 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 45,00 vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 175,78 vermeerderd met de wettelijke rente vanaf 18 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 381,30 vermeerderd met de wettelijke rente vanaf 11 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 290,00 vermeerderd met de wettelijke rente vanaf 18 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 338,30 vermeerderd met de wettelijke rente vanaf 25 augustus 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 2.846,76 vermeerderd met de wettelijke rente vanaf 15 november 2023 tot aan de dag dat het hele bedrag is betaald;
+
+o € 534,36 vermeerderd met de wettelijke rente vanaf 1 maart 2024 tot aan de dag dat het hele bedrag is betaald
+
+en € 5.000,- aan smartengeld, vermeerderd met de wettelijke rente vanaf 15 juli 2023 tot aan de dag dat het hele bedrag is betaald;
+
+ als dit bedrag aan materiële schade en smartengeld niet wordt betaald, kunnen 177 dagen gijzeling worden toegepast zonder dat de betalingsverplichting vervalt;
+
+ bepaalt daarbij dat met betaling aan de benadeelde partij in zoverre de betaling aan de Staat vervalt en omgekeerd;
+
+ bepaalt dat als de mededader(s) (een deel van) het schadebedrag betaalt/betalen dat bedrag op de betalingsverplichting van verdachte in mindering wordt gebracht.
+
+Dit vonnis is gewezen door mr. K.A.M. van Hoof (voorzitter), mr. M.J. Wasmann en mr. R.P.W. van de Meerakker, rechters, in tegenwoordigheid van mr. J.M.P. van der Meulen en mr. G.C. van de Fliert, griffiers, en uitgesproken ter openbare terechtzitting van deze rechtbank op 21 juli 2025.
+
+Mr. Van der Meulen is buiten staat dit vonnis mede te ondertekenen.
+
+Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant] van de politie Eenheid Oost-Nederland, opgemaakte proces-verbaal, dossiernummer PL0600-2023324712, gesloten op 25 augustus 2023, en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.
+
+Het schriftelijk bescheid, te weten een Verslag Medische Informatie van Forensisch arts drs. [naam 1] d.d. 2 oktober 2023, met als bijlage een brief van de huisarts d.d. 16 juli 2023, en het schriftelijk bescheid, te weten het Forensisch geneeskundig onderzoek van drs. [naam 2] van het Nederlands Forensisch Instituut d.d. 3 april 2025.
+
+Verklaring van verdachte ter terechtzitting van 1 juli 2025.
+
+Het proces-verbaal van verhoor van getuige d.d. 17 juli 2023, p. 36-37.
+
+Het aanvullend proces-verbaal van bevindingen d.d. 3 juli 2024, met nummer PL0600-2023324712-80, p. 1.
+
+Het aanvullend proces-verbaal van bevindingen d.d. 3 juli 2024, met nummer PL0600-2023324712-80, p. 2.
+
+Het proces-verbaal van bevindingen, p. 89-90.
+
+De verklaring van verdachte ter terechtzitting van 1 juli 2025.
+
+Het proces-verbaal van verhoor van getuige d.d. 15 juli 2023, p. 39.
+
+Het proces-verbaal van verhoor van getuige d.d. 22 juli 2023, p. 44-46.
+
+Het proces-verbaal van verhoor van getuige d.d. 15 juli 2023, p. 52.
+
+Het proces-verbaal van verhoor van getuige d.d. 22 juli 2023, p. 66.
+
+Het proces-verbaal van verhoor van getuige d.d. 16 juli 2023, p. 74-75
+
+Het proces-verbaal van verhoor van getuige d.d. 17 juli 2023, p. 77-78.
+
+Het proces-verbaal van verhoor van getuige d.d. 17 juli 2023, p. 80-81.
+
+Het proces-verbaal van verhoor van getuige d.d. 16 juli 2023, p. 86.
+
+Een schriftelijk bescheid, te weten Productie 1 bij de Vordering benadeelde partij [slachtoffer] .
+
+Het proces-verbaal van verhoor van [verdachte] d.d. 16 juli 2023, p. 166-167.
+
+Het proces-verbaal van verhoor van [medeverdachte 2] d.d. 23 juli 2023, p. 300-301.
+
+Het proces-verbaal van bevindingen, p. 116.
+
+Het proces-verbaal van bevindingen, p. 116.
