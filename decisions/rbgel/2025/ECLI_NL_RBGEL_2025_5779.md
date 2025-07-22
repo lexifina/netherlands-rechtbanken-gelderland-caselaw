@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:5779"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4103, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2025:5779 Rechtbank Gelderland , 22-07-2025 / AWB-24_8995
