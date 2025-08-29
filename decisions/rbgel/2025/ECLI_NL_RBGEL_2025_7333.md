@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7333"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/2114", "NLF 2025/2343 met annotatie van Rudolf Janssen", "V-N 2025/50.2.3"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/2114", "NLF 2025/2343 met annotatie van mr. R.L.M.C. Janssen", "V-N 2025/50.2.3"]
 ---
 
 # ECLI:NL:RBGEL:2025:7333 Rechtbank Gelderland , 29-08-2025 / AWB 24/41
