@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7700"
-published_in: ["Rechtspraak.nl", "RF 2026/26"]
+published_in: ["Rechtspraak.nl", "RF 2026/27"]
 ---
 
 # ECLI:NL:RBGEL:2025:7700 Rechtbank Gelderland , 01-09-2025 / C/05/452379 / HA RK 25-70
