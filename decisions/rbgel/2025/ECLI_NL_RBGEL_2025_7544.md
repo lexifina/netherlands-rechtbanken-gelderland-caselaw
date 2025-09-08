@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7544"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0190", "FJR 2025/70.21"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0190", "FJR 2025/70.21", "FJR 2026/69.38"]
 ---
 
 # ECLI:NL:RBGEL:2025:7544 Rechtbank Gelderland , 08-09-2025 / C/05/445685 / FA RK 24-4298
