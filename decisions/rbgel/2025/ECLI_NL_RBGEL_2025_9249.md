@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:9249"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5902, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBGEL:2025:9249 Rechtbank Gelderland , 29-09-2025 / 0525924821
