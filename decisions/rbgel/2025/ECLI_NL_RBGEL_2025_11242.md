@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:11242"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/42", "JONDR 2026/575"]
 ---
 
 # ECLI:NL:RBGEL:2025:11242 Rechtbank Gelderland , 08-10-2025 / C/05/446403 / HA ZA 25-27
