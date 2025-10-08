@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:11955"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0253", "VEAN-ERF-Updates.nl 2026-0253", "JERF Actueel 2026/128", "JERF 2026/84 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2025:11955 Rechtbank Gelderland , 08-10-2025 / C/05/434839 / HZ ZA 24-141
