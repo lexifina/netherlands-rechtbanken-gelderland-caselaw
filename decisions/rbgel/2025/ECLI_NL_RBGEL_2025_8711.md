@@ -10,6 +10,7 @@ procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:8711"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6061"]]
 ---
 
 # ECLI:NL:RBGEL:2025:8711 Rechtbank Gelderland , 13-10-2025 / 05-027773-25
