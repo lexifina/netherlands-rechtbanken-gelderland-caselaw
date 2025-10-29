@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:9142"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025110514", "V-N Vandaag 2025/2209", "Sdu Nieuws Belastingzaken 2025/1214", "FutD 2025-2228", "NDFR Nieuws 2025/1775", "NLF 2025/2394 met annotatie van Jelle van den Berg", "NTFR 2025/1958 met annotatie van mr. O. Eroglu"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025110514", "V-N Vandaag 2025/2209", "Sdu Nieuws Belastingzaken 2025/1214", "FutD 2025-2228", "NDFR Nieuws 2025/1775", "NLF 2025/2394 met annotatie van drs. J.E. van den Berg", "NTFR 2025/1958 met annotatie van mr. O. Eroglu"]
 ---
 
 # ECLI:NL:RBGEL:2025:9142 Rechtbank Gelderland , 29-10-2025 / ARN 23/3702
