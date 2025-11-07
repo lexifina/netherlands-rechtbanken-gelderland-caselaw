@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:10214"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.41"]
 ---
 
 # ECLI:NL:RBGEL:2025:10214 Rechtbank Gelderland , 07-11-2025 / C/05/452992 / FA RK 25-2041
