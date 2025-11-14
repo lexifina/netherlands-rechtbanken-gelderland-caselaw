@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:12031"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042310"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042310", "FutD 2026-0721", "NLF 2026/0850", "NDFR Nieuws 2026/700", "NTFR 2026/1075 met annotatie van dr. R.W.G. Rouwers"]
 ---
 
 # ECLI:NL:RBGEL:2025:12031 Rechtbank Gelderland , 14-11-2025 / 21_4977
