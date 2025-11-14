@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:12004"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042310"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042310", "FutD 2026-0721", "V-N Vandaag 2026/858", "NLF 2026/0849"]
 ---
 
 # ECLI:NL:RBGEL:2025:12004 Rechtbank Gelderland , 14-11-2025 / ARN 21/4972 e.v.
