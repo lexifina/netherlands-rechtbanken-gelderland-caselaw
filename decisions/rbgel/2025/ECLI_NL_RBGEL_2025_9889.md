@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:9889"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112601", "FutD 2025-2366", "V-N Vandaag 2025/2382", "NLF 2025/2667 met annotatie van Recep Bagci", "V-N 2026/5.1.5"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112601", "FutD 2025-2366", "V-N Vandaag 2025/2382", "NLF 2025/2667 met annotatie van mr. R. Bagci", "V-N 2026/5.1.5"]
 ---
 
 # ECLI:NL:RBGEL:2025:9889 Rechtbank Gelderland , 19-11-2025 / AWB 24/2640
