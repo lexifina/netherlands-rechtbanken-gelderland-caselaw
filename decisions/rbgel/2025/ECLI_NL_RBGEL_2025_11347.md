@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:11347"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0038"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4877"]]
 ---
 
 # ECLI:NL:RBGEL:2025:11347 Rechtbank Gelderland , 01-12-2025 / 11882315 \ HA VERZ 25-143
