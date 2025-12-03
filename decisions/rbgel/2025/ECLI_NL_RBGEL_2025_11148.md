@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Proces-verbaal"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:11148"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0031", "JA 2026/31"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0031", "JA 2026/31", "VR 2026/81"]
 ---
 
 # ECLI:NL:RBGEL:2025:11148 Rechtbank Gelderland , 03-12-2025 / 11829554 \ AZ VERZ 25-13
