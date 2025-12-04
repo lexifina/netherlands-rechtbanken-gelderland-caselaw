@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:10366"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/154 met annotatie van J.E. van den Brink, V.A. van Waarde"]
 ---
 
 # ECLI:NL:RBGEL:2025:10366 Rechtbank Gelderland , 04-12-2025 / ARN 24/3387
