@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:10883"
-published_in: ["Rechtspraak.nl", "NLF 2026/0474", "Viditax (FutD) 2026031101", "Sdu Nieuws Belastingzaken 2026/374", "FutD 2026-0430", "CFN 2026/20 met annotatie van -", "NDFR Nieuws 2026/479"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0474", "Viditax (FutD) 2026031101", "Sdu Nieuws Belastingzaken 2026/374", "FutD 2026-0430", "CFN 2026/20 met annotatie van -", "NDFR Nieuws 2026/479", "NTFR 2026/741 met annotatie van mr. T.J. Droog"]
 ---
 
 # ECLI:NL:RBGEL:2025:10883 Rechtbank Gelderland , 12-12-2025 / AWB 24_849
