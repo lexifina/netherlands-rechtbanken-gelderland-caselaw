@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:475"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0172", "VEAN-ERF-Updates.nl 2026-0172"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0172", "VEAN-ERF-Updates.nl 2026-0172", "JERF Actueel 2026/68", "JERF 2026/126"]
 ---
 
 # ECLI:NL:RBGEL:2026:475 Rechtbank Gelderland , 07-01-2026 / C/05/452051 / HA ZA 25-219
