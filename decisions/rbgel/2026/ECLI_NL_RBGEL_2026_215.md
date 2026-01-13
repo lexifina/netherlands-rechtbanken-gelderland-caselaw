@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:215"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2026/4496"]
 ---
 
 # ECLI:NL:RBGEL:2026:215 Rechtbank Gelderland , 13-01-2026 / ARN 23/1478
