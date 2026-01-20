@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:432"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/35", "TvHB 2026/23, UDH:TvHB/57046 met annotatie van mr. S. (Sonja) van der Kamp"]
 ---
 
 # ECLI:NL:RBGEL:2026:432 Rechtbank Gelderland , 20-01-2026 / 11979047
