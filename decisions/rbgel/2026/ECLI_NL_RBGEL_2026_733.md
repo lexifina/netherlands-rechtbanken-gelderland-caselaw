@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:733"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/28", "Sdu Nieuws Bestuursrecht 2026/27", "Omgevingsvergunning in de praktijk 2026/9356"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/28", "Sdu Nieuws Bestuursrecht 2026/27", "Omgevingsvergunning in de praktijk 2026/9356", "Jurisprudentie Grondzaken 2026/9 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RBGEL:2026:733 Rechtbank Gelderland , 02-02-2026 / 24-3302
