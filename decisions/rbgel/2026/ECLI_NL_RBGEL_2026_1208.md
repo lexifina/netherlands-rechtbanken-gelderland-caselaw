@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1208"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0142"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0142", "RVR 2026/47", "JA 2026/59"]
 ---
 
 # ECLI:NL:RBGEL:2026:1208 Rechtbank Gelderland , 04-02-2026 / C/05/452371
