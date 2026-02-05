@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:922"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TVA 2026/35"]
 ---
 
 # ECLI:NL:RBGEL:2026:922 Rechtbank Gelderland , 05-02-2026 / 459869
