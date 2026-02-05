@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:856"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2026/21"]
 ---
 
 # ECLI:NL:RBGEL:2026:856 Rechtbank Gelderland , 05-02-2026 / 25/1761 en ARN 25/2757
