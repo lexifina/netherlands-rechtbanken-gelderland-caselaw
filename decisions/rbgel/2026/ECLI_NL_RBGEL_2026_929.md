@@ -33,7 +33,7 @@ uitspraak van de enkelvoudige kamer van
 op het verzet van
 
 [opposant]
-, gedetineerd in de PI in Alphen aan den Rijn, opposant,
+, gedetineerd in de PI in [plaats], opposant,
 
 tegen de uitspraak van de rechtbank van 11 december 2025 in het geding tussen
 
