@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1149"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0059"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0059", "NJFCZ 2026/169", "JOR 2026/145 met annotatie van mr. R.J.C. Florijn"]
 ---
 
 # ECLI:NL:RBGEL:2026:1149 Rechtbank Gelderland , 11-02-2026 / C/05/437420 / HA ZA 24-323
