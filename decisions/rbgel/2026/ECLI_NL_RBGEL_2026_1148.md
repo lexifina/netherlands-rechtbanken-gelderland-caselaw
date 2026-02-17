@@ -45,7 +45,7 @@ tegen
 
 geboren op [geboortedatum] 1997 in [geboorteplaats] (Eritrea),
 
-wonende aan de [adres], [postcode] in [woonplaats].
+wonende aan de [adres] , [postcode] in [woonplaats] .
 
 Raadsman: mr. P-P.F. Tummers, advocaat in Nijmegen.
 
@@ -357,7 +357,7 @@ De beoordeling door de rechtbank
 
 De rechtbank heeft bij de bepaling van de op te leggen straf rekening gehouden met de aard en de ernst van hetgeen bewezen is verklaard en de omstandigheden waaronder dit is begaan. De rechtbank heeft verder rekening gehouden met de persoon en de omstandigheden van verdachte.
 
-Verdachte heeft als beginnend bestuurder een verkeersongeval veroorzaakt. Hij is een kruispunt opgereden, terwijl hij onvoldoende heeft gewacht om te kijken of de weg vrij was. Hierdoor is hij tegen de fietsende mevrouw Van Velzen aangereden. Op verkeersdeelnemers rust een zorgplicht voor de verkeersveiligheid en verdachte is hierin tekort geschoten. Dit is een relatief beperkte verkeersfout maar met heel verstrekkende consequenties. Als gevolg van het ongeval heeft Van Velzen ernstig letsel opgelopen. Zij heeft onder meer verschillende forse hoofdletsels, een hersenkneuzing, bloeduitstortingen in de hersenen en vele botbreuken op verschillende plekken in haar lichaam opgelopen. Hiervoor is zij meerdere malen geopereerd en bijna een jaar na het ongeval was zij nog steeds niet voldoende hersteld om weer thuis te wonen. Hoewel niet duidelijk is wat haar actuele situatie is, blijkt uit eerder contact dat de politie met haar had dat zij langdurig aan het revalideren is en dat de verwachting is dat zij niet volledig zal herstellen. Dat zijn zeer ingrijpende gevolgen van dit verkeersongeval. Op de zitting was verdachte zichtbaar geraakt door de gevolgen van zijn handelen.
+Verdachte heeft als beginnend bestuurder een verkeersongeval veroorzaakt. Hij is een kruispunt opgereden, terwijl hij onvoldoende heeft gewacht om te kijken of de weg vrij was. Hierdoor is hij tegen de fietsende mevrouw [slachtoffer] aangereden. Op verkeersdeelnemers rust een zorgplicht voor de verkeersveiligheid en verdachte is hierin tekort geschoten. Dit is een relatief beperkte verkeersfout maar met heel verstrekkende consequenties. Als gevolg van het ongeval heeft [slachtoffer] ernstig letsel opgelopen. Zij heeft onder meer verschillende forse hoofdletsels, een hersenkneuzing, bloeduitstortingen in de hersenen en vele botbreuken op verschillende plekken in haar lichaam opgelopen. Hiervoor is zij meerdere malen geopereerd en bijna een jaar na het ongeval was zij nog steeds niet voldoende hersteld om weer thuis te wonen. Hoewel niet duidelijk is wat haar actuele situatie is, blijkt uit eerder contact dat de politie met haar had dat zij langdurig aan het revalideren is en dat de verwachting is dat zij niet volledig zal herstellen. Dat zijn zeer ingrijpende gevolgen van dit verkeersongeval. Op de zitting was verdachte zichtbaar geraakt door de gevolgen van zijn handelen.
 
 Uit de justitiële documentatie van 24 december 2025 blijkt dat verdachte niet eerder is veroordeeld voor een strafbaar feit.
 
