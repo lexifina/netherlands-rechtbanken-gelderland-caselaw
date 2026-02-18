@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1610"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0220", "VEAN-ERF-Updates.nl 2026-0220"]
 ---
 
 # ECLI:NL:RBGEL:2026:1610 Rechtbank Gelderland , 18-02-2026 / C/05/453028 / HZ ZA 25-162
