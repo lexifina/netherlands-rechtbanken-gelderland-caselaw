@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1349"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/114"]
 ---
 
 # ECLI:NL:RBGEL:2026:1349 Rechtbank Gelderland , 18-02-2026 / 05/001370-26
