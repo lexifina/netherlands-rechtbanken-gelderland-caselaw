@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1543"
-published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0151"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0151", "JERF Actueel 2026/84"]
 ---
 
 # ECLI:NL:RBGEL:2026:1543 Rechtbank Gelderland , 18-02-2026 / C/05/454232 / HZ ZA 25-187
