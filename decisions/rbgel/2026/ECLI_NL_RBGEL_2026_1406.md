@@ -1,0 +1,326 @@
+---
+ecli: "ECLI:NL:RBGEL:2026:1406"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "ARN 25_4824"
+decided: "2026-02-26"
+published: "2026-02-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1406"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2026:1406 Rechtbank Gelderland , 26-02-2026 / ARN 25_4824
+
+## Inhoudsindicatie
+
+Jw. Beroep gegrond. Medisch advies ingewonnen. Jeugdhulp zowel via ZIN als pgb toegekend. Aan toegekende jeugdhulp ten onrechte (opschortende) voorwaarden verbonden. Bestreden besluit deels vernietigd. Toegekende jeugdhulp volstaat. Geen reden om (meer) jeugdhulp in de vorm van pgb toe te kennen. Oudste broer mag pgb niet beheren. Rechtbank voorziet zelf.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Zittingsplaats Arnhem
+
+Bestuursrecht
+
+zaaknummer: ARN 25/4824
+
+uitspraak van de enkelvoudige kamer van
+
+in de zaak tussen
+
+[eiser 1] en [eiseres] in hun hoedanigheid van wettelijk vertegenwoordigers van [eiser 2], allen uit [plaats], eisers
+
+(gemachtigde: mr. K. Wevers),
+
+en
+
+het college van burgemeester en wethouders van de gemeente Arnhem, het college
+(gemachtigde: mr. B. Klomp - van Wijk).
+
+Procesverloop
+
+Bij besluit van 13 maart 2025 (het primaire besluit) heeft het college de eerder ten behoeve van de zoon van eisers (hierna: [eiser 2]) toegekende jeugdhulp op grond van de Jeugdwet (Jw) verlengd tot en met 31 mei 2025.
+
+In het besluit van 18 september 2025 (het bestreden besluit) heeft het college het bezwaar van eisers tegen het primaire besluit gegrond verklaard en het primaire besluit herroepen. Vervolgens heeft het college, onder het stellen van voorwaarden, beslist dat ten behoeve van [eiser 2] de in het bestreden besluit genoemde jeugdhulp wordt toegekend over de periode van 1 april 2025 tot 1 oktober 2027, deels in de vorm van zorg in natura (ZIN) en voor het overige in de vorm van een (informeel) persoonsgebonden budget (pgb), voor in totaal
+
+15 uur en 30 minuten per week. Verder is de voorziening “de Reiskoffer”  toegekend (zelfstandig leren reizen).
+
+Eisers hebben tegen het bestreden besluit beroep ingesteld. Het college heeft een verweerschrift ingediend.
+
+De rechtbank heeft het beroep op 3 februari 2026 op zitting behandeld. Eiseres heeft zich laten vertegenwoordigen door haar gemachtigde. Verder was eiser, tevens zorgverlener, aanwezig. Het college heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door deskundigen.
+
+Overwegingen
+
+1. De rechtbank stelt allereerst vast dat in het primaire besluit jeugdhulp wordt toegekend over de periode van 1 april 2025 tot en met 31 mei 2025. In het bestreden besluit wordt jeugdhulp toegekend over de periode van 1 april 2025 tot 1 oktober 2027. Dit brengt mee dat het bestreden besluit voor wat betreft de periode van 1 juni 2025 tot en met 2027 moet worden gezien als een nieuw primair besluit. De rechtbank zal gezien het daartoe strekkende verzoek van partijen dit deel van het bestreden besluit op de voet van artikel 7:1a van de Algemene wet bestuursrecht betrekken in deze beroepsprocedure.
+
+2. De rechtbank gaat uit van de navolgende feiten.
+
+2.1.
+
+[eiser 2] is geboren op [geboortedatum] 2012. Hij woont samen met zijn ouders, een oudere zus en één oudere broer in een eengezinswoning. Een andere, oudere, broer woont sinds april 2025 niet meer thuis. [eiser 2], zijn zus, broers en moeder (eiseres) zijn bekend met diverse (neurobiologische) ontwikkelingsstoornissen, waardoor zij zijn aangewezen op begeleiding en ondersteuning in onder meer het sociale, emotionele en communicatieve vlak.
+
+2.2.
+
+Voor de noodzakelijke begeleiding en ondersteuning heeft [eiser 2] in ieder geval vanaf 2015 jeugdhulp, onder meer in de vorm van een pgb, van het college ontvangen, zodat hij (een deel van) de noodzakelijke begeleiding en ondersteuning bij zijn vader (eiser) kon en kan inkopen.
+
+2.3.
+
+Op verzoek van het college heeft [persoon A], als arts verbonden aan Trompetter, een medisch onderzoek verricht. Het huisbezoek heeft plaatsgevonden op 20 januari 2025, het advies is op 19 maart 2025 aan het college verzonden. De adviseur concludeert dat
+
+[eiser 2] als gevolg van duurzame medische problematiek eveneens duurzame beperkingen en belemmeringen in het dagelijks functioneren ondervindt en dat hij deze problemen niet zelf kan oplossen. Inzet van passende ondersteuning is dan ook noodzakelijk. De inzet moet bestaan uit behandeling en begeleiding. De begeleiding is nodig om hem te ondersteunen in het dagelijks functioneren, zowel op regievoerend als praktisch terrein. De omvang van de benodigde ondersteuning stelt de adviseur op 15 uur en 30 minuten per week. Informele begeleiding door vader is mogelijk, mits sprake is van een gecoördineerd traject (behandeling, school en thuis). De vraag of, en zo ja in hoeverre, deze begeleiding door vader gebruikelijke of niet-gebruikelijke (ouder-kind) zorg betreft, moet het college beantwoorden, aldus de adviseur.
+
+2.4.
+
+Hierop is het bestreden besluit genomen.
+
+Toetsingskader
+
+3. Artikel 2.3, eerste lid, van de Jw bepaalt dat, indien naar het oordeel van het college een jeugdige (…) jeugdhulp nodig heeft in verband met opgroei- en opvoedingsproblemen, psychische problemen en stoornissen en voor zover de eigen mogelijkheden en het probleemoplossend vermogen ontoereikend zijn, het college ten behoeve van de jeugdige die zijn woonplaats heeft binnen zijn gemeente, voorzieningen op het gebied van jeugdhulp treft en waarborgt het college een deskundige toeleiding naar, advisering over, bepaling van en het inzetten van de aangewezen voorziening, waardoor de jeugdige in staat wordt gesteld:
+
+a. gezond en veilig op te groeien;
+
+b. te groeien naar zelfstandigheid, en
+
+c. voldoende zelfredzaam te zijn en maatschappelijk te participeren,
+
+rekening houdend met zijn leeftijd en ontwikkelingsniveau.
+
+Het vijfde lid bepaalt dat, voor zover redelijkerwijs mogelijk, de jeugdige (…) keuzevrijheid wordt geboden met betrekking tot de activiteiten van jeugdhulp.
+
+3.1.
+
+Artikel 8.1.1, eerste lid, van de Jw bepaalt dat, als de jeugdige of zijn ouders dit wensen, het college een pgb verstrekt dat de jeugdige in staat stelt de jeugdhulp die tot de individuele voorziening behoort van derden te betrekken.
+
+Het tweede lid bepaalt dat een pgb wordt verstrekt als:
+
+a.	de jeugdige of zijn ouders naar het oordeel van het college op eigen kracht voldoende in staat zijn tot een redelijke waardering van de belangen ter zake dan wel met hulp uit hun sociale netwerk dan wel van een curator, bewindvoerder, mentor, gemachtigde, gecertificeerde instelling of aanbieder van gesloten jeugdhulp, in staat zijn de aan een persoonsgebonden budget verbonden taken op verantwoorde wijze uit te voeren;
+
+b.	de jeugdige of zijn ouders zich gemotiveerd op het standpunt stellen dat zij de individuele voorziening die wordt geleverd door een aanbieder, niet passend achten; en
+
+c.	naar het oordeel van het college is gewaarborgd dat de jeugdhulp die tot de individuele voorziening behoort en die de jeugdige of zijn ouders van het budget willen betrekken, van goede kwaliteit is.
+
+3.2.
+
+Artikel 8.1.1, derde lid van de Jw bepaalt dat bij verordening kan worden bepaald onder welke voorwaarden de persoon aan wie een persoonsgebonden budget wordt verstrekt de jeugdhulp kan betrekken van een persoon die behoort tot het sociale netwerk.
+
+3.2.1.
+
+Het college heeft in de Verordening Jeugdhulp gemeente Arnhem 2019 (hierna: de Verordening), de Beleidsregels Jeugdzorg gemeente Arnhem 2020 (hierna: de Beleidsregels) en Uitgangspuntennotitie PGB Arnhem 2017 geregeld door wie en onder welke voorwaarden een pgb worden toegekend. In de Beleidsregels is onder meer het volgende bepaald:
+
+“• Ja mits
+
+Het PGB is in beginsel beschikbaar voor alle Arnhemmers die in aanmerking komen voor ondersteuning op grond van de Jeugdwet en/of Wmo 2015. Wel is het van belang dat Arnhemmers die een PGB willen een bewuste keuze maken en weten welke verantwoordelijkheden daarmee samenhangen. We noemen dit daarom een 'Ja, mits' beleid. De "mitsen" betreffen niet alleen het beheren van het budget maar ook het aansturen van de hulp (regievoeren). Ook moet de geleverde zorg van voldoende kwaliteit zijn. De wijkcoach toetst of aan de voorwaarden is voldaan.
+
+• Regie over PGB door vertegenwoordiger
+
+In het geval de inwoner zelf niet beschikt over de benodigde vaardigheden om de regie te voeren over het PGB, kan in een aantal situaties toch een PGB worden verstrekt. Zo kan bijvoorbeeld iemand uit het netwerk of een wettelijk vertegenwoordiger de regierol op zich nemen.
+
+Ook in zo'n geval beoordeelt de wijkcoach op basis van de individuele situatie of een PGB toegekend kan worden. Daarbij gelden voor de beoordeling van de vertegenwoordiger vergelijkbare afwegingscriteria als bij beoordeling van een inwoner.
+
+• Regie en zorgverlening in principe niet in één hand
+
+Een belangrijk punt ter overweging is dat geen sprake mag zijn van een onwenselijke vermenging van rollen. Het risico van regie over het pgb en zorgverlening in één hand is dat niet gewaarborgd is dat de belangen van de inwoner zullen prevaleren boven dat van de zorgverlener.
+
+Slechts in bepaalde goed gemotiveerde uitzonderingssituaties is het toegestaan dat het aansturen van de hulp en het uitvoeren van de ondersteuning door één en dezelfde persoon wordt gedaan. Waarom in dat geval sprake is van zo'n uitzonderingssituatie moet dan duidelijk blijken uit het zorg- en budgetplan dat voorligt.”
+
+3.3.
+
+Artikel 8.1.2, derde lid, van de Jw bepaalt dat de jeugdige en zijn ouders verplicht zijn aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
+
+Het geschil
+
+4. Zoals tijdens de zitting is besproken, zijn partijen het erover eens dat het college bij het onderzoek naar de noodzaak van jeugdhulp het door de Centrale Raad van Beroep (CRvB) ontwikkelde stappenplan heeft doorlopen. Evenmin staat de totale omvang van de jeugdhulp (15 uren en 30 minuten per week) ter discussie. Echter tussen partijen bestaat verschil van inzicht of het college op juiste wijze invulling heeft gegeven aan stap 3 (vaststellen van de aard en omvang van de hulp maar met stellen van voorwaarden). Verder verschillen partijen van mening over de verdeling van de jeugdhulp in ZIN en pgb. Ook kunnen eisers zich er niet in vinden dat “de Reiskoffer” is toegekend. Op de gestelde voorwaarden zal de rechtbank ingaan in de overwegingen onder 7 en volgende. De vraag of het college een deel van jeugdhulp terecht als ZIN heeft toegekend en of “de Reiskoffer”  terecht is toegekend zal worden besproken in de overwegingen 5.2.1 en 5.2.3.
+
+De verdeling in ZIN en pgb
+
+5. Door de wetgever is het uitgangspunt dat het college bepaalt of jeugdhulp noodzakelijk is en in welke vorm deze moet worden toegekend op verschillende plekken tot uitdrukking gebracht. In de Memorie van Toelichting bij de Jw is diverse keren benadrukt dat ZIN prevaleert boven een pgb.
+
+“Na de overheveling van financiële middelen voor jeugdhulp krijgen jeugdigen en hun ouders die een aanspraak kunnen maken op een individuele voorziening de keuze tussen een voorziening in natura en een budget. Hieraan zijn wel een aantal voorwaarden verbonden.
+
+Zo moeten de jeugdigen en hun ouders er blijk van geven dat zij over de vaardigheden beschikken om de jeugdhulp die tot de individuele voorziening behoren zelf bij derden in te kunnen kopen.
+
+Daarnaast dienen de jeugdige en zijn ouder de stelling dat zij de individuele voorziening in plaats van «in natura» door middel van een budget geleverd wensen te krijgen, te onderbouwen. Om dit te doen zullen zij moeten aantonen dat zij zich voldoende hebben georiënteerd op de voorziening «in natura». Ten slotte moet de jeugdhulp die de jeugdige en zijn ouders met het budget wensen in te kopen voldoen aan de kwaliteitseisen. (…) De gemeente kan daarnaast bij verordening nog andere gevallen bepalen waarin het niet doelmatig is om een budget te verstrekken.”
+
+“Artikel 8.1.1
+
+Eerste lid
+
+De formulering van het eerste lid geeft aan dat het uitgangspunt is dat de jeugdige en zijn ouder een voorziening «in natura» krijgen. De mogelijkheid van het toekennen van een budget bestaat echter wel indien de jeugdige en zijn ouder dit wensen. In dat geval wordt een budget toegekend waarmee de jeugdige en zijn ouder de mogelijkheid hebben zelf te bepalen bij wie ze de jeugdhulp die tot de individuele voorziening behoort willen inkopen.
+
+(…)
+
+Derde lid (inmiddels vernummerd naar het tweede lid – opmerking rechtbank)
+
+Het derde lid geeft de gemeente de mogelijkheid om bij verordening regels te stellen omtrent het budget. Ingevolge onderdeel a kan de gemeente bepalen in welke gevallen het om redenen van doelmatigheid niet wenselijk is een budget te verstrekken. Zie hierover ook hetgeen hiervoor vermeld bij het tweede lid. In onderdeel b, is geregeld dat de gemeente in de verordening bepaalt in welke gevallen en onder welke voorwaarden een budget mag worden besteed voor het inkopen van informele jeugdhulp. Als de gemeente dit regelt als voorwaarde voor verstrekking, wordt de vraag of ook daaraan voldaan is vooraf getoetst. Indien dit niet het geval is doet de betrokkene er verstandig aan om van te voren bij het college na te gaan of in te kopen informele ondersteuning aan de eisen van de gemeente voor betaling voldoet. Wellicht ten overvloede zij hier nog opgemerkt dat het niet wenselijk is dat een verwijzing door de huisarts, de medisch specialist of de jeugdarts naar de jeugdhulp een aanspraak kan vestigen op een budget. Het moet in alle gevallen de gemeente zijn die bepaalt of er de mogelijkheid is om te kiezen voor een budget in plaats van een voorziening in natura. (…) Daarnaast kan de gemeente, zoals hierboven reeds vermeld, bij verordening bepalen in welke gevallen het om redenen van doelmatigheid sowieso niet wenselijk is een budget te verstrekken.
+
+Vierde lid
+
+Het wetsvoorstel bevat derhalve de mogelijkheid om een budget toegekend te krijgen, maar wel onder strenge voorwaarden. In het gesprek dat de gemeente voert met de jeugdige en zijn ouders om te achterhalen wat de aangewezen voorziening is, komt aan de orde in hoeverre de jeugdige en zijn ouders in aanmerking kunnen komen voor een budget. Het tweede lid stelt het krijgen van een budget afhankelijk van drie voorwaarden. Zo moeten de jeugdige en zijn ouder er ingevolge onderdeel a blijk van geven dat zij over voldoende vaardigheden beschikken om de jeugdhulp die tot de individuele voorziening behoren zelf bij derden in te kunnen kopen. (…) Ook hier is het aan het college om hier bij verordening nadere regels over te stellen.
+
+Bij de voorwaarde dat de jeugdige en zijn ouder moeten beschikken over voldoende vaardigheden om de jeugdhulp zelf in te kunnen kopen gaat het uitdrukkelijk niet om het beheren van het budget zelf. Dat blijft immers onder het college. Het college moet bij het toekennen van een budget de overtuiging hebben dat de jeugdige en zijn ouder de verantwoordelijkheden die komen kijken bij het inkopen van jeugdhulp aankan.
+
+Onderdeel b van het derde lid stelt vervolgens als voorwaarde dat de jeugdige en zijn ouder de stelling dat zij de individuele voorziening in plaats van «in natura» door middel van een budget geleverd wensen te krijgen, moeten onderbouwen. Om dit te doen zullen zij moeten aantonen dat zij zich voldoende hebben georiënteerd op de voorziening «in natura».
+
+Ten slotte wordt in onderdeel c gesteld dat de jeugdhulp die de jeugdige en zijn ouders met het budget wensen in te kopen voldoet aan de kwaliteitseisen. Dit zijn de eisen die in het onderhavige wetsvoorstel in hoofdstuk 4 aan de jeugdhulp worden gesteld. De gemeente zal zich ervan moeten vergewissen dat de kwaliteit van de te kopen jeugdhulp goed is, hetgeen zowel voor de veiligheid van de jeugdige en zijn ouders als voor de effectiviteit van de inzet van de jeugdhulp van groot belang kan zijn.”
+
+5.1.
+
+Een pgb kan worden toegekend als wordt voldaan het vereiste dat, kort gezegd, de jeugdige of zijn ouders het pgb op verantwoorde wijze kunnen beheren en voldoende gewaarborgd is dat de jeugdhulp die met het pgb wordt ingekocht van goede kwaliteit is (artikel 8.1.1, tweede lid, aanhef en onder a en c, van de Jw). Dit volgt ook uit het eerder genoemde “ja mits beleid” van het college. De rechtbank komt hierna terug op deze voorwaarden.
+
+5.2.
+
+Voor de toekenning van een pgb geldt verder het vereiste dat de jeugdige of zijn ouders de stelling dat zij de jeugdhulp in plaats van ‘in natura’ (ZIN) door middel van een pgb geleverd wensen te krijgen, moeten onderbouwen (artikel 8.1.1, tweede lid, aanhef en onder b van de Jw). Om dit te doen zullen de jeugdige of zijn ouders moeten aantonen dat zij zich voldoende hebben georiënteerd op de door het college toegekende voorziening ‘in natura’.
+
+5.2.1.
+
+Het college heeft [eiser 2] voor de ‘regievoerende gesprekken’ 2 uur per week ZIN toegekend, te leveren door JeugdThuiscoach, AM-support, Rubixzorg, Kenniscentrum ADHD en ASS B.V. Verder is aan [eiser 2] de voorziening “ de Reiskoffer”  toegekend. Tijdens de zitting heeft eiser opgemerkt dat met geen van de voorgestelde partijen contact is opgenomen. Evenmin is getracht gebruik te maken van “de Reiskoffer”.
+
+5.2.2.
+
+Eisers hebben zich naar het oordeel van de rechtbank dan ook niet (voldoende) georiënteerd op de door het college voorgestelde voorziening. Alleen al om die reden hoeft het college voor ‘regievoerende gesprekken’ geen pgb toe te kennen ten behoeve van [eiser 2].
+
+5.2.3.
+
+Voor wat betreft de toegekende voorziening ‘Reiskoffer’ is niet gesteld dat in plaats hiervan extra pgb moet worden toegekend. De vraag of deze voorziening terecht is toegekend hoeft derhalve geen bespreking.
+
+5.2.4.
+
+Gelet op het bovenvermelde komt de rechtbank tot de slotsom dat het college de jeugdhulp voor 2 uren per week terecht als ZIN heeft toegekend.
+
+Wie mag het pgb beheren?
+
+6. Gelet op de wet- en regelgeving zouden eisers in beginsel zelf het aan hen ten behoeve [eiser 2] toegekende pgb moeten beheren. Omdat eiser de zorgverlener is bij wie zorg met behulp van het pgb wordt ingekocht, kan hij het pgb om die reden niet beheren.
+
+Omdat eiseres is aangewezen op begeleiding (door eiser) voor huishoudelijke taken, waaronder begrepen de administratie en gebleken is dat zij de SVB  opdraagt pgb-gelden uit te keren voordat zorg is verleend, acht de rechtbank eiseres alleen al om die redenen niet in staat om het pgb te beheren. Dat staat nog los van de beoordeling door de rechtbank dat eiseres, met inachtneming van haar eigen medische problematiek, onvoldoende in staat moet worden geacht om ook de (andere) de verantwoordelijkheden die het beheren van een pgb met zich brengen te kunnen dragen, zoals de verplichting om de zorgverlener aan te sturen en te controleren op (de kwaliteit van) de te leveren zorg die van goede kwaliteit moet zijn..
+
+6.1.
+
+Het college stelt zich dan ook terecht op het standpunt dat eisers het pgb niet kunnen beheren. Het is dan vervolgens de vraag wie het pgb wel kan beheren.
+
+De oudste, nu nog thuiswonende, zoon, zoals eisers willen, of een andere partij die meer op afstand van [eiser 2] zelf staat, zoals het college wil.
+
+6.2.
+
+Eisers willen met behulp van het pgb zorg inkopen bij het eigen sociale netwerk, meer concreet: bij eiser. Met eisers is de rechtbank van oordeel dat het in dat geval
+
+– in strikte zin – is toegestaan dat de oudste zoon het pgb beheert. Uit de wet, noch de Verordening noch de Beleidsregels volgt het tegendeel.
+
+Toch is de rechtbank van oordeel dat het college in dit geval aan de toekenning van het pgb terecht de voorwaarde verbindt dat een andere partij dan de oudste zoon het pgb beheert.
+
+De rechtbank licht dat hierna toe.
+
+6.2.1.
+
+Van de beheerder wordt verwacht dat hij in staat is om de kwaliteit van de in te kopen zorg te beoordelen, bewaken en controleren, waarbij het belang van de jeugdige steeds centraal en dus voorop dient te staan. Dat volgt zowel uit de Jw als uit het Internationaal Verdrag voor de Rechten van het Kind (IVRK). De beheerder moet vanuit die waarborgfunctie zo nodig met de zorgverlener in gesprek gaan, deze bijsturen waar nodig of, als kwaliteit van de zorg niet (langer) als goed kan worden bestempeld, besluiten om een andere zorgverlener in te schakelen of zelfs andere vormen van zorg/jeugdhulp in te zetten.
+
+Het is dan ook van belang dat de beheerder voldoende afstand heeft tot de zorgverlener en niet, op welke wijze dan ook, in een afhankelijkheidsrelatie verkeert ten opzichte van die zorgverlener. Daar komt bij dat van de beheerder (relevante en ter zake doende) kennis van de problematiek van de jeugdige, in dit geval: [eiser 2] , mag worden verwacht en de daarvoor in te zetten zorg. Het betekent ook dat de beheerder bereid en in staat is om bijvoorbeeld met het wijkteam in gesprek te gaan over deze zaken.
+
+Gesteld noch gebleken is dat de oudste zoon over de juiste kennis en kunde beschikt om te beoordelen welke zorg [eiser 2], zijn jongste broer, nodig heeft en welke zorg dan als (kwalitatief) goed aangemerkt kan worden. Evenmin is gebleken dat de oudste zoon bereid is om (wel) open en neutraal met het wijkteam in gesprek te gaan over de verleende jeugdhulp, voor zover daarvoor een pgb is toegekend. Daar komt bij dat de oudste zoon, ook als hij niet meer thuis zou wonen, nog steeds in een afhankelijkheidsrelatie verkeert met zijn ouders. Het komt de rechtbank in het geval van [eiser 2] zeer onwenselijk voor dat hij voor zijn ondersteuningsbehoefte en de daarvoor in te zetten zorg afhankelijk wordt gemaakt van de opvattingen en ideeën van zijn oudste broer hierover.
+
+6.2.2.
+
+Dat, zoals eiser tijdens de zitting naar voren heeft gebracht, de oudste zoon kritisch is op het aantal uren zorg dat wordt ingekocht en de kwaliteit van de ingekochte zorg en ook bereid en in staat is om daarover met eisers in gesprek of zelfs discussie te gaan, maakt het voorgaande niet anders.
+
+6.2.3.
+
+Op grond van hetgeen hiervoor is overwogen, heeft het college terecht bepaald dat het aan eisers toegekende pgb niet door de oudste zoon kan worden beheerd.
+
+6.2.4.
+
+Van het college mag echter wel worden verwacht dat, als het college jeugdhulp in de vorm van een pgb toekent, het college meedenkt over de persoon van de beheerder. Dat volgt met zoveel woorden uit de wet en het eigen beleid van het college. Het college heeft dat nagelaten. Met het oog op de hierna te nemen beslissing overweegt de rechtbank dan ook dat de voorwaarde dat het pgb door een derde wordt beheerd, zoals opgenomen in het bestreden besluit, desondanks in stand kan blijven. De rechtbank geeft eisers, de gemachtigde en het college uitdrukkelijk in overweging om met elkaar te overleggen wie de rol van pgb-beheerder zal (gaan) vervullen. Een derde, die meer in de nabijheid van eisers woont, ligt meer voor de hand dan de oplossing waarvoor eisers nu gekozen hebben. Die bestaat er uit dat de gemachtigde van eisers het beheer voert. De rechtbank wijst partijen er op dat de gemachtigde van eisers ver weg woont, waardoor het lastig is om goed zicht te hebben en te houden op de ontwikkeling van [eiser 2] en de kwaliteit van de zorg. Daar komt bij dat het voeren van pgb-beheer niet tot de dagelijkse praktijkvoering van de gemachtigde van eisers behoort, zoals de gemachtigde tijdens de zitting heeft opgemerkt.
+
+Overige aan de toekenning van de jeugdhulp verbonden voorwaarden
+
+7. Het college heeft twee opschortende voorwaarden verbonden aan de toekenning van de jeugdhulp, te weten: 1) het binnen een maand na aanvang van de zorg (ZIN) en binnen een maand na dagtekening van de beschikking (voor informele zorg) in overleg tussen de zorgverlener, de wijkcoach en [eiser 2] op schrift stellen van de doelen, die na een jaar geëvalueerd worden en 2) het met het gezin starten met systeemtherapie.
+
+7.1.
+
+Naar het oordeel van de rechtbank heeft het college deze beide opschortende voorwaarden ten onrechte aan de toekenning van de jeugdhulp verbonden.
+
+7.1.1.
+
+In het algemeen geldt dat de vraag of de toekenning van jeugdhulp alleen aan de orde kan zijn als aan bepaalde voorwaarden wordt voldaan, moet worden beantwoord tijdens het onderzoek naar de noodzaak van jeugdhulp. Derhalve voordat een besluit wordt genomen, bij stap 3 van het stappenplan.
+
+7.1.2.
+
+Voor wat betreft de voorwaarde dat binnen een maand in overleg met de zorgverlener, de wijkcoach en [eiser 2] doelen op schrift moeten zijn gesteld, verwijst de rechtbank het college naar de basisrichtlijn Samen beslissen over hulp, die is opgesteld door onder meer het Nederlands Jeugdinstituut (NJi) en de beroepsverenigingen Beroepsvereniging van Professionals in sociaal werk (BPSW), het Nederlands Instituut van Psychologen (NIP) en de Nederlandse vereniging van pedagogen en onderwijskundigen (NVO).
+
+7.1.3.
+
+Het uitgangspunt is dat bij het onderzoek naar de (omvang van de) hulpvraag de te behalen doelen worden geïnventariseerd en vastgesteld, waarna de daarvoor eventueel te verstrekken (soort) jeugdhulp kan worden bepaald. Door te bepalen dat [eiser 2], in samenwerking met zijn zorgverlener én de wijkcoach binnen een kort tijdsbestek, doelen moet formuleren, wordt hij afhankelijk gemaakt van de medewerking van meerdere partijen.
+
+7.1.4.
+
+Ook met het stellen van de opschortende voorwaarde dat [eiser 2] de toegekende jeugdhulp, waarop hij volgens de medisch adviseur van het college is aangewezen, alleen krijgt als hij samen met de andere gezinsleden systeemtherapie volgt, wordt hij eveneens afhankelijk gemaakt van de medewerking van anderen. In dit geval van de andere leden binnen het gezin(ssysteem), terwijl hij niet over de mogelijkheden of middelen beschikt om die anderen tot medewerking of deelname aan systeemtherapie te verplichten (dwingen). Daarmee wordt voorbij gegaan aan het doel en de strekking van de toegekende jeugdhulp en komt het belang van de jeugdige in de knel.
+
+7.1.5.
+
+De rechtbank heeft uit het medisch advies overigens niet begrepen dat systeemtherapie noodzakelijk zou zijn voor de passende ondersteuning in het dagelijks functioneren op regievoerend en praktisch terrein die [eiser 2] volgens de medische adviseur moet ontvangen. Het door het college tijdens de zitting herhaalde standpunt dat, vanwege de complexe gezinssituatie en onderlinge dynamiek het niet alleen wenselijk maar ook verstandig is dat alle (nog thuiswonende) gezinsleden gezamenlijk in (systeem)therapie gaan, berust daarom niet op een deskundig advies.
+
+7.2.
+
+Gelet op het voorgaande komt de rechtbank tot de slotsom dat het bestreden besluit, voor zover het gaat om de daaraan verbonden voorwaarden, in strijd is met de wet. Het beroep is gegrond.
+
+Conclusie en gevolgen
+
+8. De rechtbank vernietigt daarom het bestreden besluit voor zover daarbij de voorwaarden zijn opgelegd dat [eiser 2] binnen een maand na aanvang van de zorg (ZIN) en binnen een maand na dagtekening van de beschikking (voor informele zorg) in overleg tussen de zorgverlener, de wijkcoach en [eiser 2] de doelen, die na een jaar geëvalueerd worden, op schrift gesteld moeten worden en dat het gezin start met systeemtherapie.
+
+8.1.
+
+De rechtbank neemt met toepassing van artikel 8:72, derde lid, aanhef en onder b, van de Algemene wet bestuursrecht nu zelf een beslissing en bepaalt dat aan [eiser 2] de jeugdhulp zoals toegekend in het bestreden besluit onverkort zal worden toegekend, zonder oplegging van de hiervoor genoemde voorwaarden.
+
+8.2.
+
+Omdat het beroep gegrond is, moet het college het griffierecht aan eisers vergoeden en krijgen eisers ook een vergoeding van hun proceskosten. Het college moet deze vergoeding betalen. Deze vergoeding bedraagt € 1.868 omdat de gemachtigde van eisers een beroepschrift heeft ingediend en aan de zitting heeft deelgenomen. Verder zijn er geen kosten gemaakt die vergoed kunnen worden.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het besluit van 18 september 2025 voor wat betreft de hiervoor onder 8. genoemde voorwaarden die zijn verbonden aan de toekenning van jeugdhulp aan [eiser 2];
+
+- bepaalt dat het besluit van 18 september 2025 voor het overige in stand blijft;
+
+- bepaalt dat het college het griffierecht van € 53 aan eisers moet vergoeden;
+
+- veroordeelt het college tot betaling van € 1.868 aan proceskosten aan eisers.
+
+Deze uitspraak is gedaan door mr. H.J. Klein Egelink, rechter, in aanwezigheid van
+
+mr. K.V. van Weert, griffier.
+
+Uitgesproken in het openbaar op
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over hoger beroep
+
+Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar de Centrale Raad van Beroep waarin wordt uitgelegd waarom deze partij het niet eens is met deze uitspraak. Het hogerberoepschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden.
+
+Digitaal hoger beroep instellen kan via “Formulieren en inloggen” op www.rechtspraak.nl. Hoger beroep instellen kan eventueel ook nog steeds door verzending van een brief aan de Centrale Raad van Beroep, Postbus 16002, 3500 DA Utrecht.
+
+Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van de Centrale Raad van Beroep vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen.
+
+Te rekenen vanaf 1 april 2025.
+
+Zoals opgenomen in het proces-verbaal van zitting.
+
+Zie ook de Memorie van Toelichting, Tweede Kamer, vergaderjaar 2012–2013, 33684, nummer 3, bladzijde 8, waar staat “Vervolgens beslist de gemeente of en welke voorziening een jeugdige nodig heeft. Dit komt tot uitdrukking in de zinsnede «naar het oordeel van» in artikel 2.3, eerste lid.”
+
+Zie de uitspraak van de Centrale Raad van Beroep van 1 mei 2017, ECLI:NL:CRVB:2017:1477.
+
+Zie ook de Memorie van Toelichting, Tweede Kamer, vergaderjaar 2012–2013, 33684, nummer 3, bladzijde 95 en volgende.
+
+Zie de Memorie van Toelichting, Tweede Kamer, vergaderjaar 2012–2013, 33684, nummer 3, bladzijde 220 en volgende.
+
+Te raadplegen via [website]. In het bijzonder de paragrafen 4.1 en 7.1.
