@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBGEL:2026:1775"
 court: "Rechtbank Gelderland"
 court_code: "RBGEL"
-docket: "166671-23"
+docket: "05/166671-23"
 decided: "2026-02-26"
 published: "2026-03-09"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:177
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBGEL:2026:1775 Rechtbank Gelderland , 26-02-2026 / 166671-23
+# ECLI:NL:RBGEL:2026:1775 Rechtbank Gelderland , 26-02-2026 / 05/166671-23
 
 ## Inhoudsindicatie
 
