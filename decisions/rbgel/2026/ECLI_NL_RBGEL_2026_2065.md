@@ -1,0 +1,368 @@
+---
+ecli: "ECLI:NL:RBGEL:2026:2065"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "05/206465-25; 05/218974-25"
+decided: "2026-03-10"
+published: "2026-03-16"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2065"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2026:2065 Rechtbank Gelderland , 10-03-2026 / 05/206465-25; 05/218974-25
+
+## Inhoudsindicatie
+
+Jeugdstrafrecht. Veroordeling van vier minderjarigen verdachten voor onder andere het afpersingen van een minderjarigen met een mes.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Team strafrecht
+
+Zittingsplaats Arnhem
+
+Parketnummer: 05/206465-25; 05/218974-25
+
+Datum uitspraak	: 10 maart 2026
+
+Tegenspraak
+
+vonnis van de meervoudige kamer voor jeugdstrafzaken
+
+in de zaak van
+
+de officier van justitie
+
+tegen
+
+[verdachte]
+,
+
+geboren op [geboortedag] 2008 in [geboorteplaats], wonende aan [adres].
+
+Raadsman: mr. D.C. Dorrestein, advocaat in Houten.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op een terechtzitting achter gesloten deuren.
+
+1
+De inhoud van de tenlastelegging
+
+Onder parketnummer 05/206465-25 is aan verdachte is ten laste gelegd dat:
+
+1.hij op of omstreeks 6 juli 2025 te Nijmegentezamen en in vereniging met een of meer anderen, althans alleen,een tas (met inhoud) en/of een telefoon en/of een bankpas en/of een vape, in elkgeval enig(e) goed(eren), dat/die geheel of ten dele aan [aangever 1], in elk gevalaan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeftweggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijldeze diefstal werd voorafgegaan, vergezeld en/of gevolgd van geweld en/ofbedreiging met geweld tegen die [aangever 1], gepleegd met het oogmerk om diediefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping opheterdaad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vluchtmogelijk te maken, hetzij het bezit van het gestolene te verzekeren, door- tegen die [aangever 1] te zeggen dat hij zijn tas af moet geven en/of- tegen die [aangever 1] te zeggen dat hij met hen, verdachten, mee moet lopen en/ofin het midden van de groep moet (blijven) lopen en/of die [aangever 1] in het middenvan de groep te duwen en/of- een mes te trekken en/of te tonen aan die [aangever 1] en/of een mes op zeer korteafstand van die [aangever 1] te houden en/of op die [aangever 1] te richten en/of- die [aangever 1] op/tegen het lichaam te duwen en/of op/tegen het hoofd en/of hetlichaam te slaan en/of te stompen en/of- tegen die [aangever 1] te zeggen dat hij zijn spullen af moet geven en/of- voornoemd mes op/tegen de keel van die [aangever 1] te zetten en/of die [aangever 1](daarbij) de woorden toe te voegen: "als je de code niet zegt gaat het mes recht doorje strot heen" en/of- (vervolgens) tegen die [aangever 1] te zeggen dat hij (weer) mee moet lopen en/of alsdie [aangever 1] weg gaat rennen voornoemd mes naar hem gegooid zal worden en/of- tegen die [aangever 1] te zeggen dat hij op zijn knieën moet gaan zitten en/of- (vervolgens) voornoemd mes op/tegen het (voor)hoofd van die [aangever 1] tehouden en/of te drukken,althans handelingen en/of woorden van gelijke aard en/of strekking;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou
+
+kunnen leiden:
+
+hij op of omstreeks 6 juli 2025 te Nijmegentezamen en in vereniging met een of meer anderen, althans alleen,met het oogmerk om zich en/of een ander wederrechtelijk te bevoordelendoor geweld en/of bedreiging met geweld[aangever 1] heeft gedwongen tot de afgifte van een tas (met inhoud) en/of eentelefoon en/of een bankpas en/of een vape, in elk geval enig(e) goed(eren), dat/diegeheel of ten dele aan die [aangever 1] en/of een derde toebehoorde(n)door- tegen die [aangever 1] te zeggen dat hij zijn tas af moet geven en/of- tegen die [aangever 1] te zeggen dat hij met hen, verdachten, mee moet lopen en/ofin het midden van de groep moet (blijven) lopen en/of die [aangever 1] in het middenvan de groep te duwen en/of- een mes te trekken en/of te tonen aan die [aangever 1] en/of een mes op zeer korteafstand van die [aangever 1] te houden en/of op die [aangever 1] te richten en/of- die [aangever 1] op/tegen het lichaam te duwen en/of op/tegen het hoofd en/of hetlichaam te slaan en/of te stompen en/of- tegen die [aangever 1] te zeggen dat hij zijn spullen af moet geven en/of- voornoemd mes op/tegen de keel van die [aangever 1] te zetten en/of die [aangever 1](daarbij) de woorden toe te voegen: "als je de code niet zegt gaat het mes recht doorje strot heen" en/of- (vervolgens) tegen die [aangever 1] te zeggen dat hij (weer) mee moet lopen en/of alsdie [aangever 1] weg gaat rennen voornoemd mes naar hem gegooid zal worden en/of- tegen die [aangever 1] te zeggen dat hij op zijn knieën moet gaan zitten en/of- (vervolgens) voornoemd mes op/tegen het (voor)hoofd van die [aangever 1] tehouden en/of te drukken,althans handelingen en/of woorden van gelijke aard en/of strekking;
+
+2.hij op of omstreeks 6 juli 2025 te Nijmegen,tezamen en in vereniging met een of meer anderen, althans alleen,een ander, te weten [aangever 1],door geweld of enige andere feitelijkheid en/of door bedreiging met geweld of enigeandere feitelijkheid gericht tegen die anderwederrechtelijk heeft gedwongen iets te doen, niet te doen en/of te dulden, door- tegen die [aangever 1] te zeggen dat hij op zijn knieën moet gaan zitten en/of- (vervolgens) een mes op/tegen het (voor)hoofd van die [aangever 1] te houden en/ofte drukken en/of- tegen die [aangever 1] te zeggen dat hij een sigaret aan moet steken en op moet rokenen/of- tegen die [aangever 1] te zeggen dat hij (hard)drugs), althans een witte en/ofpoederachtige substantie, op moet snuiven en/of- die [aangever 1] (daarbij) te filmen (met zijn eigen telefoon) en/of voornoemd filmpje(vervolgens) te verspreiden via social media (Snapchat),althans handelingen en/of woorden van gelijke aard en/of strekking;
+
+Onder parketnummer 05/218974-25 is aan verdachte is ten laste gelegd dat:
+
+hij op of omstreeks 30 maart 2025 te Bemmel, gemeente Lingewaardopzettelijk en wederrechtelijkeen of meerdere ruiten, in elk geval enig goed, dat/die geheel of ten dele aan eenander, te weten aan [aangever 2], toebehoordeheeft vernield, beschadigd, onbruikbaar gemaakt en/of weggemaakt.
+
+2
+Overwegingen ten aanzien van het bewijs
+
+Parketnummer 05/206465-25:
+
+Feit 1 en feit 2
+
+De feiten
+
+Op grond van de bewijsmiddelen wordt het volgende, dat verder ook niet ter discussie staat, vastgesteld. Aangever [aangever 1] kwam op 6 juli 2025 naar Nijmegen op verzoek van verdachte. [aangever 1] is daar op meerdere momenten en locaties bedreigd met een mes. In de eerste situatie werd [aangever 1] gedwongen zijn spullen af te staan onder dreiging van dat mes. Het ging om afgifte van een tas met inhoud, een telefoon, een bankpas en een vape. Er werd tegen [aangever 1] gezegd dat hij zijn tas moest afstaan, dat hij met de verdachten mee moest lopen en in het midden van de groep moest blijven. Het mes werd op zeer korte afstand van die [aangever 1] gehouden en gericht. Ook werd [aangever 1] geduwd tegen het lichaam en geslagen tegen het hoofd. Later werd het mes tegen de keel van [aangever 1] gezet met daarbij de woorden dat als hij de code van zijn telefoon niet zou afgeven, het mes door zijn strot heen zou gaan. Als [aangever 1] zou wegrennen, zou het mes naar hem gegooid worden.
+
+Op een later moment, bij de trappen in het tunneltje bij Nijmegen Centraal, werd [aangever 1] gedwongen op zijn knieën te gaan zitten. Het mes werd tegen zijn voorhoofd aangehouden en gedrukt. Vervolgens werd hij gedwongen een sigaret te roken, een poederachtige substantie op te snuiven en moest hij terwijl hij werd gefilmd sorry zeggen. Het filmpje is daarna verspreid via Snapchat.
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gesteld dat wettig en overtuigend bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan het subsidiair tenlastegelegde onder feit 1 en aan feit 2.
+
+Het standpunt van de verdediging
+
+De raadsman heeft bepleit dat verdachte van de feiten moet worden vrijgesproken. Verdachte heeft geen van de feitelijke handelingen verricht die opgenomen zijn in de tenlastelegging. Medeplegen kan niet worden bewezen.
+
+Beoordeling door de rechtbank
+
+Niet ter discussie staat dat sprake is geweest van een afpersing van [aangever 1] op 6 juli 2025 in Nijmegen. [aangever 1] heeft verklaard dat hij zijn spullen moest afstaan en niet dat de spullen werden afgepakt. De rechtbank kwalificeert het feit dat verdachte heeft bekend daarom als het subsidiair tenlastegelegde feit (afpersing) en spreekt verdachte van het primair tenlastegelegde (de diefstal met geweld) vrij.
+
+Over het subsidiaire feit 1:
+
+De rechtbank moet beoordelen welke handelingen verdachte bij deze afpersing heeft verricht en of die maken dat verdachte als medepleger gezien kan worden. De rechtbank stelt voorop dat de betrokkenheid aan een strafbaar feit als medeplegen kan worden bewezenverklaard wanneer is komen vast te staan dat bij het begaan daarvan sprake is geweest van een voldoende nauwe en bewuste samenwerking. Ook wanneer het tenlastegelegde medeplegen in de kern niet bestaat uit een gezamenlijke uitvoering tijdens het begaan van het strafbare feit, maar uit gedragingen die doorgaans met medeplichtigheid in verband plegen te worden gebracht (zoals het verstrekken van inlichtingen, op de uitkijk staan, helpen bij de vlucht), kan sprake zijn van de voor medeplegen vereiste nauwe en bewuste samenwerking. De materiële en/of intellectuele bijdrage van de verdachte aan het strafbare feit zal dan van voldoende gewicht moeten zijn.
+
+Er zijn volgens de rechtbank twee momenten tijdens de feiten te onderscheiden:
+
+de afpersing in de Vondelstraat (feit 1) en de dwang op de trappen bij het tunneltje van Nijmegen Centraal (feit 2). Over de rol van verdachte bij feit 1 overweegt de rechtbank het volgende. Verdachte heeft ontkend dat hij [aangever 1] naar Nijmegen heeft gelokt onder valse voorwendselen. De rechtbank gaat daar niet in mee omdat deze verklaring van verdachte weersproken wordt door meerdere andere verklaringen. Volgens de medeverdachten was er sprake van een zogenaamde ‘setup’. [aangever 1] zou foto’s op zijn telefoon hebben van het nichtje van verdachte. Daar wilde verdachte [aangever 1] mee confronteren. Verdachte is dus volgens de rechtbank de initiator van de afpersing. De rechtbank gaat ook niet mee met het verweer van verdachte dat hij geen feitelijke handelingen bij de afpersing heeft verricht. [aangever 1] heeft namelijk verklaard dat verdachte aanwezig was bij de afpersing. Verdachte zei tegen [aangever 1] dat hij zijn tas moest afgeven aan hem. Verdachte gaf die tas daarna door aan een ander. Ook zei verdachte tegen [aangever 1] dat hij met de groep mee moest lopen. De rechtbank heeft geen reden om te twijfelen aan de verklaring van [aangever 1]. [aangever 1] en verdachte kennen elkaar goed en [aangever 1] noemde verdachte zijn vriend. Van een persoonsverwisseling of vergissing kan dan ook geen sprake zijn geweest. Verdachte is ook degene geweest die de vape uit het tasje van [aangever 1] heeft gepakt.
+
+De rechtbank concludeert op basis van het bovenstaande dat verdachte [aangever 1] naar Nijmegen heeft gelokt om hem te confronteren, bij de afpersing aan de Vondelstraat aanwezig was, [aangever 1] heeft gezegd dat hij zijn spullen moest afstaan en dat hij mee moest lopen. Verdachte is degene geweest die de tas van [aangever 1] heeft gekregen en de vape heeft gepakt. Verdachte heeft dus niet alleen zelf handelingen verricht maar ook vanwege zijn aanwezigheid getalsmatig bijgedragen aan het overwicht van de groep op [aangever 1]. Dit alles maakt dat de rechtbank de bijdrage van verdachte van voldoende gewicht vindt om van medeplegen te kunnen spreken. Vorengenoemde gedragingen duiden naar hun uiterlijke verschijningsvorm op een oogmerk tot afpersing. Daarmee vindt de rechtbank feit 1 subsidiair wettig en overtuigend bewezen.
+
+Feit 2
+
+De rechtbank is met de raadsman van oordeel dat uit het dossier onvoldoende is gebleken dat verdachte bij de situatie op de trappen enig aandeel heeft gehad. Verdachte wordt niet benoemd in de verklaringen van [aangever 1] anders dan dat hij bovenaan de trap stond en wordt ook niet door medeverdachten aangewezen als persoon die bij de dwang aanwezig was of daaraan op de één of andere manier een wezenlijke bijdrage heeft geleverd.
+
+De rechtbank spreekt verdachte van dit feit daarom vrij.
+
+Parketnummer 05/218974-25:
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gesteld dat wettig en overtuigend bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan het tenlastegelegde feit.
+
+Het standpunt van de verdediging
+
+De raadsman heeft geen bewijsverweer gevoerd.
+
+Beoordeling door de rechtbank
+
+Verdachte heeft bekend als bedoeld in artikel 359, derde lid, laatste zin, van het Wetboek van Strafvordering en daarom wordt volstaan met een opgave van de bewijsmiddelen.
+
+Bewijsmiddelen:
+
+- het proces-verbaal van aangifte [aangever 2] van 11 april 2025, p. 7 – 8;
+
+- de verklaring van verdachte afgelegd ter terechtzitting van 11 februari 2026.
+
+3
+De bewezenverklaring
+
+Naar het oordeel van de rechtbank is wettig en overtuigend bewezen dat verdachte de tenlastegelegde feiten heeft begaan, te weten dat:
+
+Parketnummer 05-206465-25:
+
+1. subsidiairhij op of omstreeks 6 juli 2025 te Nijmegentezamen en in vereniging met een of meer anderen, althans alleen,met het oogmerk om zich en/of een ander wederrechtelijk te bevoordelendoor geweld en/of bedreiging met geweld[aangever 1] heeft gedwongen tot de afgifte van een tas (met inhoud) en/of eentelefoon en/of een bankpas en/of een vape, in elk geval enig(e) goed(eren), dat/diegeheel of ten dele aan die [aangever 1] en/of een derde toebehoorde(n)door- tegen die [aangever 1] te zeggen dat hij zijn tas af moet geven en/of- tegen die [aangever 1] te zeggen dat hij met hen, verdachten, mee moet lopen en/ofin het midden van de groep moet (blijven) lopen en/of die [aangever 1] in het middenvan de groep te duwen en/of- een mes te trekken en/of te tonen aan die [aangever 1] en/of een mes op zeer korteafstand van die [aangever 1] te houden en/of op die [aangever 1] te richten en/of- die [aangever 1] op/tegen het lichaam te duwen en/of op/tegen het hoofd en/of hetlichaam te slaan en/of te stompen en/of- tegen die [aangever 1] te zeggen dat hij zijn spullen af moet geven en/of- voornoemd mes op/tegen de keel van die [aangever 1] te zetten en/of die [aangever 1](daarbij) de woorden toe te voegen: "als je de code niet zegt gaat het mes recht doorje strot heen" en/of- (vervolgens) tegen die [aangever 1] te zeggen dat hij (weer) mee moet lopen en/of alsdie [aangever 1] weg gaat rennen voornoemd mes naar hem gegooid zal worden en/of- tegen die [aangever 1] te zeggen dat hij op zijn knieën moet gaan zitten en/of- (vervolgens) voornoemd mes op/tegen het (voor)hoofd van die [aangever 1] tehouden en/of te drukken,althans handelingen en/of woorden van gelijke aard en/of strekking.Parketnummer 05/218974-25:
+
+hij op of omstreeks 30 maart 2025 te Bemmel, gemeente Lingewaardopzettelijk en wederrechtelijkeen of meerdere ruiten, in elk geval enig goed, dat/die geheel of ten dele aan eenander, te weten aan [aangever 2], toebehoordeheeft vernield, beschadigd, onbruikbaar gemaakt en/of weggemaakt.
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten verbeterd. Verdachte is daardoor niet in de verdediging geschaad.
+
+Wat meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard, is niet bewezen.
+
+Verdachte zal daarvan worden vrijgesproken.
+
+4
+De kwalificatie van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+Parketnummer 05/206465-25
+
+feit 1 subsidiair:
+
+afpersing, terwijl het feit wordt gepleegd door twee of meer verenigde personen
+
+Parketnummer 05/218974-25:
+
+opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan een ander toebehoort, vernielen
+
+5
+De strafbaarheid van de feiten
+
+De feiten zijn strafbaar.
+
+6
+De strafbaarheid van de verdachte
+
+Verdachte is strafbaar, nu geen omstandigheid is gebleken of aannemelijk is geworden die de strafbaarheid van verdachte uitsluit.
+
+7
+De overwegingen ten aanzien van de straf
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte zal worden veroordeeld tot:
+
+onvoorwaardelijke jeugddetentie gelijk aan het voorarrest;
+
+een taakstraf in de vorm van een werkstraf voor de duur van 80 uren waarvan 40 uren voorwaardelijk met een proeftijd van twee jaar en de bijzondere voorwaarden zoals geadviseerd door de Raad voor de Kinderbescherming.
+
+Het standpunt van de verdediging
+
+De raadsman heeft de rechtbank verzocht bij een bewezenverklaring aan verdachte op te leggen een onvoorwaardelijke jeugddetentie gelijk aan het voorarrest en een voorwaardelijke werkstraf met daaraan de bijzondere voorwaarden zoals geadviseerd.
+
+De beoordeling door de rechtbank
+
+Bij de beslissing over de straf die aan verdachte moet worden opgelegd, betrekt de rechtbank de aard en de ernst van de feiten en de omstandigheden waaronder die zijn begaan. Ook houdt de rechtbank rekening met de persoon en de persoonlijke omstandigheden van verdachte en met de inhoud van de volgende stukken:
+
+het uittreksel Justitiële Documentatie van 14 januari 2026 (het strafblad),
+
+het rapport van de Raad voor de Kinderbescherming van 5 februari 2026.
+
+In het bijzonder neemt de rechtbank het volgende in aanmerking.
+
+De ernst van de feiten
+
+Verdachte heeft zich schuldig gemaakt aan twee strafbare feiten. Op 30 maart 2025 heeft hij in Bemmel ruiten van een bouwkeet vernield. Dit is een vervelend feit en levert nadeel op voor de eigenaar. Echter, het zwaartepunt in deze zaak ligt voor de rechtbank bij de afpersing van [aangever 1]. Verdachte en zijn medeverdachten hebben op 6 juli 2025 de toen dertienjarige kwetsbare [aangever 1] naar Nijmegen gelokt. [aangever 1] dacht daar een verdachte, zijn vriend, te treffen maar hij kwam tegenover een groep van vier jongens te staan. [aangever 1] werd bedreigd met een mes, moest zijn spullen afstaan en de bevelen van de groep opvolgen. Zowel uit het dossier als de slachtofferverklaring blijkt dat deze gebeurtenissen een enorme impact op hem hebben gehad. Hij heeft nog dagelijks last van de gevolgen van het handelen van de verdachten. De rechtbank rekent het verdachte zwaar aan dat het zijn initiatief was om een vriend naar Nijmegen te lokken, hem te (laten) beroven en dat hij vervolgens hiervoor geen verantwoordelijkheid neemt. Verdachte wist als vriend van [aangever 1] hoe kwetsbaar [aangever 1] was en heeft het vertrouwen van [aangever 1] door hem op deze wijze te verraden en in de steek te laten enorm geschonden.
+
+De persoon van verdachte
+
+Verdachte heeft met de Raad voor de Kinderbescherming (hierna: de Raad) gesproken. De Raad concludeert dat het noodzakelijk is dat verdachte behandeling blijft krijgen voor zijn problematiek, begeleiding blijft krijgen door de jeugdreclassering en een dagbesteding heeft. Dit alles om het risico op recidive te verkleinen. Om te waarborgen dat verdachte dit alles accepteert en meewerkt, is een stok achter de deur in de vorm van voorwaardelijke jeugddetentie noodzakelijk.
+
+De straf
+
+De rechtbank vindt net zoals de Raad van belang dat verdachte begeleiding en hulpverlening blijft krijgen, beschermd woont en een dagbesteding heeft. De rechtbank vindt het echter niet nodig om deze bijzondere voorwaarden op te leggen bij een voorwaardelijke jeugddetentie. Gelet op de vrijspraak bij feit 2 en de positieve houding van verdachte tegenover de hulpverlening, zijn bijzondere voorwaarden in het kader van een voorwaardelijke werkstraf voldoende.
+
+De rechtbank vindt de eis van de officier van justitie passend, ondanks de vrijspraak van feit 2. Tegenover die vrijspraak staat namelijk de cruciale rol van verdachte bij feit 1 (het regelen van de setup). De rechtbank legt aan verdachte op onvoorwaardelijke jeugddetentie van vijftien dagen met aftrek van het voorarrest.
+
+Daarnaast vindt de rechtbank het van belang dat verdachte ervaart dat zijn handelen ook direct een consequentie heeft in de vorm van een werkstraf. De rechtbank legt aan verdachte op een taakstraf in de vorm van een werkstraf voor de duur van 80 uren (te vervangen door 40 dagen jeugddetentie bij het niet verrichten van die werkstraf) waarvan 40 uren voorwaardelijk met een proeftijd van twee jaar. Als bijzondere voorwaarden legt de rechtbank op:
+
+verdachte werkt mee aan hulpverlening en diagnostiek en behandeling die de jeugdreclassering noodzakelijk vindt, door Rubixzorg, Kairos en/of IrisZorg of soortgelijke instellingen door de jeugdreclassering te bepalen;
+
+verdachte woont bij Kulein of een soortgelijke instelling;
+
+verdachte werkt mee aan het hebben en behouden van een zinvolle dagbesteding.
+
+De rechtbank heft op het geschorste bevel tot voorlopige hechtenis.
+
+8
+De beoordeling van de civiele vordering
+
+Parketnummer 05/206465-25:
+
+De benadeelde partij [aangever 1] heeft een vordering tot schadevergoeding ingediend. De benadeelde partij vordert (na wijziging ter terechtzitting) € 256,14 aan materiële schade en € 3.500,- aan smartengeld, allebei vermeerderd met de wettelijke rente. Verder is om oplegging van de schadevergoedingsmaatregel verzocht.
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de vordering van de benadeelde partij kan worden toegewezen, met toekenning van de wettelijke rente, en vordert oplegging van de schadevergoedingsmaatregel. De officier van justitie heeft de rechtbank verzocht de vordering niet hoofdelijk toe te wijzen.
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich op het standpunt gesteld dat de immateriële schade gematigd moet worden en heeft de rechtbank verzocht de vordering niet hoofdelijk toe te wijzen.
+
+De beoordeling door de rechtbank
+
+Materiële schade
+
+Uit het onderzoek ter terechtzitting is voldoende gebleken dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van verdachte rechtstreeks schade heeft geleden. De schadepost is voldoende onderbouwd en de gevorderde kosten (reiskosten) zijn in lijn met de geldende jurisprudentie. De rechtbank wijst de gevorderde € 256,14 toe.
+
+Geen hoofdelijkheid
+
+De rechtbank zal de vordering van de benadeelde partij, gelet op het verschil in rol en aandeel tussen de verdachten, niet hoofdelijk toewijzen. De rechtbank vindt het daarnaast onwenselijk dat verdachte onderling met zijn medeverdachten de betalingen moet regelen. De rechtbank zal daarom de vordering per verdachte vaststellen en deze verdachte veroordelen tot het betalen van een bedrag van € 64,- aan materiële schadevergoeding.
+
+Voor het overige verklaart de rechtbank de benadeelde partij niet-ontvankelijk in de vordering.
+
+Immateriële schade
+
+De benadeelde partij heeft volgens artikel 6:106 van het Burgerlijk Wetboek (BW) recht op vergoeding van smartengeld in het geval dat:
+
+verdachte het oogmerk had het nadeel toe te brengen,
+
+de benadeelde partij lichamelijk letsel heeft opgelopen,
+
+de benadeelde partij in zijn eer of goede naam is geschaad, of
+
+de benadeelde partij op andere wijze in de persoon is aangetast.
+
+In dit geval is de aard en de ernst van de normschending zodanig dat een aantasting in de persoon op andere wijze kan worden aangenomen. Dit is aan verdachte toe te rekenen. De rechtbank houdt rekening met de aard en de ernst van de feiten en de bedragen die Nederlandse rechters in vergelijkbare gevallen toewijzen. De rechtbank weegt daarbij in het bijzonder mee dat het hier gaat om een ernstig strafbaar feit. Gelet daarop vindt de rechtbank het gevorderde bedrag van € 3.500,- passend. Echter, ook bij de immateriële schadevergoeding geldt de overweging van de rechtbank over het niet hoofdelijk opleggen. Gelet op de veroordeling van deze verdachte (voor enkel de afpersing) en zijn cruciale rol als initiatiefnemer zal de rechtbank deze verdachte veroordelen tot het betalen van € 900,-.
+
+Voor het overige verklaart de rechtbank de benadeelde partij niet-ontvankelijk in de vordering.
+
+Verdachte is vanaf 3 februari 2026 (datum indiening vordering) wettelijke rente over het bedrag aan materiële schadevergoeding verschuldigd.
+
+Over het bedrag aan immateriële schadevergoeding is verdachte vanaf 6 juli 2025 (datum feit) rente verschuldigd.
+
+Als het bedrag niet wordt betaald, kunnen 0 dagen gijzeling worden toegepast zonder dat de betalingsverplichting vervalt.
+
+De rechtbank veroordeelt verdachte in de kosten die de benadeelde partij in deze procedure heeft gemaakt en de kosten die de benadeelde partij mogelijk nog moet maken om het toegewezen bedrag betaald te krijgen, tot vandaag begroot op nul.
+
+BEM-clausule
+
+De noodzakelijkheid van het opleggen van de BEM-clausule is niet gebleken en daarom wijst de rechtbank dit onderdeel van de vordering af.
+
+9
+De toegepaste wettelijke bepalingen
+
+De oplegging van de straf is gegrond op de artikelen 77a, 77g, 77i, 77m, 77n, 77x, 77y, 77z, 77aa, 312, 317 en 350 van het Wetboek van Strafrecht.
+
+10
+De beslissing
+
+De rechtbank:
+
+ spreekt verdachte vrij van het onder parketnummer 05/206465-25 onder feit 1 primair tenlastegelegde en feit 2;
+
+ verklaart bewezen dat verdachte het tenlastegelegde, zoals vermeld onder ‘De bewezenverklaring’, heeft begaan;
+
+ verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij;
+
+ verstaat dat het aldus bewezenverklaarde oplevert de strafbare feiten zoals vermeld onder ‘De kwalificatie van het bewezenverklaarde’;
+
+ verklaart verdachte hiervoor strafbaar;
+
+ veroordeelt verdachte tot:
+
+een jeugddetentie voor de duur van 15 (vijftien) dagen;
+
+beveelt dat de tijd die verdachte in verzekering en voorlopige hechtenis heeft doorgebracht bij de uitvoering van de opgelegde jeugddetentie in mindering wordt gebracht;
+
+een taakstraf, te weten een werkstraf van 80 (tachtig) uren, met bevel dat als deze straf niet naar behoren wordt verricht vervangende jeugddetentie zal worden toegepast voor de duur van 40 dagen;
+
+bepaalt dat van die werkstraf 40 (veertig) uren niet ten uitvoer zullen worden gelegd, tenzij de rechter later anders mocht gelasten;
+
+stelt daarbij een proeftijd vast van 2 (twee) jaren onder de algemene voorwaarde dat verdachte zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en
+
+stelt als bijzondere voorwaarden dat verdachte zich gedurende de proeftijd:
+
+meldt op afspraken met de jeugdreclassering, zo vaak en zolang de jeugdreclassering dat nodig vindt. De jeugdreclassering bepaalt op welke dagen en tijdstippen deze afspraken zijn;
+
+meewerkt aan het hebben en behouden van een zinvolle dagbesteding;
+
+meewerkt aan ambulante begeleiding door Rubixzorg of een soortgelijke instelling te bepalen door de jeugdreclassering;
+
+meewerkt aan diagnostiek en de daaruit voortkomende behandeling bij Kairos en/of IrisZorg of een soortgelijke instelling te bepalen door de jeugdreclassering;
+
+verblijft bij Kulein of een soortgelijke instelling voor begeleid wonen of maatschappelijke opvang, te bepalen door de jeugdreclassering. Verdachte houdt zich aan de huisregels en het dagprogramma dat de instelling in overleg met de jeugdreclassering opstelt;
+
+alles voor zover en zolang de jeugdreclassering nodig vindt;
+
+geeft de gecertificeerde instelling William Schrikker Jeugdbescherming en Jeugdreclassering te Amsterdam de opdracht om toezicht te houden op de naleving van de voorwaarden en verdachte ten behoeve daarvan te begeleiden;
+
+en onder de voorwaarden dat verdachte:
+
+ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt;
+
+medewerking verleent aan het reclasseringstoezicht als bedoeld in art. 77aa, eerste tot en met vierde lid, Wetboek van Strafrecht, uit te voeren door de gecertificeerde instelling William Schrikker Jeugdbescherming en Jeugdreclassering te Amsterdam, waaronder de medewerking aan huisbezoeken en het zich melden bij de jeugdreclassering zo vaak en zolang de jeugdreclassering dit noodzakelijk vindt, daaronder begrepen;
+
+ heft op het – geschorste – bevel tot voorlopige hechtenis;
+
+Beslissing op de vordering van de benadeelde partij:
+
+Parketnummer 05/206465-2 [aangever 1]:
+
+[aangever 1]
+
+veroordeelt verdachte in verband met feit 1 tot betaling van schadevergoeding aan de benadeelde partij [aangever 1] van € 64,- aan materiële schade en € 900,- aan immateriële schade, vermeerderd met de wettelijke rente vanaf 3 februari 2026 (materieel) en 6 juli 2025 (immaterieel) tot aan de dag dat het hele bedrag is betaald;
+
+verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering;
+
+veroordeelt verdachte in de kosten die de benadeelde partij in deze procedure heeft gemaakt en de kosten die de benadeelde partij mogelijk nog moet maken om het toegewezen bedrag betaald te krijgen, tot vandaag begroot op nul;
+
+legt aan verdachte de verplichting op om aan de Staat, ten behoeve van benadeelde partij [aangever 1] een bedrag te betalen € 64,- aan materiële schade en € 900,- aan immateriële schade, vermeerderd met de wettelijke rente vanaf 3 februari 2026 (materieel) en 6 juli 2025 (immaterieel) tot aan de dag dat het hele bedrag is betaald. Als dit bedrag niet wordt betaald, kunnen 0 dagen gijzeling worden toegepast zonder dat de betalingsverplichting vervalt;
+
+bepaalt daarbij dat met betaling aan de benadeelde partij in zoverre de betaling aan de Staat vervalt en omgekeerd.
+
+Dit vonnis is gewezen door mr.  M.G.J. Post (voorzitter en kinderrechter), mr.  A.A.M. Bögemann en mr. G.M.L. Tomassen, kinderrechters, in tegenwoordigheid van mr. E. Duis-van Grol, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 10 maart 2026.
+
+mr. Bögemann is buiten staat
+
+dit vonnis mede te ondertekenen
+
+Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant 1] van de politie Oost-Nederland, opgemaakte proces-verbaal, dossiernummer PL0600-2025319661, gesloten op 28 oktober 2025 en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.
+
+Proces-verbaal van aangifte van [aangever 1] van 6 juli 2025, p. 22 – 24; proces-verbaal van aanvullend verhoor van aangever [aangever 1] van 8 juli 2025, p. 26 – 33.
+
+Proces-verbaal van verhoor verdachte [medeverdachte 1] van 7 juli 2025, p. 311; proces-verbaal van verhoor verdachte [medeverdachte 2] van 7 juli 2025, p. 367.
+
+Proces-verbaal van aangifte [aangever 1] van 6 juli 2025, p. 22 – 23.
+
+Proces-verbaal van aangifte [aangever 1] van 6 juli 2025, p. 22.
+
+Proces-verbaal van verhoor verdachte [medeverdachte 1] van 2 augustus 2025, p. 312 – 322.
+
+Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant 2] van de politie Oost-Nederland, opgemaakte proces-verbaal, dossiernummer PL0600-2025144722, gesloten op 1 mei 2025 en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.
