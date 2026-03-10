@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1778"
-published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/615", "JM 2026/69 met annotatie van mr. drs. J.C. Ozinga"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/615", "JM 2026/69 met annotatie van mr. drs. J.C. Ozinga", "M en R 2026/51 met annotatie van F.C.S. Warendorf", "JAF 2026/3"]
 ---
 
 # ECLI:NL:RBGEL:2026:1778 Rechtbank Gelderland , 10-03-2026 / 24/7474
