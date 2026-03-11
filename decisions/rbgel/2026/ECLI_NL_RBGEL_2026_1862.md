@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1862"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/261"]
 ---
 
 # ECLI:NL:RBGEL:2026:1862 Rechtbank Gelderland , 11-03-2026 / C/05/456088 / HZ ZA 25-243
