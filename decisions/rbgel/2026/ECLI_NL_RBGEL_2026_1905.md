@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1905"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie Grondzaken 2026/41 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "BR 2026/47 met annotatie van R.R. Oudijk"]
 ---
 
 # ECLI:NL:RBGEL:2026:1905 Rechtbank Gelderland , 11-03-2026 / C/05/451561 / HA ZA 25-201
