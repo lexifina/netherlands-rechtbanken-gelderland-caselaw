@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1906"
-published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/549"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/549", "Sdu Nieuws Omgevingsrecht 2026/95"]
 ---
 
 # ECLI:NL:RBGEL:2026:1906 Rechtbank Gelderland , 11-03-2026 / AWB 25/5889, AWB 25/5822
