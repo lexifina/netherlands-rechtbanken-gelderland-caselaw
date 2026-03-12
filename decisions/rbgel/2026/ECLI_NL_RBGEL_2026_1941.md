@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1941"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2524"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2524", "JAAN 2026/94"]
 ---
 
 # ECLI:NL:RBGEL:2026:1941 Rechtbank Gelderland , 12-03-2026 / 461889
