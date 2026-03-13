@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2055"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032005", "FutD 2026-0491", "V-N Vandaag 2026/526", "Sdu Nieuws Belastingzaken 2026/425"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032005", "FutD 2026-0491", "V-N Vandaag 2026/526", "Sdu Nieuws Belastingzaken 2026/425", "V-N 2026/27.7 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2026:2055 Rechtbank Gelderland , 13-03-2026 / AWB 24/7123 en 24/7124
