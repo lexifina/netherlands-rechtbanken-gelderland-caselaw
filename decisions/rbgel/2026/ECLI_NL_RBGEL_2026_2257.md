@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2257"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032710", "V-N Vandaag 2026/614", "FutD 2026-0600"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032710", "V-N Vandaag 2026/614", "FutD 2026-0600", "V-N 2026/25.15.16"]
 ---
 
 # ECLI:NL:RBGEL:2026:2257 Rechtbank Gelderland , 20-03-2026 / ARN 24_8020
