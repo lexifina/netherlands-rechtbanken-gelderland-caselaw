@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2248"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041602", "FutD 2026-0682", "V-N Vandaag 2026/821"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041602", "FutD 2026-0682", "V-N Vandaag 2026/821", "NDFR Nieuws 2026/653", "V-N 2026/26.2.2", "NTFR 2026/1104 met annotatie van mr. S.M.C. Smeets"]
 ---
 
 # ECLI:NL:RBGEL:2026:2248 Rechtbank Gelderland , 20-03-2026 / ARN 24_5365
