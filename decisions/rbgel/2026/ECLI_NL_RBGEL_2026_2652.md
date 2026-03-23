@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2652"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0629", "VAAN-AR-Updates.nl 2026-0629"]
 ---
 
 # ECLI:NL:RBGEL:2026:2652 Rechtbank Gelderland , 23-03-2026 / 12097027
