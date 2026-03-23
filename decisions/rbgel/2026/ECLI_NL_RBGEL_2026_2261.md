@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2261"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2026/57"]
 ---
 
 # ECLI:NL:RBGEL:2026:2261 Rechtbank Gelderland , 23-03-2026 / AWB - 25_548
