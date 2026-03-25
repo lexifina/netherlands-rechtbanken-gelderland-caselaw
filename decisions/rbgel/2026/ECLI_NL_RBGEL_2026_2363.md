@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2363"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/657"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/657", "V-N 2026/26.15.10"]
 ---
 
 # ECLI:NL:RBGEL:2026:2363 Rechtbank Gelderland , 25-03-2026 / ARN 25/6356
