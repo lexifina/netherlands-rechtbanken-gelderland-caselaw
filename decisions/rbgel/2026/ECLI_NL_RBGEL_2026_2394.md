@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2394"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0201"]
 ---
 
 # ECLI:NL:RBGEL:2026:2394 Rechtbank Gelderland , 25-03-2026 / 457255
