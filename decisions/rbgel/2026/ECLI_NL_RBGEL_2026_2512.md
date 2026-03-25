@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2512"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0137"]
 ---
 
 # ECLI:NL:RBGEL:2026:2512 Rechtbank Gelderland , 25-03-2026 / C/05/450547 / HZ ZA 25-110
