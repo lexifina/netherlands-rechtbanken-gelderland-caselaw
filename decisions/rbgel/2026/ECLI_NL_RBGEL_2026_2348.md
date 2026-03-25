@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2348"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041607", "Sdu Nieuws Belastingzaken 2026/518", "FutD 2026-0683", "V-N Vandaag 2026/783"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041607", "Sdu Nieuws Belastingzaken 2026/518", "FutD 2026-0683", "V-N Vandaag 2026/783", "NDFR Nieuws 2026/654", "V-N 2026/27.2.3", "NTFR 2026/1089 met annotatie van mr. A.A. Fase"]
 ---
 
 # ECLI:NL:RBGEL:2026:2348 Rechtbank Gelderland , 25-03-2026 / AWB 24/4840
