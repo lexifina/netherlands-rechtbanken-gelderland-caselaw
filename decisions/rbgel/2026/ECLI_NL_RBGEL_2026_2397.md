@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2397"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0596"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0596", "TAR 2026/35", "RAR 2026/103"]
 ---
 
 # ECLI:NL:RBGEL:2026:2397 Rechtbank Gelderland , 26-03-2026 / 12001424
