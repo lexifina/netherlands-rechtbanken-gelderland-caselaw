@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2419"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/775", "Viditax (FutD) 2026042103", "Sdu Nieuws Belastingzaken 2026/528"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/775", "Viditax (FutD) 2026042103", "Sdu Nieuws Belastingzaken 2026/528", "FutD 2026-0739", "V-N 2026/27.2.1"]
 ---
 
 # ECLI:NL:RBGEL:2026:2419 Rechtbank Gelderland , 27-03-2026 / AWB24_6839
