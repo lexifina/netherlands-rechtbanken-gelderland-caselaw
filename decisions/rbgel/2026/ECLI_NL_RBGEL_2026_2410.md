@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2410"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2026/9370"]
 ---
 
 # ECLI:NL:RBGEL:2026:2410 Rechtbank Gelderland , 27-03-2026 / AWB-24_6302 en 24_6326
