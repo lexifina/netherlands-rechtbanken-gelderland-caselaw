@@ -7,7 +7,7 @@ decided: "2026-03-31"
 published: "2026-03-30"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Bestuursrecht; Omgevingsrecht"
+subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2465"
 published_in: ["Rechtspraak.nl"]
 ---
