@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2506"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042206", "V-N Vandaag 2026/808"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042206", "V-N Vandaag 2026/808", "Sdu Nieuws Belastingzaken 2026/545", "FutD 2026-0725", "NDFR Nieuws 2026/702", "NTFR 2026/876 met annotatie van mr. P.A. Spijker", "Belastingadvies 2026/11-12.2", "V-N 2026/32.10 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2026:2506 Rechtbank Gelderland , 01-04-2026 / ARN 24/6511
