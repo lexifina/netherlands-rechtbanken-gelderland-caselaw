@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2507"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042209"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042209", "FutD 2026-0728", "V-N Vandaag 2026/837", "NDFR Nieuws 2026/713", "NTFR 2026/890 met annotatie van mr. H.J. Noordenbos", "V-N 2026/38.4 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2026:2507 Rechtbank Gelderland , 01-04-2026 / AWB 24_6439
