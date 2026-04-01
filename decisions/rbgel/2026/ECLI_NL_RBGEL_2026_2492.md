@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2492"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/149", "NJFCZ 2026/218"]
 ---
 
 # ECLI:NL:RBGEL:2026:2492 Rechtbank Gelderland , 01-04-2026 / 11984201 CV EXPL 25-9437
