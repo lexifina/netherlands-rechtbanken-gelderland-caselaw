@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2511"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/739", "NDFR Nieuws 2026/635"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/739", "NDFR Nieuws 2026/635", "NTFR 2026/831 met annotatie van mr. I. van Wijk", "V-N 2026/29.34.30"]
 ---
 
 # ECLI:NL:RBGEL:2026:2511 Rechtbank Gelderland , 01-04-2026 / ARN 24/9072
