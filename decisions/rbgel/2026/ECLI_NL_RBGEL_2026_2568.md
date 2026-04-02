@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2568"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/61"]
 ---
 
 # ECLI:NL:RBGEL:2026:2568 Rechtbank Gelderland , 02-04-2026 / 461852
