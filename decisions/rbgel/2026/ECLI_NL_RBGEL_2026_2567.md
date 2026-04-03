@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2567"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBO 2026/18 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBGEL:2026:2567 Rechtbank Gelderland , 03-04-2026 / ARN-25_2824 en 25_2875
