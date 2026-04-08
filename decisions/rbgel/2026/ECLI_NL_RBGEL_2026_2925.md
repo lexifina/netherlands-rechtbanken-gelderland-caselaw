@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2925"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/260"]
 ---
 
 # ECLI:NL:RBGEL:2026:2925 Rechtbank Gelderland , 08-04-2026 / C/05/446719 / HA ZA 25-38
