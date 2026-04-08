@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2641"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041506", "V-N Vandaag 2026/745", "Sdu Nieuws Belastingzaken 2026/514", "FutD 2026-0689"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041506", "V-N Vandaag 2026/745", "Sdu Nieuws Belastingzaken 2026/514", "FutD 2026-0689", "NLF 2026/0763 met annotatie van mr. T.C. Hoogwout"]
 ---
 
 # ECLI:NL:RBGEL:2026:2641 Rechtbank Gelderland , 08-04-2026 / AWB 24/6800
