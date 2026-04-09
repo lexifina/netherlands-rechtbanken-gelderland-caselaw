@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2687"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0572", "VAAN-AR-Updates.nl 2026-0572", "OR-Updates.nl 2026-0062"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0572", "VAAN-AR-Updates.nl 2026-0572", "OR-Updates.nl 2026-0062", "RO 2026/43", "JONDR 2026/611"]
 ---
 
 # ECLI:NL:RBGEL:2026:2687 Rechtbank Gelderland , 09-04-2026 / C/05/460302 / HA RK 25-166
