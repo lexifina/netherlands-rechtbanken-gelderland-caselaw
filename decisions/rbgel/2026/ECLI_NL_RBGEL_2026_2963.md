@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2963"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie Grondzaken 2026/32 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RBGEL:2026:2963 Rechtbank Gelderland , 16-04-2026 / ARN 24_7550
