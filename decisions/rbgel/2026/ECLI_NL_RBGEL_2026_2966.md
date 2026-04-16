@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:2966"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2026/9371"]
 ---
 
 # ECLI:NL:RBGEL:2026:2966 Rechtbank Gelderland , 16-04-2026 / ARN 24_8015
