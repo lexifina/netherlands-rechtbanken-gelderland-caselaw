@@ -176,7 +176,7 @@ Ik zie dat VE1 een harde schop aan het slachtoffer geeft. Ik hoor dat de trap he
 
 Ik zie dat het slachtoffer wegrent;
 
-Ik hoor VE1 roepen 'Rennen [verdachte], rennen';
+Ik hoor VE1 roepen 'Rennen [verdachte] , rennen';
 
 Ik zie dat het slachtoffer een stuk wegrend.;
 
@@ -230,7 +230,7 @@ Conclusie
 
 De rechtbank acht op basis van de redengevende feiten en omstandigheden wettig en overtuigend bewezen dat [aangever 1] van zijn vrijheid is beroofd en ook enige tijd beroofd is gehouden. Hij werd namelijk e ruim een uur en veertig minuten vastgehouden op het voetbalveld en daarbij werd geweld gebruikt en werd hij bedreigd. Uit de bewijsmiddelen volgt dat verdachte daar net zozeer aan heeft bijgedragen als [medeverdachte 2] . Verdachte en zijn medeverdachte hebben [aangever 1] aan zijn armen het voetbalveld opgetrokken om vervolgens fors geweld op hem toe te passen. [aangever 1] is daarbij vastgehouden zodat hij niet weg kon lopen. Als [aangever 1] poogde weg te lopen, rende verdachte dan wel [medeverdachte 2] achter hem aan. Daarbij hebben verdachte en [medeverdachte 2] ook bovenop [aangever 1] gezeten. Daarnaast werd door verdachte en [medeverdachte 2] een dreigende sfeer gecreëerd door bedreigingen te uiten richting [aangever 1] , die onder meer inhielden dat ze [aangever 1] ‘fucking dood’ zouden maken. Naast het feit dat [aangever 1] zich fysiek niet aan de situatie kon onttrekken, doordat hij werd vastgehouden, acht de rechtbank bewezen dat hij zich ook niet durfde te onttrekken aan de situatie door de dreigende sfeer die door bedreigingen als voorgaande door verdachte en [medeverdachte 2] was gecreëerd. Ook bij dit feit is sprake van een nauwe en bewuste samenwerking tussen verdachte en medeverdachte [medeverdachte 2] , zodat medeplegen ook bewezen kan worden.
 
-De rechtbank acht hiermee bewezen dat verdachte zich schuldig heeft gemaakt aan het medeplegen van het opzettelijk wederrechtelijk van zijn vrijheid beroven van Melie.
+De rechtbank acht hiermee bewezen dat verdachte zich schuldig heeft gemaakt aan het medeplegen van het opzettelijk wederrechtelijk van zijn vrijheid beroven van [aangever 1] .
 
 Parketnummer 09/350375-24
 
@@ -246,7 +246,7 @@ de verklaring van verdachte afgelegd ter terechtzitting van 8 april 2026.
 
 Feit 2
 
-Aangever [aangever 3] heeft verklaard dat hij op 16 oktober 2024 als begeleider bij 's-Heeren Loo aan het werk was op de groep aan [adres] . Op enig moment zag hij buiten [verdachte] (verdachte) op de grond liggen met meerdere begeleiders bovenop hem. Eenmaal buiten bij zijn collega’s, zag hij dat [verdachte] opstond. Hij hoorde [verdachte] meerdere bedreigingen uiten, zoals: “Ik ga jullie dood maken, ik kom terug vanavond, ik ga jullie pakken vanavond”.
+Aangever [aangever 3] heeft verklaard dat hij op 16 oktober 2024 als begeleider bij [instelling 2] aan het werk was op de groep aan [adres] . Op enig moment zag hij buiten [verdachte] (verdachte) op de grond liggen met meerdere begeleiders bovenop hem. Eenmaal buiten bij zijn collega’s, zag hij dat [verdachte] opstond. Hij hoorde [verdachte] meerdere bedreigingen uiten, zoals: “Ik ga jullie dood maken, ik kom terug vanavond, ik ga jullie pakken vanavond”.
 
 Getuige [getuige]  , ook werkzaam bij [instelling 2] , heeft verklaard dat nadat hij en zijn collega’s [verdachte] hadden losgelaten, [verdachte] naar de schutting liep en daar een plank met daarin één of meerdere spijkers uit trok. Hij zag dat [verdachte] met de plank naar meerdere collega's sloeg. Hij zag dat de collega's die hij probeerde te slaan met de plank, [naam 2] , [naam 1] en [aangever 3] waren. Hij hoorde [verdachte] ondertussen ook uitingen doen zoals: "Ik ga jullie allemaal doodmaken, ik ga jullie moeders ook doodmaken en dat hij vanavond terug zou komen om de woning te slopen en auto's te beschadigen".
 
