@@ -1,0 +1,87 @@
+---
+ecli: "ECLI:NL:RBGEL:2026:3800"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "AWB-26_1538"
+decided: "2026-05-12"
+published: "2026-05-12"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:3800"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2026:3800 Rechtbank Gelderland , 12-05-2026 / AWB-26_1538
+
+## Inhoudsindicatie
+
+Voorlopige voorziening, niet-ontvankelijk, griffierecht niet betaald.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Bestuursrecht
+
+zaaknummer: ARN 26/1538
+
+uitspraak van de voorzieningenrechter van
+
+in de zaak tussen
+
+[verzoekster] B.V. uit [plaats], verzoekster
+
+en
+
+de minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
+
+Inleiding
+
+1. In deze uitspraak beslist de voorzieningenrechter op het verzoek om een voorlopige voorziening van verzoekster tegen het besluit van de minister van 17 februari 2026. Met dit besluit heeft de minister naar aanleiding van een verzoek op grond van de Wet open overheid bepaald dat gegevens over verzoekster openbaar moeten worden gemaakt. Verzoekster heeft hier bezwaar tegen gemaakt en de voorzieningenrechter gevraagd een voorlopige voorziening te treffen.
+
+1.1.
+
+Omdat het verzoek kennelijk niet-ontvankelijk is, doet de voorzieningenrechter uitspraak zonder zitting. Artikel 8:83, derde lid, van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk. De voorzieningenrechter legt hierna uit waarom het verzoek kennelijk niet-ontvankelijk is.
+
+Beoordeling door de voorzieningenrechter
+
+2. De voorzieningenrechter komt tot het oordeel dat het verzoek kennelijk niet-ontvankelijk is, omdat het griffierecht niet is betaald en het niet betalen niet verontschuldigbaar is. De voorzieningenrechter legt hierna uit hoe hij tot dit oordeel komt.
+
+Toetsingskader
+
+3. Iemand die een verzoek om voorlopige voorziening doet, moet griffierecht betalen. Dit staat in artikel 8:82 van de Awb in samenhang gelezen met artikel 8:41 van de Awb. In een zaak als deze is het griffierecht € 397. De griffier van de rechtbank stelt een termijn waarbinnen het griffierecht moet worden betaald. Het hele bedrag moet binnen die termijn zijn bijgeschreven op de rekening van de rechtbank of dan zijn betaald op de griffie van de rechtbank. Als het griffierecht niet of niet tijdig is betaald, verklaart de voorzieningenrechter het verzoek niet-ontvankelijk. Dat is alleen anders als het niet of niet tijdig betalen van het griffierecht verontschuldigbaar is. Dat betekent dat er een goede reden moet zijn waarom het griffierecht niet (tijdig) is betaald.
+
+Heeft de griffier verzoekster in de gelegenheid gesteld het griffierecht te betalen?
+
+4. De griffier heeft verzoekster bij brief van 24 maart 2026 gewezen op het verschuldigd zijn van het griffierecht en meegedeeld dat dit binnen twee weken na de datum van de nota moet zijn betaald. Daarbij heeft de griffier vermeld dat als verzoekster het griffierecht niet (binnen de betalingstermijn) heeft betaald zij het risico loopt dat haar verzoek niet-ontvankelijk wordt verklaard. Verzoekster heeft hieraan binnen de gestelde betalingstermijn geen gehoor gegeven. De in de aangetekende brief vermelde betalingstermijn eindigde daarmee op 7 april 2026.
+
+5. Uit informatie van PostNL is gebleken dat de aangetekend verzonden brief op 26 maart 2026 om 12:23 is bezorgd aan het adres van verzoekster en dat verzoekster (of iemand namens verzoekster) voor ontvangst heeft getekend. Vanaf dat moment is verzoekster op de hoogte van het bedrag dat zij aan griffierecht moest betalen, weet zij dat zij dit bedrag uiterlijk op 7 april 2026 moest betalen, en dat zij, als zij niet (op tijd) betaalt, het risico zou lopen op een niet-ontvankelijkverklaring van het verzoek.
+
+Heeft verzoekster het griffierecht betaald?
+
+6. Uit de administratie van de rechtbank blijkt dat verzoekster het griffierecht niet heeft voldaan.
+
+Is het niet tijdig betalen verontschuldigbaar?
+
+7. Verzoekster heeft geen reden opgegeven voor het niet betalen van het griffierecht. Dit betekent dat de voorzieningenrechter het niet betalen van het griffierecht niet verontschuldigbaar vindt.
+
+Conclusie en gevolgen
+
+8.	Het verzoek is kennelijk niet-ontvankelijk. Dat betekent dat de voorzieningenrechter het verzoek niet inhoudelijk beoordeelt. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De voorzieningenrechter verklaart het verzoek om voorlopige voorziening niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. W.P.C.G. Derksen, voorzieningenrechter, in aanwezigheid van A. Sahli, griffier.
+
+Deze uitspraak wordt openbaar gemaakt via geanonimiseerde publicatie op rechtspraak.nl
+
+griffier
+
+voorzieningenrechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Tegen deze uitspraak staat geen hoger beroep of verzet open.
