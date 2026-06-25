@@ -1,0 +1,451 @@
+---
+ecli: "ECLI:NL:RBGEL:2026:5090"
+court: "Rechtbank Gelderland"
+court_code: "RBGEL"
+docket: "05.282046-25 en 10.113116-24 (tul)"
+decided: "2026-06-25"
+published: "2026-06-30"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:5090"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBGEL:2026:5090 Rechtbank Gelderland , 25-06-2026 / 05.282046-25 en 10.113116-24 (tul)
+
+## Inhoudsindicatie
+
+Ramkraak juwelier. Diefstal van sieraden en juwelen, diefstal van busje en twee vluchtscooters en een gebouw opzettelijk vernielen. Gevangenisstraf 16 maanden waarvan 6 maanden voorwaardelijk met een proeftijd van 3 jaren en met aftrek en bijzondere voorwaarden.
+
+## Uitspraak
+
+RECHTBANK GELDERLAND
+
+Team strafrecht
+
+Zittingsplaats Arnhem
+
+Parketnummers: 05.282046-25 en 10.113116-24 (tul)
+
+Datum uitspraak	: 25 juni 2026
+
+Tegenspraak
+
+vonnis van de meervoudige kamer
+
+in de zaak van
+
+de officier van justitie
+
+tegen
+
+[verdachte] ,
+
+geboren op [geboortedag] 2007 in [geboorteplaats] ,
+
+wonende aan [adres] in [woonplaats] .
+
+Raadsvrouw: mr. K. el Mhamdi, advocaat in Diemen.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op openbare terechtzittingen.
+
+1
+De inhoud van de tenlastelegging
+
+Aan verdachte is, na toewijzing van een vordering tot nadere omschrijving van de tenlastelegging, ten laste gelegd dat:
+
+1
+
+hij op of omstreeks 22 oktober 2025 te Arnhem tezamen en in vereniging met een of meer anderen, althans alleen, sieraden en/of juwelen, in elk geval enig goed, dat/die geheel of ten dele
+
+aan [bedrijf] en/of [aangever 1] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en/of zijn mededader(s) zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die weg te nemen goederen onder zijn/haar/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij op of omstreeks 22 oktober 2025 te Arnhem tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte en/of zijn mededader(s)
+
+voorgenomen misdrijf om sieraden, juwelen en/of geld en/of goederen van zijn gading, in elk geval enig goed, dat/die geheel of ten dele aan [bedrijf] en/of [aangever 1] , in elk geval aan een ander dan aan verdachte en/of zijn/haar mededader(s) toebehoorde(n) weg te nemen
+
+met het oogmerk om het zich wederrechtelijk toe te eigenen en zich de toegang tot de plaats van het misdrijf te verschaffen en/of dat/die weg te nemen goed/goederen onder zijn/haar/hun bereik te brengen door middel van braak, verbreking en/of inklimming, immers heeft/hebben hij, verdachte, en/of zijn mededader(s),
+
+- zich met regenkleding, handschoenen, balaclava's, tassen, mokers en/of sloophamers vanuit Amsterdam naar het winkelpand van [bedrijf] begeven,
+
+- een rolcontainer voor het rolluik en/of de ingang van voornoemd winkelpand geplaatst,
+
+- meermalen, althans eenmaal, met een bestelbus tegen voornoemde rolcontainer aangereden,
+
+- zich toegang tot voornoemd winkelpand verschaft,
+
+- ( een deel van) het beveiligingssysteem van voornoemd winkelpand uitgeschakeld,
+
+- meerdere vitrines, met daarin sieraden en/of juwelen, kapotgeslagen en/of
+
+- sieraden en/of juwelen in tassen gestopt,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+2
+
+hij op of omstreeks 22 oktober 2025 te Arnhem tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk een gebouw, te weten een winkelpand van [bedrijf] , aan [adres] , heeft vernield en/of beschadigd, door
+
+- een rolcontainer voor de rolluiken en/of ingang behorend bij voornoemd winkelpand te plaatsen en/of
+
+- vervolgens meermalen, althans eenmaal, met een bestelbus tegen voornoemde rolcontainer te rijden, waardoor de rolluiken en/of ingang werden ontzet,
+
+terwijl daarvan gemeen gevaar voor voornoemd gebouw en de in dat gebouw aanwezige inboedel en/of de aangrenzende panden/woningen en de inboedel daarvan, in elk geval gemeen gevaar voor goederen te duchten was;
+
+3
+
+hij op of omstreeks 17 oktober 2025 te Hilversum tezamen en in vereniging met een of meer anderen, althans alleen, een motorscooter (Vespa Piaggio met kenteken [kenteken] ), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 2] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij in of omstreeks de periode van 17 oktober 2025 tot en met 22 oktober 2025 te Hilversum en/of Arnhem, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, een motorscooter (Vespa Piaggio met kenteken [kenteken] ), althans een goed heeft verworven, voorhanden heeft gehad en/of heeft overgedragen, terwijl hij en zijn mededader(s) ten tijde van de verwerving of het voorhanden krijgen van dit goed wist(en), althans redelijkerwijs had(den) moeten vermoeden dat het een door misdrijf verkregen goed betrof;
+
+4
+
+hij in of omstreeks de periode van 21 oktober 2025 tot en met 22 oktober 2025 te Utrecht
+
+tezamen en in vereniging met een of meer anderen, althans alleen, een bedrijfsauto (Volkswagen Caddy met kenteken [kenteken] ), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 3] en/of [aangever 4] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s)
+
+toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij in of omstreeks de periode van 21 oktober 2025 tot en met 22 oktober 2025 te Utrecht en/of Arnhem, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, bedrijfsauto (Volkswagen Caddy met kenteken [kenteken] ), althans een goed heeft verworven, voorhanden heeft gehad en/of heeft overgedragen, terwijl hij en zijn mededader(s) ten tijde van de verwerving of het voorhanden krijgen van dit goed wist(en), althans redelijkerwijs had(den) moeten vermoeden dat het een door misdrijf verkregen goed betrof;
+
+5
+
+hij in of omstreeks de periode van 18 oktober 2025 tot en met 22 oktober 2025 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, één of meerdere kentekenplaten (met kenteken [kenteken] ), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 5] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij in of omstreeks de periode van 18 oktober 2025 tot en met 22 oktober 2025 te Amsterdam en/of Arnhem, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, één of meerdere kentekenplaten (met kenteken [kenteken] ), althans een goed heeft verworven, voorhanden heeft gehad en/of heeft overgedragen, terwijl hij en zijn mededader(s) ten tijde van de verwerving of het voorhanden krijgen van dit goed wist(en), althans redelijkerwijs had(den) moeten vermoeden dat het een door misdrijf verkregen goed betrof.
+
+2.	Overwegingen ten aanzien van het bewijs
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gesteld dat wettig en overtuigend bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan de onder 1 primair, 2, 3 primair, 4 primair en 5 subsidiair ten laste gelegde feiten. Voor het onder 5 primair ten laste gelegde feit heeft de officier van justitie tot vrijspraak gerekwireerd.
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft bepleit dat verdachte integraal moet worden vrijgesproken van alle ten laste gelegde feiten. Indien de rechtbank tot een bewezenverklaring komt van de feiten 1 en 2 geldt ten aanzien van deze feiten dat sprake is van eendaadse samenloop.
+
+Beoordeling door de rechtbank
+
+Feit 1
+
+Aangever [aangever 1] heeft verklaard dat hij samen met zijn moeder eigenaar is van de juwelier [bedrijf] , gevestigd aan [adres] in Arnhem. Op woensdag 22 oktober 2025 om 03:17 uur werd hij wakker van het alarmsysteem van zijn winkel. Hij keek direct op zijn camerasysteem van zijn winkel en zag op één camera een soort van container voor zijn winkel staan. Hij zag dat de container bewoog. Hij hoorde meerdere knallen op zijn camerasysteem. De knallen werden veroorzaakt door de container die voor zijn winkel stond. De daders hadden de container voor de ingang van de winkel staan en reden vervolgens met een auto meerdere keren tegen de container aan, waardoor de container hard tegen de voorzijde van de winkel knalde, waarbij het rolluik werd opengebroken en de voordeur van de winkel werd geforceerd. [aangever 1] drukte direct nadat hij zag dat er iets gaande was in zijn winkel in de Verisure app op de noodknop. Daardoor werd ook een melding gedaan bij de politie. Het broertje van [aangever 1] bekeek de camerabeelden ook en zag dat de daders, toen zij in de winkel waren, direct naar het systeem van het rookgordijn liepen en dit vervolgens kapot sloegen. Toen zij naar de winkel reden zagen ze op de beelden nog dat er drie daders in de winkel waren en dat er twee daders buiten de winkel stonden. Deze twee stonden met scooters klaar voor de kapper " [bedrijf] ". Toen zij bij de winkel aankwamen, zag [aangever 1] een witte auto van het merk Volkswagen type Caddy staan. Deze auto was gebruikt om met de container de ingang van de winkel te forceren. Hij herkende de container. Deze container is vermoedelijk afkomstig van [adres] . In de auto hoorde [aangever 1] van zijn broertje dat de daders de vitrines waar de juwelen in lagen/stonden, kapotsloegen. Door de ramkraak heeft [aangever 1] veel schade aan zijn winkel. Het rolluik voor de winkel, de voordeur en de ramen, het rookgordijn en alle vitrines in de winkel zijn beschadigd.
+
+Verbalisant [verbalisant 1] zag bij binnenkomt dat het kozijn van de ingang op de grond in de winkel lag. Hij zag rechts in de winkel bij de vitrines een tas op de grond liggen met daarin meerdere sieraden. Ook zag hij een honkbalknuppel liggen en zwarte handschoenen. De vitrines waren zwaar beschadigd en er lag veel glas op de grond.
+
+Verbalisant [verbalisant 2] heeft beveiligingsbeelden bekeken die hij van de eigenaar van de juwelierszaak kreeg overhandigd. Hij zag hierop onder meer dat de voorpui tot drie keer toe werd geramd en dat er in totaal drie personen kruipend door het ontstane gat in de voorpui het pand in kwamen. Deze personen droegen gezichtsbedekking, waardoor gezichten niet te zien waren, en handschoenen en soortgelijke kleding die voorzien was van reflecterende strepen. Hij zag dat de eerste man die binnenkwam een kleine/korte moker vasthield, een grote tas droeg aan zijn schouder en een hoofdlamp droeg. De tweede man die binnenkwam hield een grote/lange moker vast, droeg een grote tas aan zijn schouder en droeg een hoofdlamp. De derde man die binnenkwam hield een kleine/korte moker vast en droeg een grote tas aan zijn schouder. [verbalisant 2] zag dat deze drie mannen verschillende vitrines kapotsloegen met hun mokers en goederen uit de vitrines graaiden en dat in hun tas stopten. Hij zag ook dat de tweede man direct nadat hij binnenkwam met de lange moker op de toonbank ging staan en met de moker hoog aan de muur of aan het plafond sloeg. [verbalisant 2] zag dat de drie personen op een gegeven moment trachtten naar buiten te kruipen om kennelijk het pand te verlaten. De eerste man die naar buiten trachtte te kruipen, kroop vrijwel direct weer terug naar binnen.
+
+Verbalisant [verbalisant 3] heeft de opnamen bekeken van de beveiligingscamera die [bedrijf]
+
+ter beschikking heeft gesteld. In het bestand ' [naam] ' zag hij onder meer een ruimte waar vitrines tegen de muren stonden. Er stonden in een L-vorm toonbank en vitrines. Hij zag dat er deuren waren met glas erin. Achter de deuren bevond zich een rolluik. Toen [verbalisant 3] de beelden afspeelde zag hij een impact op het rolluik en de deuren. De toonbank verschoof, de deuren bewogen en er verscheen een barst in één deur. Enkele seconden later was er een tweede impact. De deuren en het rolluik waren nu naar binnen gebogen. Er was ruimte ontstaan onder de deuren en het rolluik. Daarna volgde er nog een impact. De deuren en het rolluik waren nu nog verder naar binnen gebogen. NN2 kroop onder de deur en het rolluik naar binnen. NN2 had een voorwerp in zijn rechterhand. NN2 stond op en liep direct naar een vitrine die tegen de muur aan stond. NN2 maakte met het voorwerp een slaande beweging tegen de vitrine. Vervolgens pakte NN2 voorwerpen uit de vitrine en deed die in zijn tas. Vervolgens kroop NN4 onder de deuren en het rolluik naar binnen. NN4 had een voorhamer in zijn rechterhand. NN4 liep de ruimte in met versnelde pas, klom op een toonbank en bleef daarop staan. Alleen zijn benen waren nog in beeld. Er viel een voorwerp ter hoogte van NN4 het beeld in. NN4 sprong van de toonbank af en klom vervolgens terug over de toonbank. NN3 was naar binnen gekropen. NN3 had een voorwerp in zijn rechterhand. NN4 en NN3 klommen tegelijk op de toonbank. NN4 bleef op de toonbank zitten en sloeg met de voorhamer tegen de vitrines die tegen de muur stonden. NN3 klom over de toonbank en verdween gedeeltelijk uit beeld. NN2 klom over de toonbank en NN4 en NN2 pakten voorwerpen uit de vitrine en stopten deze in de tas die ze bij zich hadden. NN4 sloeg met de voorhamer tegen een vitrine. NN2 klom terug over de toonbank en liep naar de vitrines aan de andere kant. NN2 maakte daar met het voorwerp een slaande beweging richting de vitrine en vervolgens pakte NN2 uit zowel het bovenste als het onderste deel van de vitrine voorwerpen en stopte deze in zijn tas. NN3 klom over de toonbank en liep naar de achterkant van de ruimte. NN3 klom op de toonbank en ging daar zitten op zijn knieën. NN3 pakte vervolgens voorwerpen en deed deze in zijn tas. NN4 kwam weer in beeld en haalde uit met de voorhamer richting een vitrine. NN4 pakte voorwerpen en stopte deze in zijn tas. NN4 liep vervolgens naar een andere vitrine en ook hier pakte hij voorwerpen en stopte deze in zijn tas.
+
+Medeverdachte [medeverdachte 1] heeft verklaard dat hij geld nodig had. Hij zag ramkraakfilmpjes en zo kwamen zij op het idee om op een makkelijke manier aan geld te komen. Zij zijn vanuit Amsterdam met het (ram)busje naar Arnhem gekomen. Zij waren met zijn vieren. Er zaten er drie voorin het busje en één achterin. In de laadruimte van het busje stond een motor en lag een lange moker. Het busje was door één van hen gestolen in Utrecht. Dat was op 21 oktober 2025. Ook de motor was door één van hen gestolen. Zij kwamen bij deze juwelierszaak in Arnhem uit door te zoeken naar juweliers en dan te gaan kijken. Dat was een tijdje geleden. Het was zo gepland. Alles was gepland. Zij hebben het politiebureau gecheckt, de route hoe zij weg moesten rijden en de plek waar zij de motors moesten uitladen. De anderen hadden kleine mokers bij zich. Zij hebben een metalen vuilniscontainer gebruikt die een straat ernaast stond. Ook dit hoorde bij de voorbereiding. Zij hadden vanaf het begin al overlegd om een container te gebruiken. Er waren twee motoren. Die waren allebei gestolen. [medeverdachte 1] had een zwart skimasker op met een bouwlampje op zijn hoofd. Hij had twee vesten aan en daaronder een T-shirt, evenals een korte broek en twee lange trainingsbroeken, korte sokken, lange sokken en een regenbroek, in totaal dus drie broeken. Alle kleding was zwart. Ook droeg hij twee paar handschoenen, zwartkleurig, en tape om zijn polsen en enkels om makkelijk te werken, zodat er geen glas binnen kon komen en dat hij zijn haartjes niet kon verliezen. De voorbereiding kostte een maandje, anderhalf maandje. Buiten stond de vluchtpersoon, de rammer, te wachten voordat de politie kwam. [medeverdachte 1] heeft in de juwelierszaak het rookalarm stuk gemaakt en misschien één à twee vitrines. Hij pakte ook goederen uit de vitrines. Deze goederen deed hij in een big shopper. Deze was groot en zwart. De anderen hadden dezelfde tassen bij zich. Het vluchtplan was overstappen op de motor en dan een route rijden om op een plaats uit te komen waar zij konden overnachten. De buit zou gedeeld worden door vier. Zij zouden de buit samen verdelen. Het idee van de ramkraak was van hen allen. Zij kwamen er met zijn vieren op. [medeverdachte 1] schatte de buit vooraf op vier à vijf ton.
+
+Medeverdachte [medeverdachte 2] heeft verklaard dat het zijn taak was om vitrinekasten te slopen. Hij had een zwart regenpak aan en twee trainingspakken daaronder, omdat hij zichzelf geen pijn wilde doen. Ook had hij zwarte handschoenen aan en was zijn gezicht bedekt met een balaclava. Hij had een sporttas bij zich om de eventuele buit in te stoppen.
+
+Verdachte [verdachte] heeft ter terechtzitting verklaard dat hij vitrinekasten heeft gesloopt. Als ze bij de juwelier waren, moest hij vitrines kapotmaken en goud in de tas stoppen. Dat was de bedoeling. Zij zaten met zijn vieren in het busje. Hij was samen met medeverdachten [medeverdachte 1] en [medeverdachte 2] . Er was tegen hem vooraf gezegd dat er snel tonnen ‘geraapt’ zouden kunnen worden.
+
+De rechtbank ziet zich in de eerste plaats voor de vraag gesteld of er – kort gezegd – sprake is van een voltooide diefstal, zoals primair ten laste is gelegd, ofwel dat het bij een poging is gebleven, zoals subsidiair ten laste is gelegd.
+
+Op grond van de hiervoor weergegeven bewijsmiddelen stelt de rechtbank vast dat er een gezamenlijk plan was om een ramkraak te plegen. Men is samen vanuit Amsterdam naar Arnhem gereden om [bedrijf] te beroven. Ter plaatse zijn verdachte en zijn medeverdachten de juwelierszaak binnengekomen nadat het rolluik was ontzet doordat er met een busje en een rolcontainer meerdere malen tegen dat rolluik was aangereden. Verdachte en zijn medeverdachten sloegen vervolgens glazen vitrines kapot, graaiden de daarin aanwezige sieraden/juwelen eruit en stopten deze in meegebrachte sporttassen. Naar het oordeel van de rechtbank hebben verdachten door de sieraden/juwelen in sporttassen te stoppen de goederen zodanig aan de feitelijke heerschappij van de rechthebbende, juwelierszaak [bedrijf] , onttrokken dat de wegneming van die goederen als voltooid kan worden beschouwd. Zij hebben op dat moment als heer en meester over de sieraden/juwelen kunnen beschikken. Naar de uiterlijke verschijningsvorm van genoemde handelingen was het opzet van verdachten hierop ook gericht. Derhalve was er op dat moment al sprake van een voltooide diefstal. De rechtbank acht het primair ten laste gelegde feit dan ook wettig en overtuigend bewezen.
+
+Ook is naar het oordeel van de rechtbank sprake geweest van medeplegen van deze diefstal. Verdachte heeft immers net als zijn medeverdachten een wezenlijk bijdrage geleverd aan de diefstal door, nadat zij zich een weg naar binnen hebben gebaand door de kapotte pui, vitrines kapot te slaan en sieraden/juwelen in een sporttas te doen. De bijdrage van verdachte is daarmee van voldoende gewicht geweest om te kunnen spreken van een nauwe en bewuste samenwerking tussen verdachte en zijn medeverdachten die in de kern bestaat uit een gezamenlijke uitvoering.
+
+Feit 2
+
+Aangever [aangever 6] heeft verklaard dat hij bestuurder is van het bedrijf [bedrijf] en zodoende eigenaar is van het pand aan [adres] in Arnhem waarin de juwelier [bedrijf] is gevestigd. Op woensdag 22 oktober 2025 werd hij omstreeks 08:00 uur gebeld door zijn compagnon die op dat moment in Spanje verbleef. Van hem vernam [aangever 6] dat er eerder die nacht een ramkraak had plaatsgevonden op de genoemde juwelier en dat er drie verdachten waren aangehouden. Diezelfde dag, woensdag 22 oktober 2025, is [aangever 6] ter plaatse gegaan bij het pand en zag hij de schade waarbij de voorpui van het pand compleet vernield was.
+
+In het door verbalisant [verbalisant 3] bekeken bestand ‘ [naam] ' zag hij op minuut 6:30 twee scooters en een voertuig het scherm inrijden. De twee scooters werden op de hoek van de kruising gezet. Er kwamen twee personen al duwend met een rolcontainer aanlopen. Deze personen zijn nader aangeduid als 'NN1' en 'NN2'. NN1 en NN2 verplaatsten samen de container naar de paaltjes. NN1 liep vervolgens weg en NN2 zette de container tussen de paaltjes. Er kwam een derde persoon aanlopen. Deze persoon is nader aangeduid als 'NN3'. NN3 maakte een handbeweging in de richting van het plantsoen. Vervolgens liepen NN2 en NN3 weg. Op minuut 7:00 kwam het eerder genoemde voertuig door het plantsoen met snelheid het beeld inrijden. Vervolgens ramde de bedrijfswagen de container. Daarna reed de bedrijfswagen achteruit en verdween uit beeld. Tegelijk liepen NN2, NN3 en een vierde persoon naar de container. Deze persoon is nader aangeduid als 'NN4'. NN4 zette de container weer recht voor het rolluik. Vervolgens maakten NN4 en NN2 in de richting van de bedrijfswagen een handbeweging en liepen zij weg. De bedrijfswagen verscheen weer in beeld en ramde de container nogmaals met snelheid. NN2, NN3 en NN4 renden naar het rolluik. Zij konden nog niet naar binnen, want ze kwamen terug. NN4 zette de container weer recht en NN2 liep naar de bestuurderskant van de bedrijfswagen. De bedrijfswagen reed weer naar achteren en ramde voor de derde keer de container. NN2, NN4 en NN3 renden naar het rolluik. Zij verdwenen op minuut 7:32 uit beeld bij het rolluik. De bedrijfswagen reed achteruit en verdween uit het beeld.
+
+Verbalisanten [verbalisant 4] en [verbalisant 5] hebben een onderzoek ingesteld in/aan het pand aan [adres] in Arnhem. Zij zagen dat de pui aan de voorzijde van de juwelier naar binnen was gevallen en dat daardoor veel schade werd veroorzaakt. Zij zagen dat het plafond deels was ingestort en dat de gehele pui vernield was.
+
+Uit de voorgaande bewijsmiddelen, in combinatie met de onder feit 1 opgenomen bewijsmiddelen, leidt de rechtbank het volgende af. NN2, NN3 en NN4 zijn allen betrokken geweest bij het verplaatsen en/of rechtzetten van de rolcontainer voor het rolluik van de juwelierszaak, dan wel bij het geven van aanwijzingen aan de chauffeur van het busje. Dezelfde personen hebben vervolgens ook het pand betreden nadat het rolluik was ontzet doordat er met het busje en de rolcontainer meerdere malen tegen dat rolluik was aangereden. Vast staat verder dat verdachte één van de personen is geweest die in de juwelierszaak is geweest. Naar het oordeel van de rechtbank heeft verdachte daarmee, net als zijn medeverdachten, een wezenlijk bijdrage geleverd aan het vernielen van de juwelierszaak. De bijdrage van verdachte is van voldoende gewicht geweest om te kunnen spreken van een nauwe en bewuste samenwerking tussen verdachte en zijn medeverdachten die in de kern bestaat uit een gezamenlijke uitvoering. Het onder 2 ten laste gelegde feit is dus wettig en overtuigend bewezen.
+
+De rechtbank acht niet wettig en overtuigend bewezen dat, hoewel verdachte het winkelpand van [bedrijf] heeft vernield, deze vernieling zodanig was dat daarvan gemeen gevaar voor de aangrenzende panden/woningen en de inboedel daarvan te duchten was. Van dit onderdeel zal de rechtbank verdachte partieel vrijspreken.
+
+De rechtbank volgt de raadsvrouw niet in haar betoog dat er ten aanzien van de feiten 1 en 2 sprake is van eendaadse samenloop. Van eendaadse samenloop als bedoeld in artikel 55, eerste lid, van het Wetboek van Strafrecht (Sr) is sprake indien de bewezenverklaarde gedragingen in die mate een samenhangend, zich min of meer op dezelfde tijd en plaats afspelend feitencomplex opleveren dat verdachte daarvan in wezen één verwijt wordt gemaakt, terwijl de strekking van de desbetreffende strafbepalingen niet (meer dan enigszins) uiteenloopt. Naar het oordeel van de rechtbank was er weliswaar sprake van één overkoepelend plan, maar de bewezenverklaarde gedragingen hangen niet zo nauw met elkaar samen dat verdachte daarvan in wezen één verwijt wordt gemaakt. Hij heeft telkens een nieuw besluit genomen en in dat verband verschillende handelingen verricht. Bovendien loopt de strekking van de desbetreffende strafbepalingen meer dan enigszins uiteen. De diefstalbepaling (feit 1) beschermt het vermogen, in het bijzonder de eigendom en het bezit van roerende zaken, terwijl artikel 170 Sr (feit 2) beschermt tegen gevaren voor (onder meer) goederen die voortvloeien uit vernieling van (onder meer) een gebouw. Er is dan ook sprake van meerdaadse samenloop.
+
+Feit 3 en 4
+
+Aangever [aangever 2] heeft verklaard dat hij eigenaar is van het motorvoertuig Vespa Piaggio met kenteken [kenteken] . Via Marktplaats bood hij dit voertuig te koop aan. Op 17 oktober 2025, om 00:02 uur, kreeg hij een bericht van ‘ [naam] ’. Deze vroeg of hij kon langskomen om te kijken naar de motor. Omstreeks 17:45 uur kwam er een jonge jongen aan de deur. Hij zei dat hij twintig jaar was geworden. Hij was licht getint, had een Marokkaans uiterlijk, korte zwarte krullen en droeg een bril, een grijze trui en een zwarte broek. Ook had hij een schoudertasje van het merk Louis Vuitton. De jongen vroeg of de motor nog goed was en waarom [aangever 2] hem weg deed. Hij kwam oprecht geïnteresseerd over. [aangever 2] legde hem een beetje uit hoe de motor werkte. De jongen overhandigde zijn schoudertas en zei dat hij zo terug was. Na tien minuten voelde [aangever 2] al nattigheid en na een half uur belde hij de politie. De jongen is niet meer teruggekomen.
+
+Aangever [aangever 3] heeft verklaard dat hij mede-eigenaar is van een bedrijfsauto van het merk Volkswagen, type Caddy, wit van kleur en voorzien van kenteken [kenteken] . De auto staat in het kentekenregister op naam van zijn partner, mevrouw [aangever 4] . [aangever 3] bood het voertuig te koop aan via Marktplaats. Op de advertentie werd gereageerd door [naam] . Op 21 oktober 2025 spraken zij af dat [naam] een proefrit mocht maken. Op 21 oktober 2025 om 22:15 uur kwam er een persoon opdagen die aangaf [naam] te zijn. [aangever 3] schatte zijn leeftijd tussen de achttien en twintig jaar. De man was tussen 1.75 meter en 1.80 meter lang, had een slanke lichaamsbouw en een Marokkaans uiterlijk. Zij spraken af dat de man een blokje om ging met de auto en de auto daarna in goede orde terugbracht. Omstreeks 22:20 uur was de man nog steeds niet terug met het voertuig. Toen [aangever 3] hem belde op het opgegeven telefoonnummer kreeg hij geen gehoor. Hij belde dit nummer later meermaals zonder resultaat, terwijl contact via dit nummer voorafgaand aan de proefrit wel mogelijk was. Op woensdag 22 oktober 2025 om 09:50 uur was het voertuig nog niet teruggebracht.
+
+De scooter met kenteken [kenteken] is bij aanhouding van verdachten door de politie aangetroffen met draaiende motor op - kort gezegd - de stoep naast [bedrijf] .
+
+Ter plekke zag de politie ook een witte Volkswagen Caddy met flinke schade aan de voorzijde en in de laadruimte werden twee kentekenplaten met kenteken [kenteken] aangetroffen.
+
+Uit de bovenstaande bewijsmiddelen, in combinatie met de verklaringen van verdachte [verdachte] en medeverdachten [medeverdachte 2] en [medeverdachte 1] zoals hiervoor onder feit 1 opgenomen, leidt de rechtbank af dat verdachte samen met drie anderen de gepleegde ramkraak bij [bedrijf] ruim van tevoren heeft gepland en in dat verband ook allerlei voorbereidingen heeft getroffen. Onderdeel van die voorbereidingen was onder meer het stelen van twee vluchtscooters en een busje door een van hen in de dagen voorafgaand aan de ramkraak. Op de avond van de ramkraak zijn in ieder geval verdachte [verdachte] , medeverdachte [medeverdachte 1] en twee anderen met het gestolen busje met daarin de gestolen scooters vanuit Amsterdam naar Arnhem gereden om de ramkraak te plegen.
+
+Daarmee zijn de onder 3 primair en 4 primair ten laste gelegde diefstallen wettig en overtuigend bewezen. Verdachte heeft naar het oordeel van de rechtbank deze feiten tezamen en in vereniging met anderen gepleegd. Er was sprake van één gezamenlijk plan om een ramkraak te plegen waarbij gebruik zou worden gemaakt van gestolen voertuigen om dit plan uit te voeren (het busje waarmee is geramd) en/of de vlucht de verzekeren (de motorscooters). Verdachte heeft als onderdeel van dat plan een wezenlijke bijdrage geleverd aan de ramkraak, zoals hiervoor al overwogen onder de feiten 1 en 2. Hij zou als één van de vier betrokken daders bovendien delen in de buit van de ramkraak (‘tonnen rapen’). Tenminste één van de verdachten heeft voornoemde voertuigen ook daadwerkelijk gestolen, terwijl verdachte op de avond van de ramkraak in het gestolen busje en met medebrenging van de gestolen scooters vanuit Amsterdam naar Arnhem is gereden. Door mede uitvoering te geven aan en te delen in de verwachte buit van het overkoepelende plan (de ramkraak), heeft verdachte daarmee ook een bijdrage van voldoende gewicht geleverd aan de onder dit plan vallende diefstallen van de scooter en het busje. Daarom is er sprake van een nauwe en bewuste samenwerking tussen verdachte en zijn mededaders en (dus) van medeplegen.
+
+Feit 5
+
+Dit feit ziet op de diefstal dan wel de heling van een of meer kentekenplaten die op het gestolen busje waarmee de ramkraak is gepleegd waren gemonteerd. Naar het oordeel van de rechtbank bevat het dossier echter geen aanknopingspunten van enige betrokkenheid van verdachte hierbij. Verder blijkt niet uit het dossier dat het stelen van kentekenplaten deel uitmaakte van het plan om een ramkraak te plegen en ook is onduidelijk wie en op welk moment dat dan heeft gedaan. Bovendien kan uit het dossier niet worden afgeleid dat verdachte de in de tenlastelegging genoemde kentekenplaten voorhanden heeft gehad, terwijl hij ten tijde van dat voorhanden krijgen wist dan wel redelijkerwijs had moeten vermoeden dat deze kentekenplaten van diefstal afkomstig waren. De rechtbank zal verdachte daarom vrijspreken van het onder 5 primair en subsidiair ten laste gelegde feit.
+
+3
+De bewezenverklaring
+
+Naar het oordeel van de rechtbank is wettig en overtuigend bewezen dat verdachte de navolgende ten laste gelegde feiten heeft begaan, te weten dat:
+
+1. primair
+
+hij op of omstreeks 22 oktober 2025 te Arnhem tezamen en in vereniging met een of meer anderen, althans alleen, sieraden en/of juwelen, in elk geval enig goed, dat/die geheel of ten dele
+
+aan [bedrijf] en/of [aangever 1] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en/of zijn mededader(s) zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die weg te nemen goederen onder zijn/haar/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+2
+
+hij op of omstreeks 22 oktober 2025 te Arnhem tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk een gebouw, te weten een winkelpand van [bedrijf] , aan [adres] , heeft vernield en/of beschadigd, door
+
+- een rolcontainer voor de rolluiken en/of ingang behorend bij voornoemd winkelpand te plaatsen en/of
+
+- vervolgens meermalen, althans eenmaal, met een bestelbus tegen voornoemde rolcontainer te rijden, waardoor de rolluiken en/of ingang werden ontzet,
+
+terwijl daarvan gemeen gevaar voor voornoemd gebouw en de in dat gebouw aanwezige inboedel en/of de aangrenzende panden/woningen en de inboedel daarvan, in elk geval gemeen gevaar voor goederen te duchten was;
+
+3 primair
+
+hij op of omstreeks 17 oktober 2025 te Hilversum tezamen en in vereniging met een of meer anderen, althans alleen, een motorscooter (Vespa Piaggio met kenteken [kenteken] ), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 2] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen;
+
+4 primair
+
+hij in of omstreeks de periode van 21 oktober 2025 tot en met 22 oktober 2025 te Utrecht
+
+tezamen en in vereniging met een of meer anderen, althans alleen, een bedrijfsauto (Volkswagen Caddy met kenteken [kenteken] ), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 3] en/of [aangever 4] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s)
+
+toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen.
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten in de bewezenverklaring verbeterd. Verdachte is daardoor niet in de verdediging geschaad.
+
+Wat meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard, is niet bewezen.
+
+Verdachte zal daarvan worden vrijgesproken.
+
+4
+De kwalificatie van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+feit 1 primair:
+
+Diefstal door twee of meer verenigde personen, waarbij de schuldigen zich de toegang tot de plaats van het misdrijf hebben verschaft en het weg te nemen goed onder hun bereik hebben gebracht door middel van braak;
+
+feit 2:
+
+Medeplegen van een gebouw opzettelijk vernielen, terwijl daarvan gemeen gevaar voor goederen te duchten is;
+
+feit 3 primair:
+
+Diefstal door twee of meer verenigde personen;
+
+feit 4 primair:
+
+Diefstal door twee of meer verenigde personen.
+
+5.	De strafbaarheid van de feiten
+
+De feiten zijn strafbaar.
+
+6
+De strafbaarheid van de verdachte
+
+Verdachte is strafbaar, nu geen omstandigheid is gebleken of aannemelijk is geworden die de strafbaarheid van verdachte uitsluit.
+
+7
+De overwegingen ten aanzien van straf en/of maatregel
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte zal worden veroordeeld tot een gevangenisstraf voor de duur van vierentwintig maanden waarvan zes maanden voorwaardelijk met een proeftijd van drie jaren en met aftrek van de tijd in voorarrest doorgebracht. Aan het voorwaardelijk deel dienen de bijzondere voorwaarden te worden gekoppeld, zoals deze door de reclassering zijn geadviseerd.
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft bepleit dat het adolescentenstrafrecht moet worden toegepast. In geval van een veroordeling dient aan verdachte geen langere onvoorwaardelijke gevangenisstraf te worden opgelegd dan de tijd die hij reeds in voorlopige hechtenis heeft doorgebracht. Mocht de rechtbank daarnaast nog een straf noodzakelijk achten, dan verzoekt de raadsvrouw te volstaan met een taakstraf en een stevig voorwaardelijk strafdeel met de door de reclassering geadviseerde bijzondere voorwaarden.
+
+De beoordeling door de rechtbank
+
+De rechtbank heeft bij de bepaling van de op te leggen straf rekening gehouden met de aard en de ernst van hetgeen bewezen is verklaard en de omstandigheden waaronder dit is begaan. De rechtbank heeft verder rekening gehouden met de persoon en de omstandigheden van verdachte.
+
+De rechtbank neemt hierbij in het bijzonder het volgende in aanmerking.
+
+Verdachte heeft samen met anderen in de nacht van 22 oktober 2025 juwelierszaak [bedrijf] in Arnhem op een professioneel voorbereide wijze overvallen. Op de dag van de ramkraak zijn zij met een door hen gestolen busje vanuit Amsterdam naar Arnhem gereden. In dit busje stonden ook twee vluchtscooters, die ook door hen waren gestolen, en lagen er verder mokers, tassen en zwarte kleding. In Arnhem hebben zij een in de buurt van [bedrijf] staande rolcontainer naar het pand geduwd om zo de anti-rampaaltjes voor de pui te omzeilen, waarna zij met het busje driemaal tegen de rolcontainer zijn aangereden die vervolgens de pui van de juwelierszaak heeft ontzet. Via de daardoor ontstane opening zijn verdachte en twee medeverdachten naar binnen gegaan. Daar hebben zij veel schade aangericht door met mokers het als anti-inbraak dienende rookgordijn kapot te slaan, evenals de aanwezige glazen vitrines met sieraden en juwelen. Deze sieraden en juwelen hebben zij vervolgens in de meegebrachte tassen gestopt. Op het moment dat zij het pand weer wilden verlaten zijn zij op heterdaad aangehouden door de politie.
+
+Het gaat hier om ernstige feiten. Door het handelen van verdachte en zijn medeverdachten zijn het pand en de inboedel van de juwelierszaak fors beschadigd geraakt. Met het herstel en het opruimen daarvan en de verdere afwikkeling van de schade is de nodige tijd en energie gemoeid (geweest). Ook verstoort het de normale bedrijfsvoering van de juwelierszaak en leidt het tot overlast en frustratie bij zowel de juwelier als de eigenaar van het pand. Bovendien zorgen dergelijke feiten niet alleen voor gevoelens van onrust en onveiligheid bij de slachtoffers, maar ook bij andere ondernemers in de buurt en in de maatschappij in het algemeen. Van dit alles heeft verdachte zich kennelijk geen rekenschap gegeven en heef hij slechts oog gehad voor zijn eigen financieel gewin. Daarnaast zijn de diefstal van een bedrijfsauto en twee scooters brutale en ergerlijke feiten, waarmee overlast, schade en ergernis is veroorzaakt, en waarmee verdachte heeft aangetoond geen respect te hebben voor andermans eigendom. Dit alles rekent de rechtbank verdachte zwaar aan.
+
+De rechtbank heeft kennisgenomen van het strafblad van verdachte van 21 april 2026. Daaruit blijkt dat verdachte eerder voor vermogensdelicten is veroordeeld.
+
+De rechtbank heeft verder gelet op het advies van de Reclassering van 5 juni 2026. Daaruit blijkt dat er meerdere risicofactoren zijn. Verdachte heeft geen dagbesteding of inkomen. Daarnaast is sprake van een negatief sociaal netwerk en een pro-criminele houding. Ook zijn er zorgen om het psychosociaal functioneren. Beschermende factoren zijn het ontbreken van middelenproblematiek en de reeds gestarte begeleiding vanuit Stichting IMD. Tijdens het schorsingstoezicht, waarbij verdachte een enkelband draagt, heeft hij veel overtredingen gemaakt. Hierdoor heeft hij in april een officiële waarschuwing gekregen en stond de reclassering op het punt om het toezicht te retourneren. Verdachte heeft echter sinds enkele weken verbetering laten zien in de naleving van zijn tijden, voornamelijk dankzij de begeleiding vanuit IMD. De reclassering schat zijn responsiviteit vooralsnog laag in, maar vanwege het hoge recidiverisico in combinatie met de jonge leeftijd van verdachte, wil de reclassering het toezicht nog een kans geven. Hierbij is een streng kader, in combinatie met elektronische monitoring (enkelband), noodzakelijk. Er zal een lik-op-stuk beleid worden gevoerd waarin het toezicht geretourneerd zal worden als verdachte geen verbetering laat zien in zijn responsiviteit.
+
+De reclassering adviseert het volwassenenstrafrecht toe te passen. Zij ziet onvoldoende aanknopingspunten voor de toepassing van het jeugdstrafrecht. Er is geen sprake van een licht verstandelijke beperking, schoolgang of noodzaak voor de inzet van gezinsgerichte aanpak. Verdachte is zelfbepalend en komt conform zijn kalenderleeftijd over. Daarnaast heeft hij meerdere trajecten doorlopen via het jeugdstrafrecht, maar is zijn delictgedrag niet afgenomen, waardoor dit volgens de reclassering een gepasseerd station is.
+
+Voorts adviseert de reclassering een (deels) voorwaardelijke straf op te leggen met de volgende bijzondere voorwaarden: • meldplicht bij de reclassering; • ambulante behandeling en diagnostiek; • ambulante begeleiding; • contactverbod; • locatieverbod (met elektronisch toezicht); • locatiegebod (met elektronisch toezicht); • dagbesteding, te controleren met GPS; • inzage financiën.
+
+Tijdens de rapportbespreking op 5 juni 2026 heeft verdachte aangegeven niet langer mee te zullen werken aan een toezicht met een enkelband en hiertegen in bezwaar te gaan. Voor de reclassering is de enkelband een voorwaarde voor het toezicht. Als wordt besloten de voorwaarde van de elektronische monitoring (in combinatie met de andere bijzondere voorwaarden) niet op te leggen, dan is het toezicht voor de reclassering onuitvoerbaar en adviseert zij een geheel onvoorwaardelijke gevangenisstraf op te leggen.
+
+Ten slotte heeft de rechtbank kennisgenomen van een e-mail van ambulante begeleiding forensische zorg Stichting IMD van 8 juni 2026. Daaruit blijkt dat verdachte de afgelopen periode positieve stappen heeft gezet richting een aanvaardbare en stabiele toekomst. Zo heeft hij de wens uitgesproken zijn werkzaamheden als assistent-jeugdcoördinator binnen Stichting Dynamo voort te zetten, zijn sportactiviteiten (voetbal) te hervatten en zijn opleiding graag opnieuw op te pakken. Inmiddels heeft hij zich uit eigen initiatief opnieuw aangemeld bij het ROC om zijn studie te vervolgen. IMD herkent dat verdachte een belast verleden kent en dat zijn ontwikkeling nog pril is, maar acht tegelijkertijd de recente gedragsverandering oprecht, zichtbaar en geloofwaardig. Zijn motivatie lijkt niet uitsluitend gericht op het verkrijgen van meer vrijheden, maar ook op het daadwerkelijk creëren van perspectief voor zichzelf, zijn moeder en zijn familie. Op basis van recente ervaringen heeft IMD vertrouwen in het verdere begeleidingstraject. Gelet op zijn leeftijd, zijn huidige motivatie en de concrete stappen die hij reeds heeft gezet, acht zij de kans reëel dat verdachte zijn leven op een positieve en maatschappelijk verantwoorde wijze verder vorm zal geven. De ontwikkeling van de afgelopen weken biedt voldoende aanknopingspunten om het begeleidingstraject met vertrouwen voort te zetten. In de komende periode zal de begeleiding zich nadrukkelijk blijven richten op het verder in kaart brengen van zijn leefomgeving, het versterken van beschermende factoren en het beperken van risicofactoren die kunnen bijdragen aan recidive. Daarnaast acht IMD het van belang om blijvend aandacht te besteden aan eventuele pro-criminele denkpatronen, houdingen en gedragingen, zodat deze tijdig kunnen worden herkend, besproken en waar nodig bijgestuurd. Juist door verdere begeleiding, monitoring en het creëren van een zinvolle daginvulling verwacht zij een beter beeld te krijgen van de risicodynamiek rondom verdachte en de mogelijkheden om zijn positieve ontwikkeling duurzaam te bestendigen.
+
+Anders dan de raadsvrouw heeft bepleit, ziet de rechtbank, mede gelet op het advies van de reclassering, het standpunt van de officier van justitie en de persoonlijke omstandigheden van verdachte, geen aanleiding om het adolescentenstrafrecht toe te passen.
+
+Een onvoorwaardelijke gevangenisstraf die gelijk is aan het voorarrest, zoals door de raadsvrouw bepleit, acht de rechtbank niet passend bij de ernst van de door verdachte gepleegde feiten. Ditzelfde geldt voor de bepleite taakstraf. Naar het oordeel van de rechtbank is alleen een gevangenisstraf van langere duur op zijn plaats. Bij het bepalen van de duur van die gevangenisstraf houdt de rechtbank naast al het voorgaande rekening met de jeugdige leeftijd van verdachte, het feit dat hij geen enkele verantwoordelijkheid voor zijn handelen heeft genomen en de omstandigheden dat hij ten tijde van het plegen van de feiten nog in een proeftijd liep en dat hij tijdens zijn schorsing van de voorlopige hechtenis zich vaak niet heeft gehouden aan gemaakte afspraken. De rechtbank heeft aansluiting gezocht bij de straffen die in soortgelijke zaken worden opgelegd en gelet op de oriëntatiepunten van het Landelijk Overleg Vakinhoud Strafrecht (LOVS). Om verdachte te stimuleren zich ervan te weerhouden opnieuw strafbare feiten te plegen, zal een deel van de gevangenisstraf voorwaardelijk worden opgelegd. Alles overwegend zal de rechtbank aan verdachte een gevangenisstraf opleggen voor de duur van zestien maanden, waarvan zes maanden voorwaardelijk met een proeftijd van drie jaren en met aftrek van de tijd die verdachte in voorarrest heeft doorgebracht. Aan het voorwaardelijk deel worden de door de reclassering geadviseerde bijzondere voorwaarden gekoppeld, inclusief de elektronische monitoring. De rechtbank acht deze voorwaarden absoluut noodzakelijk ter voorkoming van recidive door verdachte.
+
+Uit het voorgaande volgt dat het geschorste bevel tot voorlopige hechtenis niet zal worden opgeheven.
+
+Tenuitvoerlegging van de opgelegde gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat verdachte in aanmerking komt voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet, dan wel de regeling van voorwaardelijke invrijheidstelling, als bedoeld in artikel 6:2:10 Wetboek van Strafvordering, aan de orde is.
+
+8.	De beoordeling van de civiele vordering
+
+De benadeelde partij [bedrijf] heeft in verband met de feiten 1 en 2 een vordering tot schadevergoeding ingediend. De benadeelde partij vordert, nadat zij ter terechtzitting haar eis heeft verminderd, een bedrag van € 17.129,16 aan materiële schade, vermeerderd met de wettelijke rente. Verder is om oplegging van de schadevergoedingsmaatregel verzocht. Ook vordert de benadeelde partij € 700,00 aan proceskosten.
+
+De gevorderde materiële schade bestaat uit de volgende posten:
+
+- € 12.800,00 voor een binnenpui;
+
+- €   4.329,16 voor een rolluik.
+
+Standpunten
+
+De officier van justitie heeft zich op het standpunt gesteld dat de vordering van de benadeelde partij kan worden toegewezen, met toekenning van de wettelijke rente, en vordert oplegging van de schadevergoedingsmaatregel. Volgens de officier van justitie moet het totale bedrag pondsgewijs worden verdeeld tussen verdachte en de twee medeverdachten, nu ieder van hen een gelijk aandeel heeft.
+
+De verdediging heeft zich op het standpunt gesteld dat de benadeelde partij niet-ontvankelijk in de vordering moet worden verklaard, primair vanwege de bepleite vrijspraak, subsidiair vanwege het feit dat de vordering onvoldoende is onderbouwd.
+
+Overwegingen van de rechtbank
+
+Uit het onderzoek ter terechtzitting is de rechtbank voldoende gebleken dat de benadeelde partij als gevolg van het onder 1 primair en 2 bewezenverklaarde handelen van verdachte rechtstreeks schade heeft geleden. Voor deze schade is verdachte naar burgerlijk recht aansprakelijk.
+
+De kosten voor een rolluik (€ 4.329,16) staan naar het oordeel van de rechtbank in direct verband met de onder 1 primair en 2 bewezenverklaarde feiten, zijn voldoende onderbouwd en komen redelijk voor. De verdediging heeft gesteld dat uit het dossier volgt dat [bedrijf] B.V. eigenaar is van het pand en het pand heeft verhuurd aan [bedrijf] . Dit roept vragen op over de precieze verdeling van de schade, de verzekeringspositie en de vraag wie uiteindelijk daadwerkelijk schade heeft geleden. De rechtbank overweegt dat uit de overgelegde stukken blijkt dat een deel van de kosten voor het rolluik reeds is betaald door de benadeelde partij, terwijl de e-mail waarin de totale kosten van herstel van de schade aan het rolluik zijn opgenomen ook is gericht aan de benadeelde partij. In het licht hiervan is de betwisting van deze post door de verdediging onvoldoende onderbouwd. De gevorderde schadevergoeding voor de kosten van het herstel van het rolluik zal daarom worden toegewezen.
+
+Ten aanzien van de kosten voor de binnenpui (€ 12.800,00) heeft de verdediging erop gewezen dat uit de stuken onvoldoende blijkt of deze schade inmiddels geheel of gedeeltelijk door een verzekeraar is vergoed. Iedere concrete informatie over een eventuele verzekeringsuitkering, ontvangen schadebedragen en eigen risico ontbreekt. Zonder nadere toelichting valt niet vast te stellen welke posten mogelijk reeds door een verzekeraar zijn vergoed.
+
+Gelet op een en ander kan deze schadepost naar het oordeel van de rechtbank niet zonder nader onderzoek worden beoordeeld. Behandeling hiervan levert een onevenredige belasting op van het strafproces. Daarom zal de rechtbank dit deel van de vordering niet-ontvankelijk verklaren. Zij kan dit deel van de vordering bij de burgerlijke rechter aanbrengen.
+
+Ten aanzien van het gevorderde bedrag van € 700,00 aan proceskosten zal de rechtbank aansluiting zoeken bij het in Nederlandse civiele procedures voor kosten van rechtsbijstand gebruikelijke liquidatietarief dat geldt in kantonzaken waarbij de rechtbank bij het bepalen van het toepasselijke tarief uit gaat van de hoogte van het toegewezen bedrag van € 4.329,16. Dit betekent dat de rechtbank de proceskosten zal bepalen naar de maatstaf van het liquidatietarief kanton en het tarief dat geldt voor bedragen van tussen de € 3.750,00 en € 5.000,00.Er zullen twee punten à € 271,00 worden toegekend, te weten één punt voor het opstellen en indienen van de vordering en één punt voor het bijwonen van de zitting. Hierop zal de rechtbank nog een correctie toepassen van 0,5, gelet op de samenhang van deze zaak met de zaken tegen de twee medeverdachten. De rechtbank zal ten aanzien van de benadeelde partij dus een bedrag van 2 x € 271,00 x 0,5 = € 271,00 toekennen ter zake van proceskosten.
+
+Nu de schade is ontstaan op de dag van de ramkraak, te weten 22 oktober 2025, is verdachte vanaf die dag wettelijke rente over het toegewezen bedrag verschuldigd.
+
+De rechtbank ziet aanleiding om op grond van artikel 36f van het Wetboek van Strafrecht de schadevergoedingsmaatregel aan verdachte op te leggen. Verdachte wordt verplicht het aan de benadeelde partij toegewezen bedrag aan de Staat te betalen. Eventueel toegekende proceskosten zijn daar niet bij inbegrepen.
+
+De rechtbank verwerpt het verweer van de verdediging dat de schadevergoedingsmaatregel achterwege moet blijven omdat de benadeelde partij een professionele onderneming is die geacht mag worden zelf in staat te zijn een toegewezen vordering civielrechtelijk te incasseren. Er is geen rechtsregel die ertoe strekt dat in dergelijke gevallen de schadevergoedingsmaatregel per definitie achterwege moet blijven. Het gaat hier bovendien om een kleine zelfstandige en niet om een grote commerciële onderneming.
+
+In de overige door de verdediging aangevoerde gronden ziet de rechtbank evenmin aanleiding om de schadevergoedingsmaatregel achterwege te laten.
+
+De rechtbank is van oordeel dat verdachte en de medeverdachten ieder voor het hele schadebedrag (hoofdelijk) kunnen worden aangesproken, nu er sprake is van groepsaansprakelijkheid op grond van artikel 6:166 BW, dit zowel voor wat betreft het toegewezen bedrag aan materiële schade als de schadevergoedingsmaatregel. Verdachte hoeft niet meer te betalen indien en voor zover zijn medeverdachten de schade hebben vergoed.
+
+Voor zover de verdediging heeft verzocht om de schade niet hoofdelijk toe te wijzen vanwege de beperkte rol van verdachte zal de rechtbank dit standpunt niet volgen. Nog los van het feit dat de gestelde beperkte(re) rol volstrekt onvoldoende is om de hierboven weergegeven hoofdregel van 6:166 BW opzij te zetten, blijkt uit dit vonnis genoegzaam dat de rechtbank die rol heel anders ziet.
+
+9
+De vordering tot tenuitvoerlegging (parketnummer 10-113116-24)
+
+De kinderrechter in de rechtbank Amsterdam heeft verdachte op 17 mei 2024 veroordeeld tot een voorwaardelijke jeugddetentie van negentig (90) dagen.
+
+De officier van justitie vordert de tenuitvoerlegging van die straf.
+
+De raadsvrouw heeft bepleit om de voorwaardelijk opgelegde jeugddetentie niet ten uitvoer te leggen, dan wel om te zetten in een taakstraf van 180 uren.
+
+Bewezen is dat verdachte zich binnen de proeftijd opnieuw schuldig heeft gemaakt aan meerdere strafbare feiten. De rechtbank is van oordeel dat de voorwaardelijk opgelegde straf daarom ten uitvoer moet worden gelegd. In hetgeen de raadsvrouw heeft aangevoerd ziet de rechtbank geen enkele aanleiding om tot een andersluidend oordeel te komen. Omdat verdachte inmiddels negentien jaar is en hij naar het oordeel van de rechtbank niet meer voor een jeugddetentie in aanmerking komt, zal de rechtbank de negentig dagen jeugddetentie omzetten naar drie (3) maanden gevangenisstraf.
+
+10
+De toegepaste wettelijke bepalingen
+
+De oplegging van de straf en/of maatregel is gegrond op de artikelen 14a, 14b, 14c, 36f, 47, 57, 170 en 311 van het Wetboek van Strafrecht.
+
+11
+De beslissing
+
+De rechtbank:
+
+ spreekt verdachte vrij van het onder 5 primair en subsidiair ten laste gelegde feit;
+
+ verklaart bewezen dat verdachte de overige ten laste gelegde feiten, zoals vermeld onder ‘De bewezenverklaring’, heeft begaan;
+
+ verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij;
+
+ verstaat dat het aldus bewezenverklaarde oplevert de strafbare feiten zoals vermeld onder ‘De kwalificatie van het bewezenverklaarde’;
+
+ verklaart verdachte hiervoor strafbaar;
+
+ veroordeelt verdachte wegens het bewezenverklaarde tot een gevangenisstraf voor de duur van zestien (16) maanden;
+
+bepaalt dat een gedeelte van deze gevangenisstraf, te weten zes (6) maanden, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat verdachte zich voor het einde van de proeftijd van drie jaren niet heeft gehouden aan de volgende voorwaarden:
+
+stelt als algemene voorwaarde dat verdachte zich niet schuldig maakt aan een strafbaar feit;
+
+ stelt als bijzondere voorwaarden:
+
+- Verdachte meldt zich gedurende de proeftijd op afspraken met de reclassering, zo vaak en zolang de reclassering dat nodig vindt. De reclassering bepaalt op welke dagen en tijdstippen deze afspraken zijn. Voor de eerste afspraak meldt verdachte zich binnen één werkdag nadat de proeftijd is ingegaan bij Reclassering Nederland op het adres Wibautstraat 12 in Amsterdam;
+
+- Verdachte laat zich gedurende de proeftijd behandelen door De Waag of een  soortgelijke zorgverlener, te bepalen door de reclassering, zolang de reclassering de behandeling nodig vindt. De behandeling start zo snel mogelijk. De zorgverlener bepaalt de wijze van behandeling. De behandeling is gericht op psychische problematiek en het delictgedrag. Gelet op de problematiek kan onderdeel van de behandeling zijn dat verdachte voorgeschreven medicatie zal gebruiken. Verdachte zal meewerken aan verdiepingsdiagnostiek;
+
+- Verdachte laat zich gedurende de proeftijd begeleiden door Stichting IMD, zolang de reclassering dat nodig vindt;
+
+- Verdachte zoekt of heeft gedurende de proeftijd op geen enkele wijze –direct of indirect– contact met medewerkers van de juwelierszaak en de medeverdachten;
+
+- Verdachte bevindt zich gedurende de proeftijd niet in Arnhem zolang de reclassering dat nodig vindt. De reclassering kan tijdens deze periode het verboden gebied laten vervallen, het verboden gebied verkleinen en/of aan verdachte toestemming geven om zich voor een bepaalde periode in een bepaald deel van het verboden gebied te bevinden. Verdachte werkt mee aan elektronisch toezicht op de naleving van het locatieverbod, voor de genoemde periode of zoveel korter als de reclassering dat nodig vindt. Voor een goede werking van het elektronisch toezicht verlaat verdachte gedurende de duur van het elektronisch toezicht Nederland niet zonder toestemming van de reclassering;
+
+- Verdachte is gedurende de proeftijd op vooraf vastgestelde tijdstippen aanwezig op het verblijfadres, zolang de reclassering dat nodig vindt. Het locatiegebod geldt op de volgende dagen en tijden: Bij de start dient verdachte op doordeweekse dagen met dagbesteding 12 uur op het verblijfadres te zijn. Op doordeweekse dagen zonder opleiding, (vrijwilligers)werk of behandeling is dat 22 uur en op dagen in het weekend 20 uur. De reclassering kan tijdens deze periode de dagen en tijden waarop het locatiegebod geldt, al dan niet tijdelijk, verminderen. De reclassering stelt de precieze tijdstippen vast, in overleg met verdachte en afhankelijk van de dagbesteding. Het huidige verblijfadres is [adres] . Een ander adres voor het locatiegebod is alleen mogelijk als de reclassering daarvoor toestemming geeft. Verdachte werkt mee aan elektronisch toezicht op de naleving van het locatiegebod, voor de genoemde periode of zoveel korter als de reclassering dat nodig vindt. Voor een goede werking van het elektronisch toezicht gedurende de duur van het elektronisch toezicht verlaat verdachte Nederland niet zonder toestemming van de reclassering;
+
+- Verdachte spant zich gedurende de gehele proeftijd in voor het vinden en behouden van dagbesteding in de vorm van betaald werk en/of een opleiding met een vaste structuur. Verdachte werkt mee aan elektronisch toezicht op de naleving van deze verplichting, voor de genoemde periode of zoveel korter als de reclassering dat nodig vindt. De reclassering kan met de GPS-gegevens van het elektronisch toezicht zien of verdachte zich houdt aan afspraken over de dagbesteding. Indien de reclassering het nodig vindt, werkt verdachte mee aan een traject met een jobcoach;
+
+- Verdachte geeft de reclassering inzicht in zijn financiën en schulden;
+
+ geeft opdracht aan de reclassering om toezicht te houden op de naleving van deze voorwaarden en verdachte ten behoeve daarvan te begeleiden;
+
+ beveelt dat de tijd, door verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht;
+
+ beveelt de tenuitvoerlegging van de op 17 mei 2024 door de kinderrechter in de rechtbank Amsterdam voorwaardelijk opgelegde straf, te weten negentig (90) dagen jeugddetentie (parketnummer 10.113116-24) en bepaalt dat dit ten uitvoer wordt gelegd als drie (3) maanden gevangenisstraf;
+
+ veroordeelt verdachte in verband met de feiten 1 primair en 2 tot betaling van schadevergoeding aan de benadeelde partij [bedrijf] van € 4.329,16 aan materiële schade, vermeerderd met de wettelijke rente vanaf 22 oktober 2025 tot aan de dag dat het hele bedrag is betaald;
+
+ verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering tot materiële schade;
+
+ veroordeelt verdachte in de kosten die de benadeelde partij in deze procedure heeft gemaakt en de kosten die de benadeelde partij mogelijk nog moet maken om het toegewezen bedrag betaald te krijgen, tot vandaag begroot op € 271,00;
+
+legt aan verdachte de verplichting op om aan de Staat te betalen, ten behoeve van benadeelde partij [bedrijf] , een bedrag van € 4.329,16 aan materiële schade. Dit wordt vermeerderd met de wettelijke rente vanaf 22 oktober 2025 tot aan de dag dat het hele bedrag is betaald. Als dit bedrag niet wordt betaald, kunnen 43 dagen gijzeling worden toegepast zonder dat de betalingsverplichting vervalt;
+
+bepaalt daarbij dat met betaling aan de benadeelde partij in zoverre de betaling aan de Staat vervalt en omgekeerd;
+
+ bepaalt dat als de medeverdachten (een deel van) het schadebedrag betalen dat bedrag op de betalingsverplichting van verdachte in mindering wordt gebracht.
+
+Dit vonnis is gewezen door mr. T.P.E.E. van Groeningen (voorzitter), mr. M. Rietveld en mr. A. van Veldhuizen, rechters, in tegenwoordigheid van mr. M. van Gameren en mr. E.C. van Geemen, griffiers, en uitgesproken ter openbare terechtzitting van deze rechtbank op 25 juni 2026.
+
+Mrs. Van Gameren en Van Geemen zijn buiten staat dit vonnis te ondertekenen.
+
+Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant 6] van de politie Eenheid Oost-Nederland opgemaakte proces-verbaal, dossiernummer PL0600-2025511830, gesloten op 20 februari 2026 en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.
+
+Proces-verbaal van aangifte [aangever 1] , p. 85-87.
+
+Proces-verbaal van bevindingen, p. 126.
+
+Proces-verbaal van bevindingen, p. 161.
+
+Proces-verbaal van bevindingen, p. 194-195.
+
+Proces-verbaal van verhoor verdachte [medeverdachte 1] , p. 60-65.
+
+Proces-verbaal van verhoor verdachte [medeverdachte 2] , p. 28 en 32-34.
+
+Verklaring van verdachte afgelegd ter terechtzitting van 11 juni 2026.
+
+Verklaring van verdachte afgelegd bij de rechter-commissaris, 24 oktober 2025.
+
+Proces-verbaal van aangifte [aangever 6] , p. 95.
+
+Proces-verbaal van bevindingen, p. 192-193.
+
+Proces-verbaal forensisch onderzoek plaats delict, p. 268.
+
+Proces-verbaal van aangifte [aangever 2] , p. 90.
+
+Proces-verbaal van aangifte [aangever 3] , p. 101-102.
+
+Proces-verbaal van bevindingen, p. 129-130.
+
+Proces-verbaal van bevindingen, p. 131 en proces-verbaal van bevindingen, p. 186.
