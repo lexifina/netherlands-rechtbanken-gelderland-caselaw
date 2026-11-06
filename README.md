@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): gelderland
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Gelderland (with the former Rechtbanken Arnhem and Zutphen), Netherlands, which global-law reads at `netherlands/rechtbanken-gelderland/caselaw/`.
+
 Every decision of the rechtbanken (district courts): gelderland that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 34,975 decisions from 1995-01-06 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-gelderland/caselaw`.
